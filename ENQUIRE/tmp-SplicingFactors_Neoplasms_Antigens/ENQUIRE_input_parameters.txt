@@ -1,0 +1,10 @@
+wd=/Users/surya/Documents/GITHUB-REPOSITORIES/ENQUIRE/
+tag=SplicingFactors_Neoplasms_Antigens
+ncores=6
+K=3
+A=2
+thr=1
+comb=4
+to_py=pmid-ferroptosis_ImmuneSystem.txt
+etype=all
+rscript= --no-environ

@@ -1,0 +1,10 @@
+wd=/Users/surya/Documents/GITHUB-REPOSITORIES/ENQUIRE/
+tag=ICI_and_Colitis
+ncores=6
+K=3
+A=3
+thr=1
+comb=4
+to_py=pmid-ICI_and_Colitis.txt
+etype=all
+rscript= --no-environ
