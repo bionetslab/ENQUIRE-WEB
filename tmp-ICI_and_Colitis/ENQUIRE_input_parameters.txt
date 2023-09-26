@@ -1,0 +1,10 @@
+wd=/home/surya/Documents/GitHub/ENQUIRE-WEB/
+tag=ICI_and_Colitis
+ncores=6
+K=3
+A=3
+thr=1
+comb=4
+to_py=/home/surya/Documents/GitHub/ENQUIRE-WEB/tmp-ICI_and_Colitis/efetch_inputs/pmid-ICI_and_Colitis.txt
+etype=all
+rscript=/home/surya/anaconda3/envs/ENQUIRE/bin/Rscript --no-environ
