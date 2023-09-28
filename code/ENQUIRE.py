@@ -138,10 +138,10 @@ def run(tag,to_py,thr=1,wd="os.getcwd()",comb=4,A=2,K=3,etype='all',ncores=6):
 # print(output_)
 
 
-# wd, stdout, stderr, ENQRES=run('SplicingFactors_Neoplasms_Antigens', 'pmid-ferroptosis_ImmuneSystem.txt',      1,     "/home/surya/Documents/GitHub/ENQUIRE-WEB/",     4,2,3,"all",6)
-# stdout.to_csv('stdout.txt')
-# stderr.to_csv('stderr.txt')
-# ENQRES.to_csv('ENQRES.txt')
+wd, stdout, stderr, ENQRES=run('SplicingFactors_Neoplasms_Antigens', 'pmid-ferroptosis_ImmuneSystem.txt',      1,     "/Users/surya/Documents/GITHUB-REPOSITORIES/ENQUIRE/",     4,2,3,"all",6)
+stdout.to_csv('stdout.txt')
+stderr.to_csv('stderr.txt')
+ENQRES.to_csv('ENQRES.txt')
 
 
 

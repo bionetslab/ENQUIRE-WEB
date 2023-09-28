@@ -18,7 +18,7 @@ from ENQUIRE import run
 # ------
 
 # output_=ENQUIRE.run('SplicingFactors_Neoplasms_Antigens', 'pmid-ferroptosis_ImmuneSystem.txt',      1,     "/Users/surya/Documents/GITHUB-REPOSITORIES/ENQUIRE/",     4,2,3,"all",6)
-output_=run('SplicingFactors_Neoplasms_Antigens', '/home/surya/Documents/GitHub/ENQUIRE-WEB/input/test_input/pmid-ferroptosis_ImmuneSystem.txt',      1,     "/home/surya/Documents/GitHub/ENQUIRE-WEB/",     4,2,3,"all",6)
+output_=run('SplicingFactors_Neoplasms_Antigens', 'pmid-ferroptosis_ImmuneSystem.txt',      1,     "/Users/surya/Documents/GITHUB-REPOSITORIES/ENQUIRE/",     4,2,3,"all",6)
 
 # ===================================
 
