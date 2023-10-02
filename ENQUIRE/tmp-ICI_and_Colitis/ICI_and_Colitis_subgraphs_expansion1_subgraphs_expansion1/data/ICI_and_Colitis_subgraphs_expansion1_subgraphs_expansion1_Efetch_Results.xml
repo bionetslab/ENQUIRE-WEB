@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PubmedArticleSet>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">36591847</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>01</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>01</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2284-0729</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>24</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European review for medical and pharmacological sciences</Title>
+          <ISOAbbreviation>Eur Rev Med Pharmacol Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Fecal calprotectin - a valuable predictor of microscopic colitis.</ArticleTitle>
+        <Pagination>
+          <StartPage>9382</StartPage>
+          <EndPage>9392</EndPage>
+          <MedlinePgn>9382-9392</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.26355/eurrev_202212_30689</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">30689</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">Microscopic colitis (MC) has been of major concern worldwide due to its relapsing and remitting nature of chronic diarrhea. Quality of life of patients suffering from this disease is quite debilitating.</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS">In order to understand the role and importance of fecal calprotectin (FC) we performed a statistical analysis on the patients suffering from chronic diarrhea and admitted to our hospital from 2014 to 2020, and who were prescribed Loperamide (Imodium) or Budesonide or a combination of both and had undergone FC detection test.</AbstractText>
+          <AbstractText Label="RESULTS">FC was found to be significantly correlated to the age, alcohol consumption and beta blocker use. A high level of the FC concentrations increases the chances of having flare-ups of diarrhea episodes making the quality of life of such patients worse.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">FC concentrations should be monitored frequently and precautionary measures to avoid a relapse should be aimed. Measures to improve quality of life, should be of prime concern. In-depth research is required to better understand MC and to find better treatment options which can be used on a long-term basis, instead of anti-motility drugs which are able to control the acute episodes, but when discontinued result in an increased tendency to have relapses.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ardelean</LastName>
+            <ForeName>M V</ForeName>
+            <Initials>MV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Internal Medicine I - Medical Semiology I, Advanced Research Center for Cardiovascular Pathology and Haemostaseology, Victor Babes University of Medicine and Pharmacy, Timisoara, Romania. daniel.duda-seiman@umft.ro.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kundnani</LastName>
+            <ForeName>N R</ForeName>
+            <Initials>NR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sharma</LastName>
+            <ForeName>A</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dumitru</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buzas</LastName>
+            <ForeName>R</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rosca</LastName>
+            <ForeName>C I</ForeName>
+            <Initials>CI</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dahdal</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ottman</LastName>
+            <ForeName>N</ForeName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ardelean</LastName>
+            <ForeName>O F</ForeName>
+            <Initials>OF</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Daniel-Marius</LastName>
+            <ForeName>D-S</ForeName>
+            <Initials>DS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stelian</LastName>
+            <ForeName>M I</ForeName>
+            <Initials>MI</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lighezan</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Eur Rev Med Pharmacol Sci</MedlineTA>
+        <NlmUniqueID>9717360</NlmUniqueID>
+        <ISSNLinking>1128-3602</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D039841">Leukocyte L1 Antigen Complex</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003093" MajorTopicYN="Y">Colitis, Ulcerative</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D039841" MajorTopicYN="N">Leukocyte L1 Antigen Complex</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003967" MajorTopicYN="N">Diarrhea</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D046728" MajorTopicYN="Y">Colitis, Microscopic</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005243" MajorTopicYN="N">Feces</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012008" MajorTopicYN="N">Recurrence</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>2</Day>
+          <Hour>5</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36591847</ArticleId>
+        <ArticleId IdType="doi">10.26355/eurrev_202212_30689</ArticleId>
+        <ArticleId IdType="pii">30689</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">21694533</PMID>
+      <DateCompleted>
+        <Year>2011</Year>
+        <Month>10</Month>
+        <Day>31</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1536-4801</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>53</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2011</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of pediatric gastroenterology and nutrition</Title>
+          <ISOAbbreviation>J Pediatr Gastroenterol Nutr</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Leukocytapheresis in pediatric patients with ulcerative colitis.</ArticleTitle>
+        <Pagination>
+          <StartPage>34</StartPage>
+          <EndPage>39</EndPage>
+          <MedlinePgn>34-9</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/MPG.0b013e31821058bc</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Leukocytapheresis (LCAP) is a nonpharmacologic therapy that has recently been used to treat ulcerative colitis (UC). This multicenter open-label study prospectively assessed the efficacy and safety of LCAP in pediatric patients with UC.</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Twenty-three patients ages 8 to 16 years with moderate (n = 19) to severe (n = 4) steroid-resistant UC were enrolled. One of 2 LCAP columns with different volumes (model EX and the half-volume model EI) was selected, according to body weight. LCAP was performed once per week for 5 consecutive weeks. Clinical and laboratory data were collected at predetermined time points. The primary endpoint was decreased stool frequency/hematochezia score, and secondary endpoints were clinical, laboratory, and endoscopic improvements.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The stool frequency/hematochezia score decreased significantly from 4.5 &#xb1; 1.2 before treatment to 1.6 &#xb1; 1.9 after the fifth treatment. Clinical parameters, including stool frequency, presence of visible blood, abdominal pain, and body temperature, were significantly improved. Fecal calprotectin decreased significantly. Endoscopic findings evaluated using Matts score also improved (P &lt; 0.01). The steroid dose decreased from 1.1 &#xb1; 0.4 mg/kg before treatment to 0.8 &#xb1; 0.5 mg/kg after treatment. There were no significant differences in changes between the EX and EI columns. The incidence of adverse effects was 61%, although none was serious. The most common adverse effects were decreased hematocrit and hemoglobin concentration.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The present study showed that LCAP was well tolerated in children with UC, mostly moderate, and was as effective as in adults. The types of pediatric patients best suited to LCAP remain to be determined.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tomomasa</LastName>
+            <ForeName>Takeshi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Gunma University Graduate School of Medicine, Gunma, Japan. tomomasa@gunma-u.ac.jp</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tajiri</LastName>
+            <ForeName>Hitoshi</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kagimoto</LastName>
+            <ForeName>Seiichi</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shimizu</LastName>
+            <ForeName>Toshiaki</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoden</LastName>
+            <ForeName>Atsushi</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ushijima</LastName>
+            <ForeName>Kosuke</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uchida</LastName>
+            <ForeName>Keiichi</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaneko</LastName>
+            <ForeName>Hiroaki</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abukawa</LastName>
+            <ForeName>Daiki</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Konno</LastName>
+            <ForeName>Mutsuko</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Maisawa</LastName>
+            <ForeName>Shun-ichi</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kohsaka</LastName>
+            <ForeName>Takao</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kobayashi</LastName>
+            <ForeName>Akio</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>Japanese Study Group for Pediatric Ulcerative Colitis</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Pediatr Gastroenterol Nutr</MedlineTA>
+        <NlmUniqueID>8211545</NlmUniqueID>
+        <ISSNLinking>0277-2116</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D005938">Glucocorticoids</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D039841">Leukocyte L1 Antigen Complex</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9PHQ9Y1OLM</RegistryNumber>
+          <NameOfSubstance UI="D011239">Prednisolone</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <SupplMeshList>
+        <SupplMeshName Type="Disease" UI="C536315">Pediatric ulcerative colitis</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015746" MajorTopicYN="N">Abdominal Pain</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001835" MajorTopicYN="N">Body Weight</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003093" MajorTopicYN="N">Colitis, Ulcerative</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003967" MajorTopicYN="N">Diarrhea</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016903" MajorTopicYN="N">Drug Monitoring</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005243" MajorTopicYN="N">Feces</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006471" MajorTopicYN="N">Gastrointestinal Hemorrhage</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005938" MajorTopicYN="N">Glucocorticoids</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007165" MajorTopicYN="Y">Immunosuppression Therapy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007937" MajorTopicYN="Y">Leukapheresis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D039841" MajorTopicYN="N">Leukocyte L1 Antigen Complex</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011239" MajorTopicYN="N">Prednisolone</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2011</Year>
+          <Month>6</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2011</Year>
+          <Month>6</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2011</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">21694533</ArticleId>
+        <ArticleId IdType="doi">10.1097/MPG.0b013e31821058bc</ArticleId>
+        <ArticleId IdType="pii">00005176-201107000-00005</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

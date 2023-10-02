@@ -1,0 +1,12 @@
+entity	category	node_weight	occurrence
+pneumonia/diagnostic imaging	MESH	0.010752688172043	1
+colitis/diagnostic imaging	MESH	0.010752688172043	1
+pancreatitis/diagnostic imaging	MESH	0.010752688172043	1
+pericarditis/diagnostic imaging	MESH	0.010752688172043	1
+encephalitis/diagnostic imaging	MESH	0.010752688172043	1
+neoplasms/diagnostic imaging	MESH	0.021505376344086	2
+thyroiditis/diagnostic imaging	MESH	0.010752688172043	1
+adrenal gland diseases/diagnostic imaging	MESH	0.010752688172043	1
+myocarditis/diagnostic imaging	MESH	0.010752688172043	1
+sarcoidosis/diagnostic imaging	MESH	0.010752688172043	1
+hepatitis/diagnostic imaging	MESH	0.010752688172043	1

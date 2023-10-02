@@ -1,0 +1,256 @@
+entity	category	node_weight	occurrence
+abdominal pain/chemically induced	MESH	0.010752688172043	1
+antineoplastic agents immunological/therapeutic use	MESH	0.032258064516129	3
+disease progression	MESH	0.010752688172043	1
+enterocolitis/chemically induced	MESH	0.021505376344086	2
+gastritis/complications	MESH	0.010752688172043	1
+glucocorticoids/therapeutic use	MESH	0.010752688172043	1
+neoplasms/drug therapy	MESH	0.1290322580645161	12
+ACAD8	GENE	0.021505376344086	2
+carcinoma non-small-cell lung/complications	MESH	0.010752688172043	1
+colon/drug effects	MESH	0.032258064516129	3
+CRP	GENE	0.010752688172043	1
+drug-related side effects and adverse reactions	MESH	0.021505376344086	2
+immune checkpoint inhibitors/pharmacology	MESH	0.043010752688172	4
+infliximab/administration & dosage	MESH	0.010752688172043	1
+melanoma/complications	MESH	0.032258064516129	3
+mesalamine/pharmacology	MESH	0.010752688172043	1
+protective agents/pharmacology	MESH	0.010752688172043	1
+trinitrobenzenesulfonic acid/adverse effects	MESH	0.010752688172043	1
+urothelium/drug effects	MESH	0.010752688172043	1
+adenocarcinoma of lung/drug therapy	MESH	0.010752688172043	1
+b7-h1 antigen/antagonists & inhibitors	MESH	0.032258064516129	3
+biomarkers/metabolism	MESH	0.010752688172043	1
+glycoproteins/metabolism	MESH	0.010752688172043	1
+adrenal cortex hormones/therapeutic use	MESH	0.032258064516129	3
+beclomethasone/adverse effects	MESH	0.010752688172043	1
+biological products/therapeutic use	MESH	0.010752688172043	1
+diarrhea/chemically induced	MESH	0.1505376344086021	14
+inflammation/drug therapy	MESH	0.021505376344086	2
+skin neoplasms/drug therapy	MESH	0.021505376344086	2
+SNCA	GENE	0.032258064516129	3
+TNF	GENE	0.032258064516129	3
+tumor necrosis factor inhibitors	MESH	0.010752688172043	1
+adrenal insufficiency/chemically induced	MESH	0.010752688172043	1
+angiogenesis inhibitors/therapeutic use	MESH	0.010752688172043	1
+axitinib/administration & dosage	MESH	0.010752688172043	1
+bevacizumab/administration & dosage	MESH	0.010752688172043	1
+carcinoma renal cell/drug therapy	MESH	0.021505376344086	2
+diabetes mellitus type 1/chemically induced	MESH	0.010752688172043	1
+exanthema/chemically induced	MESH	0.010752688172043	1
+fatigue/chemically induced	MESH	0.010752688172043	1
+hepatitis autoimmune/etiology	MESH	0.010752688172043	1
+hypophysitis/chemically induced	MESH	0.010752688172043	1
+ipilimumab/therapeutic use	MESH	0.032258064516129	3
+myasthenia gravis/chemically induced	MESH	0.010752688172043	1
+myocarditis/chemically induced	MESH	0.010752688172043	1
+nephritis/chemically induced	MESH	0.010752688172043	1
+nivolumab/therapeutic use	MESH	0.021505376344086	2
+pruritus/chemically induced	MESH	0.010752688172043	1
+AHR	GENE	0.010752688172043	1
+IL22	GENE	0.021505376344086	2
+tryptophan/pharmacology	MESH	0.010752688172043	1
+anti-bacterial agents/adverse effects	MESH	0.010752688172043	1
+clostridium infections/chemically induced	MESH	0.010752688172043	1
+escherichia coli infections/drug therapy	MESH	0.010752688172043	1
+virus diseases/etiology	MESH	0.010752688172043	1
+anti-bacterial agents/pharmacology	MESH	0.010752688172043	1
+antineoplastic agents immunological/adverse effects	MESH	0.075268817204301	7
+colitis/etiology	MESH	0.021505376344086	2
+dysbiosis/etiology	MESH	0.010752688172043	1
+host microbial interactions/drug effects	MESH	0.010752688172043	1
+metabolome/drug effects	MESH	0.010752688172043	1
+neoplasms/complications	MESH	0.032258064516129	3
+antibodies monoclonal humanized	MESH	0.010752688172043	1
+endometrial neoplasms/drug therapy	MESH	0.010752688172043	1
+neoplasm recurrence local/drug therapy	MESH	0.010752688172043	1
+antibodies monoclonal humanized/administration & dosage	MESH	0.010752688172043	1
+dose-response relationship drug	MESH	0.021505376344086	2
+drugs investigational/administration & dosage	MESH	0.010752688172043	1
+immune checkpoint inhibitors/administration & dosage	MESH	0.043010752688172	4
+neoplasms/diagnosis	MESH	0.010752688172043	1
+pneumonia/chemically induced	MESH	0.032258064516129	3
+antibodies monoclonal humanized/therapeutic use	MESH	0.010752688172043	1
+infliximab/adverse effects	MESH	0.043010752688172	4
+steroids/adverse effects	MESH	0.010752688172043	1
+antibodies monoclonal/adverse effects	MESH	0.010752688172043	1
+ctla-4 antigen/antagonists & inhibitors	MESH	0.032258064516129	3
+lymphocytes/drug effects	MESH	0.010752688172043	1
+neutrophils/drug effects	MESH	0.010752688172043	1
+vitamin d/administration & dosage	MESH	0.010752688172043	1
+colitis ulcerative/chemically induced	MESH	0.010752688172043	1
+cytomegalovirus infections/diagnosis	MESH	0.010752688172043	1
+hashimoto disease/chemically induced	MESH	0.010752688172043	1
+immune checkpoint inhibitors/adverse effects	MESH	0.5698924731182796	53
+paclitaxel/therapeutic use	MESH	0.010752688172043	1
+programmed cell death 1 receptor/antagonists & inhibitors	MESH	0.086021505376344	8
+squamous cell carcinoma of head and neck/drug therapy	MESH	0.010752688172043	1
+tongue neoplasms/drug therapy	MESH	0.010752688172043	1
+vitamin d	MESH	0.010752688172043	1
+APC	GENE	0.021505376344086	2
+ARG1	GENE	0.010752688172043	1
+azoxymethane/adverse effects	MESH	0.010752688172043	1
+b7-h1 antigen/genetics	MESH	0.010752688172043	1
+colonic neoplasms/drug therapy	MESH	0.010752688172043	1
+colorectal neoplasms/drug therapy	MESH	0.010752688172043	1
+dextran sulfate/adverse effects	MESH	0.010752688172043	1
+gene expression regulation neoplastic	MESH	0.010752688172043	1
+ht29 cells	MESH	0.010752688172043	1
+interleukin-17/genetics	MESH	0.010752688172043	1
+lymphocytes tumor-infiltrating/metabolism	MESH	0.010752688172043	1
+micrornas/genetics	MESH	0.010752688172043	1
+MIR15B	GENE	0.010752688172043	1
+myeloid-derived suppressor cells/metabolism	MESH	0.010752688172043	1
+NRF1	GENE	0.010752688172043	1
+PARP1	GENE	0.010752688172043	1
+phthalazines/administration & dosage	MESH	0.010752688172043	1
+piperazines/administration & dosage	MESH	0.010752688172043	1
+poly(adp-ribose) polymerase inhibitors/administration & dosage	MESH	0.010752688172043	1
+t-lymphocytes cytotoxic/immunology	MESH	0.010752688172043	1
+TIPARP	GENE	0.010752688172043	1
+tumor microenvironment/drug effects	MESH	0.010752688172043	1
+cell line tumor	MESH	0.021505376344086	2
+drug synergism	MESH	0.021505376344086	2
+arthritis/chemically induced	MESH	0.010752688172043	1
+CHI3L1	GENE	0.010752688172043	1
+CXCL8	GENE	0.010752688172043	1
+glucocorticoids	MESH	0.010752688172043	1
+IL17A	GENE	0.021505376344086	2
+IL6	GENE	0.021505376344086	2
+CD274	GENE	0.1612903225806451	15
+colitis/epidemiology	MESH	0.010752688172043	1
+b7-h1 antigen/metabolism	MESH	0.010752688172043	1
+colitis/diagnosis	MESH	0.021505376344086	2
+gastrointestinal tract/metabolism	MESH	0.010752688172043	1
+inflammatory bowel diseases	MESH	0.021505376344086	2
+programmed cell death 1 receptor/metabolism	MESH	0.010752688172043	1
+biomarkers/analysis	MESH	0.010752688172043	1
+colitis/drug therapy	MESH	0.032258064516129	3
+feces/chemistry	MESH	0.010752688172043	1
+leukocyte l1 antigen complex/analysis	MESH	0.010752688172043	1
+BTLA	GENE	0.010752688172043	1
+CD28	GENE	0.010752688172043	1
+CSF2	GENE	0.010752688172043	1
+gastrointestinal neoplasms/drug therapy	MESH	0.010752688172043	1
+HAVCR2	GENE	0.010752688172043	1
+IL15	GENE	0.010752688172043	1
+IL17C	GENE	0.010752688172043	1
+IL21	GENE	0.010752688172043	1
+IL4	GENE	0.010752688172043	1
+immune system diseases/drug therapy	MESH	0.010752688172043	1
+LIF	GENE	0.010752688172043	1
+butyrates/metabolism	MESH	0.010752688172043	1
+carcinoma non-small-cell lung	MESH	0.010752688172043	1
+cd8-positive t-lymphocytes	MESH	0.010752688172043	1
+immune checkpoint inhibitors	MESH	0.3225806451612903	30
+carcinoma non-small-cell lung/drug therapy	MESH	0.021505376344086	2
+inflammatory bowel diseases/drug therapy	MESH	0.032258064516129	3
+proton pump inhibitors/adverse effects	MESH	0.010752688172043	1
+CTLA4	GENE	0.1290322580645161	12
+PDCD1	GENE	0.2688172043010752	25
+CD4	GENE	0.021505376344086	2
+CD68	GENE	0.021505376344086	2
+cd8-positive t-lymphocytes/drug effects	MESH	0.021505376344086	2
+CD8A	GENE	0.053763440860215	5
+colitis ulcerative/immunology	MESH	0.021505376344086	2
+crohn disease/immunology	MESH	0.010752688172043	1
+graft vs host disease/immunology	MESH	0.010752688172043	1
+macrophages/drug effects	MESH	0.010752688172043	1
+phenotype	MESH	0.021505376344086	2
+cd8-positive t-lymphocytes/cytology	MESH	0.010752688172043	1
+chemokines/metabolism	MESH	0.010752688172043	1
+ctla-4 antigen/immunology	MESH	0.010752688172043	1
+gene expression regulation/genetics	MESH	0.010752688172043	1
+melanoma/genetics	MESH	0.010752688172043	1
+multigene family	MESH	0.010752688172043	1
+myeloid cells/cytology	MESH	0.010752688172043	1
+receptors antigen t-cell/genetics	MESH	0.010752688172043	1
+receptors cxcr3/genetics	MESH	0.010752688172043	1
+receptors cxcr6/genetics	MESH	0.010752688172043	1
+t-lymphocytes regulatory/cytology	MESH	0.010752688172043	1
+immunologic memory/drug effects	MESH	0.010752688172043	1
+interferon-gamma/metabolism	MESH	0.010752688172043	1
+piperidines/therapeutic use	MESH	0.021505376344086	2
+pyrimidines/therapeutic use	MESH	0.021505376344086	2
+cd8-positive t-lymphocytes/immunology	MESH	0.010752688172043	1
+cytotoxicity immunologic	MESH	0.010752688172043	1
+drug-related side effects and adverse reactions/prevention & control	MESH	0.010752688172043	1
+growth inhibitors/therapeutic use	MESH	0.010752688172043	1
+immune checkpoint inhibitors/therapeutic use	MESH	0.021505376344086	2
+lymphocytes tumor-infiltrating/immunology	MESH	0.010752688172043	1
+MTOR	GENE	0.010752688172043	1
+phosphatidylinositol 3-kinases/metabolism	MESH	0.010752688172043	1
+sirolimus/therapeutic use	MESH	0.010752688172043	1
+chemical and drug induced liver injury/diagnosis	MESH	0.010752688172043	1
+colitis	MESH	0.043010752688172	4
+diarrhea	MESH	0.021505376344086	2
+ligands	MESH	0.010752688172043	1
+neoplasms	MESH	0.043010752688172	4
+pneumonia	MESH	0.010752688172043	1
+recurrence	MESH	0.010752688172043	1
+colitis collagenous/drug therapy	MESH	0.010752688172043	1
+skin neoplasms/complications	MESH	0.010752688172043	1
+colitis microscopic/chemically induced	MESH	0.021505376344086	2
+inflammatory bowel diseases/complications	MESH	0.021505376344086	2
+colitis ulcerative	MESH	0.010752688172043	1
+nivolumab/adverse effects	MESH	0.1290322580645161	12
+colitis ulcerative/drug therapy	MESH	0.021505376344086	2
+crohn disease/drug therapy	MESH	0.010752688172043	1
+interleukin-12/antagonists & inhibitors	MESH	0.010752688172043	1
+interleukin-23/antagonists & inhibitors	MESH	0.010752688172043	1
+ustekinumab/therapeutic use	MESH	0.010752688172043	1
+colitis ulcerative/physiopathology	MESH	0.010752688172043	1
+crohn disease/physiopathology	MESH	0.010752688172043	1
+colitis/chemically induced	MESH	0.7419354838709677	69
+ipilimumab/adverse effects	MESH	0.0967741935483871	9
+disease susceptibility	MESH	0.010752688172043	1
+postoperative complications	MESH	0.010752688172043	1
+diarrhea/therapy	MESH	0.010752688172043	1
+neoplasms/therapy	MESH	0.010752688172043	1
+colitis/therapy	MESH	0.010752688172043	1
+immunologic factors	MESH	0.021505376344086	2
+colon/diagnostic imaging	MESH	0.010752688172043	1
+drug resistance/immunology	MESH	0.010752688172043	1
+glucocorticoids/pharmacology	MESH	0.010752688172043	1
+immunosuppressive agents/pharmacology	MESH	0.010752688172043	1
+intestinal mucosa/diagnostic imaging	MESH	0.010752688172043	1
+melanoma/drug therapy	MESH	0.053763440860215	5
+mucositis/chemically induced	MESH	0.010752688172043	1
+colon/immunology	MESH	0.021505376344086	2
+intestinal mucosa/immunology	MESH	0.010752688172043	1
+t-lymphocyte subsets/immunology	MESH	0.010752688172043	1
+CXCL10	GENE	0.010752688172043	1
+CXCL9	GENE	0.010752688172043	1
+dermatitis	MESH	0.010752688172043	1
+psoriasis	MESH	0.010752688172043	1
+rna	MESH	0.010752688172043	1
+TCIM	GENE	0.010752688172043	1
+cytomegalovirus infections/complications	MESH	0.010752688172043	1
+feces	MESH	0.010752688172043	1
+LTF	GENE	0.010752688172043	1
+steroids/therapeutic use	MESH	0.021505376344086	2
+drug-related side effects and adverse reactions/diagnosis	MESH	0.010752688172043	1
+esophagitis	MESH	0.010752688172043	1
+ulcer/chemically induced	MESH	0.010752688172043	1
+hepatitis/diagnosis	MESH	0.010752688172043	1
+lung neoplasms	MESH	0.010752688172043	1
+prednisolone/therapeutic use	MESH	0.010752688172043	1
+protein kinase inhibitors/therapeutic use	MESH	0.010752688172043	1
+lung neoplasms/drug therapy	MESH	0.021505376344086	2
+oropharyngeal neoplasms/drug therapy	MESH	0.010752688172043	1
+mycophenolic acid	MESH	0.0106382978723404	1
+gastritis/chemically induced	MESH	0.0106382978723404	1
+anti-bacterial agents	MESH	0.0106382978723404	1
+adrenal cortex hormones/pharmacology	MESH	0.0106382978723404	1
+antineoplastic agents/adverse effects	MESH	0.0106382978723404	1
+intestinal mucosa/chemistry	MESH	0.0106382978723404	1
+leukemia lymphocytic chronic b-cell/drug therapy	MESH	0.0106382978723404	1
+class i phosphatidylinositol 3-kinases/antagonists & inhibitors	MESH	0.0106382978723404	1
+purines/adverse effects	MESH	0.0106382978723404	1
+colon/chemistry	MESH	0.0106382978723404	1
+lymphocytosis/chemically induced	MESH	0.0106382978723404	1
+protein kinase inhibitors/adverse effects	MESH	0.0106382978723404	1
+apoptosis/drug effects	MESH	0.0106382978723404	1
+quinazolinones/adverse effects	MESH	0.0106382978723404	1
+lymphoma non-hodgkin/drug therapy	MESH	0.0106382978723404	1
+PIK3CD	GENE	0.0106382978723404	1

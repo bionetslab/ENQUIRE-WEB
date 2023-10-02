@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PubmedArticleSet>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">26448188</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>02</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1532-0979</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>39</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The American journal of surgical pathology</Title>
+          <ISOAbbreviation>Am J Surg Pathol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Idelalisib-associated Colitis: Histologic Findings in 14 Patients.</ArticleTitle>
+        <Pagination>
+          <StartPage>1661</StartPage>
+          <EndPage>1667</EndPage>
+          <MedlinePgn>1661-7</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/PAS.0000000000000522</ELocationID>
+        <Abstract>
+          <AbstractText>Idelalisib is an inhibitor of the PI3Kδ isoform approved for treatment of patients with relapsed chronic lymphocytic leukemia and indolent non-Hodgkin lymphoma. Many patients develop gastrointestinal symptoms during idelalisib therapy; however, the pathologic effects of this drug have not been characterized. We identified 50 patients who received at least 3 months of idelalisib therapy. Clinical findings and symptoms were noted for each patient, and endoscopic findings were recorded for those who underwent colonoscopic examination. Hematoxylin and eosin-stained sections from colonic biopsy samples were evaluated for histologic patterns of injury. Twenty-three (46%) patients experienced diarrhea during treatment with idelalisib, including 8 with severe symptoms (≥7 stools/d above baseline and/or requiring hospitalization). Fourteen patients underwent colonoscopic examination with mucosal biopsy. Twelve (86%) of these had colitis characterized by intraepithelial lymphocytosis, crypt cell apoptosis, and neutrophilic infiltration of crypt epithelium. Eleven patients had symptoms severe enough to warrant drug withdrawal, including 9 who were also treated with corticosteroids. Idelalisib commonly causes diarrheal symptoms in patients undergoing therapy for B-cell neoplasia, which may be severe in nearly 20% of patients. Characteristic histologic features include the combination of intraepithelial lymphocytosis and crypt cell apoptosis, often accompanied by neutrophils. Discontinuation of the drug results in symptomatic improvement and resolution of histologic changes.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Weidner</LastName>
+            <ForeName>Anna-Sophie</ForeName>
+            <Initials>AS</Initials>
+            <AffiliationInfo>
+              <Affiliation>*Department of Pathology and Laboratory Medicine †Division of Hematology and Medical Oncology, Weill Cornell Medical College, New York, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panarelli</LastName>
+            <ForeName>Nicole C</ForeName>
+            <Initials>NC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Geyer</LastName>
+            <ForeName>Julia T</ForeName>
+            <Initials>JT</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhavsar</LastName>
+            <ForeName>Erica B</ForeName>
+            <Initials>EB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Furman</LastName>
+            <ForeName>Richard R</ForeName>
+            <Initials>RR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leonard</LastName>
+            <ForeName>John P</ForeName>
+            <Initials>JP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jessurun</LastName>
+            <ForeName>Jose</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yantiss</LastName>
+            <ForeName>Rhonda K</ForeName>
+            <Initials>RK</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Am J Surg Pathol</MedlineTA>
+        <NlmUniqueID>7707904</NlmUniqueID>
+        <ISSNLinking>0147-5185</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000305">Adrenal Cortex Hormones</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011687">Purines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D052999">Quinazolinones</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.137</RegistryNumber>
+          <NameOfSubstance UI="D058534">Class I Phosphatidylinositol 3-Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.137</RegistryNumber>
+          <NameOfSubstance UI="C486018">PIK3CD protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>YG57I8T5M0</RegistryNumber>
+          <NameOfSubstance UI="C552946">idelalisib</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000305" MajorTopicYN="N">Adrenal Cortex Hormones</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058534" MajorTopicYN="N">Class I Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003092" MajorTopicYN="N">Colitis</DescriptorName>
+          <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003106" MajorTopicYN="N">Colon</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003113" MajorTopicYN="N">Colonoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003967" MajorTopicYN="N">Diarrhea</DescriptorName>
+          <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007413" MajorTopicYN="N">Intestinal Mucosa</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015451" MajorTopicYN="N">Leukemia, Lymphocytic, Chronic, B-Cell</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008218" MajorTopicYN="N">Lymphocytosis</DescriptorName>
+          <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008228" MajorTopicYN="N">Lymphoma, Non-Hodgkin</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058990" MajorTopicYN="N">Molecular Targeted Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D047428" MajorTopicYN="N">Protein Kinase Inhibitors</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011687" MajorTopicYN="N">Purines</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D052999" MajorTopicYN="N">Quinazolinones</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012008" MajorTopicYN="N">Recurrence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26448188</ArticleId>
+        <ArticleId IdType="doi">10.1097/PAS.0000000000000522</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

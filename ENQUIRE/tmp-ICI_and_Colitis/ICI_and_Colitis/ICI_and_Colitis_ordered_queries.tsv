@@ -1,0 +1,50 @@
+c1	c2	weight	query
+1	4	2.82387587619007	abdominal pain/chemically induced_antineoplastic agents immunological/therapeutic use_disease progression_neoplasms/drug therapy
+1	4	2.59818021820177	abdominal pain/chemically induced_antineoplastic agents immunological/therapeutic use_enterocolitis/chemically induced_neoplasms/drug therapy
+10	11	2.0946139037208	APC_ARG1_azoxymethane/adverse effects_colonic neoplasms/drug therapy
+10	11	1.85001598432612	APC_ARG1_b7-h1 antigen/genetics_colorectal neoplasms/drug therapy
+10	12	2.67035553337504	arthritis/chemically induced_CHI3L1_CXCL8_IL17A
+10	12	2.07591162372313	arthritis/chemically induced_CHI3L1_IL17A_IL6
+10	2	2.06681539782786	APC_b7-h1 antigen/genetics_colorectal neoplasms/drug therapy_immune checkpoint inhibitors/administration & dosage
+11	3	2.50303075375377	anti-bacterial agents/pharmacology_colitis/etiology_dysbiosis/etiology_host microbial interactions/drug effects
+11	3	2.42415894447157	anti-bacterial agents/pharmacology_colitis/etiology_dysbiosis/etiology_neoplasms/complications
+12	2	2.49528756156688	AHR_IL22_immune checkpoint inhibitors/pharmacology_tryptophan/pharmacology
+12	2	2.34905992863601	AHR_BTLA_IL22_tryptophan/pharmacology
+12	6	2.68088064748231	arthritis/chemically induced_CHI3L1_CXCL8_nivolumab/therapeutic use
+12	6	2.0864367378304	arthritis/chemically induced_CHI3L1_IL6_nivolumab/therapeutic use
+13	15	3.26047658873325	cd8-positive t-lymphocytes/cytology_colitis/drug therapy_diarrhea/therapy_neoplasms/therapy
+13	15	2.92660457091024	cd8-positive t-lymphocytes/cytology_chemokines/metabolism_colitis/drug therapy_diarrhea/therapy
+13	2	4.03255584566493	b7-h1 antigen/metabolism_gastrointestinal tract/metabolism_inflammatory bowel diseases_recurrence
+13	2	3.90244088585989	colitis_inflammatory bowel diseases_ligands_pneumonia
+13	3	3.90599657002268	colitis_CTLA4_ligands_pneumonia
+13	3	3.44287482464145	colitis_CTLA4_diarrhea_ligands
+13	4	71.2625194434591	colitis/chemically induced_immune checkpoint inhibitors_immune checkpoint inhibitors/adverse effects_neoplasms/drug therapy
+13	4	67.5965119206757	colitis/chemically induced_immune checkpoint inhibitors_immune checkpoint inhibitors/adverse effects_nivolumab/adverse effects
+13	6	3.83157816965451	colitis_inflammatory bowel diseases/drug therapy_ligands_pneumonia
+13	6	3.36845642427328	colitis_diarrhea_inflammatory bowel diseases/drug therapy_ligands
+13	9	4.76337425935937	antibodies monoclonal humanized/therapeutic use_infliximab/adverse effects_LTF_steroids/adverse effects
+13	9	4.30121307256291	colitis/therapy_immune checkpoint inhibitors_immunologic factors_TNF
+14	2	3.36904182106348	colon/drug effects_mesalamine/pharmacology_protective agents/pharmacology_trinitrobenzenesulfonic acid/adverse effects
+14	2	3.02817380108462	colon/drug effects_crohn disease/immunology_mesalamine/pharmacology_protective agents/pharmacology
+14	3	3.25788224976267	antineoplastic agents immunological/adverse effects_ctla-4 antigen/antagonists & inhibitors_immunologic memory/drug effects_programmed cell death 1 receptor/antagonists & inhibitors
+14	3	2.83225454137525	ctla-4 antigen/antagonists & inhibitors_CTLA4_immunologic memory/drug effects_programmed cell death 1 receptor/antagonists & inhibitors
+14	4	6.37625110213272	ipilimumab/adverse effects_nivolumab/adverse effects_protein kinase inhibitors/therapeutic use_pyrimidines/therapeutic use
+14	4	3.58036030386859	immunologic memory/drug effects_piperidines/therapeutic use_protein kinase inhibitors/therapeutic use_pyrimidines/therapeutic use
+14	6	3.21495309264405	CD4_CD68_CD8A_inflammatory bowel diseases/drug therapy
+14	6	2.79817550326857	CD4_CD68_crohn disease/immunology_inflammatory bowel diseases/drug therapy
+15	4	4.00376964777102	biomarkers/analysis_colitis/drug therapy_feces/chemistry_leukocyte l1 antigen complex/analysis
+15	4	3.94954221605064	biomarkers/analysis_colitis/drug therapy_diarrhea/chemically induced_neoplasms/drug therapy
+2	3	3.75560338861366	colitis collagenous/drug therapy_melanoma/complications_neutrophils/drug effects_skin neoplasms/complications
+2	3	3.26280788729517	antibodies monoclonal/adverse effects_colitis collagenous/drug therapy_melanoma/complications_neutrophils/drug effects
+2	4	47.917428699958	colitis/chemically induced_immune checkpoint inhibitors/adverse effects_neoplasms/drug therapy_tryptophan/pharmacology
+2	4	44.5369341013596	colitis/chemically induced_immune checkpoint inhibitors/adverse effects_nivolumab/adverse effects_postoperative complications
+2	6	4.0061676075105	carcinoma non-small-cell lung/drug therapy_ipilimumab/therapeutic use_pneumonia/chemically induced_proton pump inhibitors/adverse effects
+2	6	3.24133754158735	adrenal insufficiency/chemically induced_carcinoma non-small-cell lung/drug therapy_ipilimumab/therapeutic use_pneumonia/chemically induced
+2	9	1.96473146046845	drug-related side effects and adverse reactions_infliximab/adverse effects_melanoma/drug therapy_TNF
+2	9	1.91023830930929	carcinoma non-small-cell lung/complications_CRP_drug-related side effects and adverse reactions_infliximab/adverse effects
+3	4	6.67378171891855	antineoplastic agents immunological/adverse effects_ctla-4 antigen/antagonists & inhibitors_immune checkpoint inhibitors/adverse effects_programmed cell death 1 receptor/antagonists & inhibitors
+3	4	6.17507815112057	antineoplastic agents immunological/adverse effects_colitis ulcerative/chemically induced_immune checkpoint inhibitors/adverse effects_programmed cell death 1 receptor/antagonists & inhibitors
+3	6	24.9760015189889	CD274_CTLA4_inflammatory bowel diseases/drug therapy_PDCD1
+3	6	10.623981278797	ctla-4 antigen/antagonists & inhibitors_CTLA4_inflammatory bowel diseases/drug therapy_PDCD1
+4	9	4.06968030670822	adrenal cortex hormones/therapeutic use_beclomethasone/adverse effects_biological products/therapeutic use_tumor necrosis factor inhibitors
+4	9	3.87494174013288	adrenal cortex hormones/therapeutic use_beclomethasone/adverse effects_diarrhea/chemically induced_tumor necrosis factor inhibitors

@@ -1,0 +1,2336 @@
+escherichia coli infections/drug therapy	anti-bacterial agents/adverse effects	0.010752688172043012	34107499
+immune system diseases/drug therapy	IL6	0.021505376344086023	36159840
+protective agents/pharmacology	PDCD1	0.2688172043010753	33506015
+immune system diseases/drug therapy	LIF	0.010752688172043012	36159840
+immune system diseases/drug therapy	PDCD1	0.2688172043010753	36159840
+neoplasms	immune checkpoint inhibitors	0.38795986622073575	35842365
+neoplasms	immune checkpoint inhibitors	0.38795986622073575	32584703
+neoplasms	infliximab/adverse effects	0.1637508198518016	32584703
+adrenal cortex hormones/therapeutic use	SNCA	0.09467811291093199	32641348
+neoplasms	colitis	0.1637508198518016	35842365
+adrenal cortex hormones/therapeutic use	TNF	0.09467811291093199	32641348
+interleukin-17/genetics	micrornas/genetics	0.010752688172043012	33462141
+colitis ulcerative	immune checkpoint inhibitors	0.3225806451612903	33146440
+neoplasms	recurrence	0.04301075268817204	35842365
+neoplasms	diarrhea/chemically induced	0.4853981611344865	32584703
+interleukin-17/genetics	gene expression regulation neoplastic	0.010752688172043012	33462141
+interleukin-17/genetics	lymphocytes tumor-infiltrating/metabolism	0.010752688172043012	33462141
+diarrhea	neoplasms	0.08461898083216456	35842365
+neoplasms	colitis/chemically induced	0.7267635590216236	36389768
+neoplasms	colitis/chemically induced	0.7267635590216236	36189293
+neoplasms	colitis/chemically induced	0.7267635590216236	32584703
+colitis/therapy	immune checkpoint inhibitors	0.3225806451612903	33566423
+interleukin-17/genetics	t-lymphocytes cytotoxic/immunology	0.010752688172043012	33462141
+interleukin-17/genetics	tumor microenvironment/drug effects	0.010752688172043012	33462141
+diarrhea	immune checkpoint inhibitors	0.10168302945301544	35842365
+diarrhea	immune checkpoint inhibitors	0.10168302945301544	32780983
+drug-related side effects and adverse reactions/prevention & control	growth inhibitors/therapeutic use	0.010752688172043012	34987517
+neoplasms	inflammatory bowel diseases	0.08461898083216456	35842365
+interleukin-17/genetics	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33462141
+interleukin-17/genetics	ht29 cells	0.010752688172043012	33462141
+diarrhea	colitis	0.001402524544179523	35842365
+diarrhea	colitis	0.001402524544179523	32780983
+colitis/therapy	immunologic factors	0.021505376344086023	33566423
+interleukin-17/genetics	colitis/chemically induced	0.7419354838709677	33462141
+diarrhea	recurrence	0.021505376344086023	35842365
+interleukin-17/genetics	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+drug-related side effects and adverse reactions/prevention & control	phosphatidylinositol 3-kinases/metabolism	0.010752688172043012	34987517
+drug-related side effects and adverse reactions/prevention & control	antineoplastic agents immunological/therapeutic use	0.03225806451612904	34987517
+interleukin-17/genetics	b7-h1 antigen/genetics	0.010752688172043012	33462141
+drug-related side effects and adverse reactions/prevention & control	lymphocytes tumor-infiltrating/immunology	0.010752688172043012	34987517
+drug-related side effects and adverse reactions/prevention & control	colitis/etiology	0.021505376344086023	34987517
+drug-related side effects and adverse reactions/prevention & control	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	34987517
+drug-related side effects and adverse reactions/prevention & control	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34987517
+diarrhea	inflammatory bowel diseases	0.04277699859747545	35842365
+intestinal mucosa/diagnostic imaging	colon/diagnostic imaging	0.010752688172043012	32414860
+drug-related side effects and adverse reactions/prevention & control	cell line tumor	0.021505376344086023	34987517
+intestinal mucosa/diagnostic imaging	drug resistance/immunology	0.010752688172043012	32414860
+intestinal mucosa/diagnostic imaging	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32414860
+drug-related side effects and adverse reactions/prevention & control	cd8-positive t-lymphocytes/immunology	0.010752688172043012	34987517
+neoplasms	LTF	0.04301075268817204	32584703
+intestinal mucosa/diagnostic imaging	skin neoplasms/drug therapy	0.021505376344086023	32414860
+intestinal mucosa/diagnostic imaging	infliximab/adverse effects	0.04301075268817205	32414860
+nephritis/chemically induced	nivolumab/therapeutic use	0.021505376344086023	32130969
+drug-related side effects and adverse reactions/prevention & control	cytotoxicity immunologic	0.010752688172043012	34987517
+interleukin-17/genetics	APC	0.021505376344086023	33462141
+drug-related side effects and adverse reactions/prevention & control	CD8A	0.05376344086021506	34987517
+interleukin-17/genetics	CD274	0.16129032258064516	33462141
+carcinoma renal cell/drug therapy	nephritis/chemically induced	0.021505376344086023	32130969
+intestinal mucosa/diagnostic imaging	colitis/chemically induced	0.7419354838709677	32414860
+nephritis/chemically induced	diabetes mellitus type 1/chemically induced	0.010752688172043012	32130969
+interleukin-17/genetics	CD8A	0.05376344086021506	33462141
+carcinoma renal cell/drug therapy	nivolumab/therapeutic use	0.04277699859747545	32130969
+intestinal mucosa/diagnostic imaging	glucocorticoids/pharmacology	0.010752688172043012	32414860
+interleukin-17/genetics	IL17A	0.021505376344086023	33462141
+drug-related side effects and adverse reactions/prevention & control	MTOR	0.010752688172043012	34987517
+nephritis/chemically induced	exanthema/chemically induced	0.010752688172043012	32130969
+nephritis/chemically induced	bevacizumab/administration & dosage	0.010752688172043012	32130969
+carcinoma renal cell/drug therapy	diabetes mellitus type 1/chemically induced	0.021505376344086023	32130969
+drug-related side effects and adverse reactions/prevention & control	PDCD1	0.2688172043010753	34987517
+intestinal mucosa/diagnostic imaging	melanoma/drug therapy	0.05376344086021506	32414860
+interleukin-17/genetics	MIR15B	0.010752688172043012	33462141
+interleukin-17/genetics	NRF1	0.010752688172043012	33462141
+carcinoma renal cell/drug therapy	immune checkpoint inhibitors/adverse effects	0.8176718092566619	35277350
+nephritis/chemically induced	pneumonia/chemically induced	0.03225806451612904	32130969
+interleukin-17/genetics	PDCD1	0.2688172043010753	33462141
+carcinoma renal cell/drug therapy	exanthema/chemically induced	0.021505376344086023	32130969
+carcinoma renal cell/drug therapy	bevacizumab/administration & dosage	0.021505376344086023	32130969
+nephritis/chemically induced	fatigue/chemically induced	0.010752688172043012	32130969
+intestinal mucosa/diagnostic imaging	immunosuppressive agents/pharmacology	0.010752688172043012	32414860
+carcinoma renal cell/drug therapy	pneumonia/chemically induced	0.0638148667601683	32130969
+carcinoma renal cell/drug therapy	fatigue/chemically induced	0.021505376344086023	32130969
+intestinal mucosa/diagnostic imaging	mucositis/chemically induced	0.010752688172043012	32414860
+nivolumab/adverse effects	pyrimidines/therapeutic use	0.2426367461430575	33096100
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	34159488
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	33096100
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	33882697
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	33906378
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	34332139
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	31595568
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	32931028
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	32028372
+nivolumab/adverse effects	immune checkpoint inhibitors/adverse effects	0.14957366220908094	33476895
+nephritis/chemically induced	pruritus/chemically induced	0.010752688172043012	32130969
+carcinoma renal cell/drug therapy	pruritus/chemically induced	0.021505376344086023	32130969
+nivolumab/therapeutic use	diabetes mellitus type 1/chemically induced	0.021505376344086023	32130969
+nivolumab/adverse effects	pneumonia/chemically induced	0.34250882357474227	35124713
+carcinoma renal cell/drug therapy	adrenal insufficiency/chemically induced	0.021505376344086023	32130969
+adrenal gland diseases/diagnostic imaging	myocarditis/diagnostic imaging	0.010752688172043012	33375984
+nivolumab/adverse effects	colitis/diagnosis	0.2426367461430575	32028372
+nephritis/chemically induced	adrenal insufficiency/chemically induced	0.010752688172043012	32130969
+adrenal gland diseases/diagnostic imaging	immune checkpoint inhibitors/adverse effects	0.5698924731182795	33375984
+carcinoma renal cell/drug therapy	axitinib/administration & dosage	0.021505376344086023	32130969
+nivolumab/therapeutic use	exanthema/chemically induced	0.021505376344086023	32130969
+nivolumab/therapeutic use	bevacizumab/administration & dosage	0.021505376344086023	32130969
+carcinoma renal cell/drug therapy	inflammatory bowel diseases/drug therapy	0.0638148667601683	35277350
+nivolumab/adverse effects	immune checkpoint inhibitors	0.8157915303073194	35191192
+nivolumab/adverse effects	immune checkpoint inhibitors	0.8157915303073194	34716545
+nivolumab/adverse effects	immune checkpoint inhibitors	0.8157915303073194	35124713
+nephritis/chemically induced	axitinib/administration & dosage	0.010752688172043012	32130969
+nivolumab/therapeutic use	arthritis/chemically induced	0.021505376344086023	36096534
+adrenal gland diseases/diagnostic imaging	pancreatitis/diagnostic imaging	0.010752688172043012	33375984
+nivolumab/therapeutic use	pneumonia/chemically induced	0.0638148667601683	32130969
+carcinoma renal cell/drug therapy	proton pump inhibitors/adverse effects	0.021505376344086023	35277350
+adrenal gland diseases/diagnostic imaging	neoplasms/diagnostic imaging	0.021505376344086023	33375984
+nivolumab/therapeutic use	fatigue/chemically induced	0.021505376344086023	32130969
+nivolumab/adverse effects	lung neoplasms/drug therapy	0.2426367461430575	34716545
+carcinoma renal cell/drug therapy	colitis/chemically induced	0.5483870967741937	32130969
+carcinoma renal cell/drug therapy	colitis/chemically induced	0.5483870967741937	35277350
+carcinoma renal cell/drug therapy	hypophysitis/chemically induced	0.021505376344086023	32130969
+nivolumab/therapeutic use	immune checkpoint inhibitors	0.5434782608695652	36096534
+nivolumab/adverse effects	protein kinase inhibitors/therapeutic use	0.12903225806451613	33096100
+carcinoma renal cell/drug therapy	angiogenesis inhibitors/therapeutic use	0.021505376344086023	32130969
+nivolumab/adverse effects	squamous cell carcinoma of head and neck/drug therapy	0.12903225806451613	33476895
+nivolumab/therapeutic use	glucocorticoids	0.021505376344086023	36096534
+nivolumab/adverse effects	tongue neoplasms/drug therapy	0.12903225806451613	33476895
+nivolumab/adverse effects	carcinoma non-small-cell lung/drug therapy	0.2426367461430575	35124713
+nephritis/chemically induced	colitis/chemically induced	0.7419354838709677	32130969
+nivolumab/therapeutic use	pruritus/chemically induced	0.021505376344086023	32130969
+melanoma/genetics	receptors cxcr6/genetics	0.010752688172043012	32603654
+carcinoma renal cell/drug therapy	myocarditis/chemically induced	0.021505376344086023	32130969
+nephritis/chemically induced	hypophysitis/chemically induced	0.010752688172043012	32130969
+adrenal gland diseases/diagnostic imaging	sarcoidosis/diagnostic imaging	0.010752688172043012	33375984
+melanoma/genetics	gene expression regulation/genetics	0.010752688172043012	32603654
+melanoma/genetics	receptors cxcr3/genetics	0.010752688172043012	32603654
+carcinoma renal cell/drug therapy	hepatitis autoimmune/etiology	0.021505376344086023	32130969
+nephritis/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+nivolumab/adverse effects	neoplasms/drug therapy	0.8302262549622297	33096100
+adrenal gland diseases/diagnostic imaging	hepatitis/diagnostic imaging	0.010752688172043012	33375984
+melanoma/genetics	cd8-positive t-lymphocytes/cytology	0.010752688172043012	32603654
+nivolumab/therapeutic use	adrenal insufficiency/chemically induced	0.021505376344086023	32130969
+carcinoma renal cell/drug therapy	myasthenia gravis/chemically induced	0.021505376344086023	32130969
+melanoma/genetics	inflammation/drug therapy	0.021505376344086023	32603654
+carcinoma renal cell/drug therapy	immune checkpoint inhibitors/therapeutic use	0.04277699859747545	32130969
+nivolumab/adverse effects	diarrhea/chemically induced	0.8770712327596885	31595568
+melanoma/genetics	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32603654
+nivolumab/therapeutic use	axitinib/administration & dosage	0.021505376344086023	32130969
+nephritis/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+melanoma/genetics	myeloid cells/cytology	0.010752688172043012	32603654
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	34159488
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	33096100
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	33882697
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	34332139
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	31595568
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	32931028
+nivolumab/adverse effects	ipilimumab/adverse effects	2.7098127426765173e-06	35191192
+melanoma/genetics	ctla-4 antigen/immunology	0.010752688172043012	32603654
+adrenal gland diseases/diagnostic imaging	pericarditis/diagnostic imaging	0.010752688172043012	33375984
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	34159488
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	34716545
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	33096100
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	35124713
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	33906378
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	34332139
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	33882697
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	31595568
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	32931028
+nivolumab/adverse effects	colitis/chemically induced	0.3515184224404146	35191192
+nephritis/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+adrenal gland diseases/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+nivolumab/therapeutic use	diarrhea/chemically induced	0.27980364656381496	36096534
+carcinoma renal cell/drug therapy	ipilimumab/therapeutic use	0.0007012622720897616	32130969
+carcinoma renal cell/drug therapy	ipilimumab/therapeutic use	0.0007012622720897616	35277350
+nivolumab/adverse effects	paclitaxel/therapeutic use	0.12903225806451613	33476895
+nephritis/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+nivolumab/therapeutic use	colitis/chemically induced	0.5483870967741937	32130969
+nivolumab/therapeutic use	colitis/chemically induced	0.5483870967741937	36096534
+nephritis/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+nivolumab/adverse effects	oropharyngeal neoplasms/drug therapy	0.12903225806451613	33906378
+nivolumab/therapeutic use	hypophysitis/chemically induced	0.021505376344086023	32130969
+adrenal gland diseases/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+melanoma/genetics	colitis/drug therapy	0.03225806451612904	32603654
+nivolumab/therapeutic use	angiogenesis inhibitors/therapeutic use	0.021505376344086023	32130969
+nivolumab/adverse effects	disease susceptibility	0.12903225806451613	32028372
+nivolumab/adverse effects	colitis ulcerative/chemically induced	0.12903225806451613	33476895
+nivolumab/adverse effects	melanoma/drug therapy	0.5070047433695257	33882697
+nivolumab/therapeutic use	myocarditis/chemically induced	0.021505376344086023	32130969
+nivolumab/adverse effects	piperidines/therapeutic use	0.2426367461430575	33096100
+melanoma/genetics	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+nivolumab/adverse effects	drug-related side effects and adverse reactions/diagnosis	0.12903225806451613	35191192
+nephritis/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+prednisolone/therapeutic use	nivolumab/adverse effects	0.12903225806451613	34716545
+melanoma/genetics	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+nivolumab/therapeutic use	hepatitis autoimmune/etiology	0.021505376344086023	32130969
+nivolumab/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.6841732290121534	33476895
+nivolumab/adverse effects	postoperative complications	0.12903225806451613	32028372
+nivolumab/therapeutic use	myasthenia gravis/chemically induced	0.021505376344086023	32130969
+nivolumab/therapeutic use	immune checkpoint inhibitors/therapeutic use	0.04277699859747545	32130969
+melanoma/genetics	chemokines/metabolism	0.010752688172043012	32603654
+melanoma/genetics	multigene family	0.010752688172043012	32603654
+nivolumab/adverse effects	antineoplastic agents immunological/adverse effects	0.6329580769600702	33476895
+nivolumab/adverse effects	ipilimumab/therapeutic use	0.34250882357474227	35124713
+adrenal gland diseases/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+prednisolone/therapeutic use	immune checkpoint inhibitors	0.3225806451612903	34716545
+nivolumab/therapeutic use	ipilimumab/therapeutic use	0.0638148667601683	32130969
+prednisolone/therapeutic use	lung neoplasms/drug therapy	0.021505376344086023	34716545
+melanoma/genetics	CTLA4	0.12903225806451613	32603654
+hashimoto disease/chemically induced	nivolumab/adverse effects	0.12903225806451613	33476895
+nivolumab/adverse effects	CTLA4	0.8302262549622297	35191192
+melanoma/genetics	PDCD1	0.2688172043010753	32603654
+nivolumab/therapeutic use	CHI3L1	0.021505376344086023	36096534
+nivolumab/therapeutic use	CXCL8	0.021505376344086023	36096534
+hashimoto disease/chemically induced	immune checkpoint inhibitors/adverse effects	0.5698924731182795	33476895
+nivolumab/therapeutic use	IL17A	0.04277699859747545	36096534
+nivolumab/adverse effects	PDCD1	0.8905168434096232	35191192
+nivolumab/adverse effects	PDCD1	0.8905168434096232	33906378
+nivolumab/adverse effects	SNCA	0.34250882357474227	33476895
+nivolumab/therapeutic use	IL6	0.04277699859747545	36096534
+gene expression regulation/genetics	receptors cxcr3/genetics	0.010752688172043012	32603654
+host microbial interactions/drug effects	metabolome/drug effects	0.010752688172043012	34162429
+prednisolone/therapeutic use	colitis/chemically induced	0.7419354838709677	34716545
+gene expression regulation/genetics	cd8-positive t-lymphocytes/cytology	0.010752688172043012	32603654
+host microbial interactions/drug effects	immune checkpoint inhibitors/adverse effects	0.5698924731182795	34162429
+gene expression regulation/genetics	inflammation/drug therapy	0.021505376344086023	32603654
+sirolimus/therapeutic use	drug-related side effects and adverse reactions/prevention & control	0.010752688172043012	34987517
+gene expression regulation/genetics	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32603654
+gene expression regulation/genetics	myeloid cells/cytology	0.010752688172043012	32603654
+gene expression regulation/genetics	ctla-4 antigen/immunology	0.010752688172043012	32603654
+hashimoto disease/chemically induced	squamous cell carcinoma of head and neck/drug therapy	0.010752688172043012	33476895
+hashimoto disease/chemically induced	tongue neoplasms/drug therapy	0.010752688172043012	33476895
+myeloid-derived suppressor cells/metabolism	azoxymethane/adverse effects	0.010752688172043012	33495297
+host microbial interactions/drug effects	dysbiosis/etiology	0.010752688172043012	34162429
+host microbial interactions/drug effects	neoplasms/complications	0.03225806451612904	34162429
+gene expression regulation/genetics	colitis/drug therapy	0.03225806451612904	32603654
+hashimoto disease/chemically induced	paclitaxel/therapeutic use	0.010752688172043012	33476895
+myeloid-derived suppressor cells/metabolism	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33495297
+myeloid-derived suppressor cells/metabolism	colitis/chemically induced	0.7419354838709677	33495297
+myeloid-derived suppressor cells/metabolism	phthalazines/administration & dosage	0.010752688172043012	33495297
+hashimoto disease/chemically induced	colitis ulcerative/chemically induced	0.010752688172043012	33476895
+myeloid-derived suppressor cells/metabolism	dextran sulfate/adverse effects	0.010752688172043012	33495297
+host microbial interactions/drug effects	colitis/etiology	0.021505376344086023	34162429
+sirolimus/therapeutic use	growth inhibitors/therapeutic use	0.010752688172043012	34987517
+gene expression regulation/genetics	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+myeloid-derived suppressor cells/metabolism	colonic neoplasms/drug therapy	0.010752688172043012	33495297
+hashimoto disease/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33476895
+gene expression regulation/genetics	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+host microbial interactions/drug effects	antineoplastic agents immunological/adverse effects	0.07526881720430108	34162429
+host microbial interactions/drug effects	anti-bacterial agents/pharmacology	0.010752688172043012	34162429
+sirolimus/therapeutic use	phosphatidylinositol 3-kinases/metabolism	0.010752688172043012	34987517
+sirolimus/therapeutic use	antineoplastic agents immunological/therapeutic use	0.03225806451612904	34987517
+hashimoto disease/chemically induced	antineoplastic agents immunological/adverse effects	0.07526881720430108	33476895
+myeloid-derived suppressor cells/metabolism	cell line tumor	0.021505376344086023	33495297
+sirolimus/therapeutic use	lymphocytes tumor-infiltrating/immunology	0.010752688172043012	34987517
+myeloid-derived suppressor cells/metabolism	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.010752688172043012	33495297
+sirolimus/therapeutic use	colitis/etiology	0.021505376344086023	34987517
+gene expression regulation/genetics	chemokines/metabolism	0.010752688172043012	32603654
+sirolimus/therapeutic use	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	34987517
+sirolimus/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34987517
+gene expression regulation/genetics	multigene family	0.010752688172043012	32603654
+sirolimus/therapeutic use	cell line tumor	0.021505376344086023	34987517
+myeloid-derived suppressor cells/metabolism	piperazines/administration & dosage	0.010752688172043012	33495297
+sirolimus/therapeutic use	cd8-positive t-lymphocytes/immunology	0.010752688172043012	34987517
+myeloid-derived suppressor cells/metabolism	APC	0.021505376344086023	33495297
+myeloid-derived suppressor cells/metabolism	ARG1	0.010752688172043012	33495297
+hashimoto disease/chemically induced	SNCA	0.03225806451612904	33476895
+sirolimus/therapeutic use	cytotoxicity immunologic	0.010752688172043012	34987517
+gene expression regulation/genetics	CTLA4	0.12903225806451613	32603654
+myeloid-derived suppressor cells/metabolism	PARP1	0.010752688172043012	33495297
+myeloid-derived suppressor cells/metabolism	PDCD1	0.2688172043010753	33495297
+sirolimus/therapeutic use	CD8A	0.05376344086021506	34987517
+myeloid-derived suppressor cells/metabolism	TIPARP	0.010752688172043012	33495297
+glucocorticoids/therapeutic use	immune checkpoint inhibitors/adverse effects	0.5698924731182795	36377339
+carcinoma non-small-cell lung	immune checkpoint inhibitors	0.3225806451612903	34106395
+esophagitis	ulcer/chemically induced	0.010752688172043012	33746162
+gene expression regulation/genetics	PDCD1	0.2688172043010753	32603654
+sirolimus/therapeutic use	MTOR	0.010752688172043012	34987517
+sirolimus/therapeutic use	PDCD1	0.2688172043010753	34987517
+glucocorticoids/therapeutic use	disease progression	0.010752688172043012	36377339
+esophagitis	immune checkpoint inhibitors	0.3225806451612903	33746162
+colitis ulcerative/immunology	pyrimidines/therapeutic use	0.04277699859747545	34147519
+psoriasis	immune checkpoint inhibitors	0.3225806451612903	35977003
+ulcer/chemically induced	immune checkpoint inhibitors	0.3225806451612903	33746162
+colitis ulcerative/immunology	immune checkpoint inhibitors/adverse effects	0.3221131369798972	34338882
+colitis ulcerative/immunology	immune checkpoint inhibitors/adverse effects	0.3221131369798972	34147519
+glucocorticoids/therapeutic use	neoplasms/drug therapy	0.12903225806451613	36377339
+glucocorticoids/therapeutic use	diarrhea/chemically induced	0.15053763440860218	36377339
+colitis ulcerative/immunology	macrophages/drug effects	0.021505376344086023	34338882
+carcinoma non-small-cell lung	colitis/chemically induced	0.7419354838709677	34106395
+colitis ulcerative/immunology	interferon-gamma/metabolism	0.021505376344086023	34147519
+colitis ulcerative/immunology	immunologic memory/drug effects	0.021505376344086023	34147519
+glucocorticoids/therapeutic use	colitis/chemically induced	0.7419354838709677	36377339
+colitis ulcerative/immunology	colon/drug effects	0.0007012622720897616	34338882
+colitis ulcerative/immunology	colon/drug effects	0.0007012622720897616	34147519
+glucocorticoids/therapeutic use	abdominal pain/chemically induced	0.010752688172043012	36377339
+esophagitis	colitis/chemically induced	0.7419354838709677	33746162
+ulcer/chemically induced	colitis/chemically induced	0.7419354838709677	33746162
+psoriasis	colitis/chemically induced	0.7419354838709677	35977003
+glucocorticoids/therapeutic use	antineoplastic agents immunological/therapeutic use	0.03225806451612904	36377339
+psoriasis	dermatitis	0.010752688172043012	35977003
+colitis ulcerative/immunology	crohn disease/immunology	0.021505376344086023	34338882
+carcinoma non-small-cell lung	cd8-positive t-lymphocytes	0.010752688172043012	34106395
+glucocorticoids/therapeutic use	gastritis/complications	0.010752688172043012	36377339
+glucocorticoids/therapeutic use	enterocolitis/chemically induced	0.021505376344086023	36377339
+colitis ulcerative/immunology	piperidines/therapeutic use	0.04277699859747545	34147519
+colitis ulcerative/immunology	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	34147519
+colitis ulcerative/immunology	ctla-4 antigen/antagonists & inhibitors	0.0638148667601683	34147519
+thyroiditis/diagnostic imaging	adrenal gland diseases/diagnostic imaging	0.010752688172043012	33375984
+colitis ulcerative/immunology	graft vs host disease/immunology	0.021505376344086023	34338882
+psoriasis	rna	0.010752688172043012	35977003
+thyroiditis/diagnostic imaging	myocarditis/diagnostic imaging	0.010752688172043012	33375984
+thyroiditis/diagnostic imaging	immune checkpoint inhibitors/adverse effects	0.5698924731182795	33375984
+colitis ulcerative/immunology	cd8-positive t-lymphocytes/drug effects	0.00023375409069658717	34338882
+colitis ulcerative/immunology	cd8-positive t-lymphocytes/drug effects	0.00023375409069658717	34147519
+colitis ulcerative/immunology	phenotype	0.00023375409069658717	34338882
+colitis ulcerative/immunology	phenotype	0.00023375409069658717	34147519
+escherichia coli infections/drug therapy	virus diseases/etiology	0.010752688172043012	34107499
+thyroiditis/diagnostic imaging	pancreatitis/diagnostic imaging	0.010752688172043012	33375984
+thyroiditis/diagnostic imaging	neoplasms/diagnostic imaging	0.021505376344086023	33375984
+escherichia coli infections/drug therapy	immune checkpoint inhibitors/adverse effects	0.5698924731182795	34107499
+psoriasis	CTLA4	0.12903225806451613	35977003
+psoriasis	CXCL10	0.010752688172043012	35977003
+psoriasis	CXCL9	0.010752688172043012	35977003
+colitis ulcerative/immunology	CD4	0.04277699859747545	34338882
+colitis ulcerative/immunology	CD68	0.04277699859747545	34338882
+thyroiditis/diagnostic imaging	sarcoidosis/diagnostic imaging	0.010752688172043012	33375984
+colitis ulcerative/immunology	CD8A	0.0023375409069658717	34338882
+colitis ulcerative/immunology	CD8A	0.0023375409069658717	34147519
+thyroiditis/diagnostic imaging	hepatitis/diagnostic imaging	0.010752688172043012	33375984
+colitis ulcerative/immunology	CTLA4	0.24263674614305747	34147519
+psoriasis	PDCD1	0.2688172043010753	35977003
+psoriasis	TCIM	0.010752688172043012	35977003
+psoriasis	TNF	0.03225806451612904	35977003
+thyroiditis/diagnostic imaging	pericarditis/diagnostic imaging	0.010752688172043012	33375984
+vitamin d	immune checkpoint inhibitors/adverse effects	0.5698924731182795	36338892
+thyroiditis/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+drug synergism	sirolimus/therapeutic use	0.021505376344086023	34987517
+colitis ulcerative/immunology	PDCD1	0.4675081813931744	34147519
+drug synergism	myeloid-derived suppressor cells/metabolism	0.021505376344086023	33495297
+escherichia coli infections/drug therapy	neoplasms/drug therapy	0.12903225806451613	34107499
+drug synergism	drug-related side effects and adverse reactions/prevention & control	0.021505376344086023	34987517
+escherichia coli infections/drug therapy	diarrhea/chemically induced	0.15053763440860218	34107499
+receptors cxcr6/genetics	gene expression regulation/genetics	0.010752688172043012	32603654
+thyroiditis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+escherichia coli infections/drug therapy	clostridium infections/chemically induced	0.010752688172043012	34107499
+receptors cxcr6/genetics	receptors cxcr3/genetics	0.010752688172043012	32603654
+escherichia coli infections/drug therapy	colitis/chemically induced	0.7419354838709677	34107499
+receptors cxcr6/genetics	cd8-positive t-lymphocytes/cytology	0.010752688172043012	32603654
+receptors cxcr6/genetics	inflammation/drug therapy	0.021505376344086023	32603654
+receptors cxcr6/genetics	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32603654
+urothelium/drug effects	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	32418993
+pneumonia	colitis	0.04301075268817205	35432346
+receptors cxcr6/genetics	myeloid cells/cytology	0.010752688172043012	32603654
+urothelium/drug effects	colitis/chemically induced	0.7419354838709677	32418993
+receptors cxcr6/genetics	ctla-4 antigen/immunology	0.010752688172043012	32603654
+urothelium/drug effects	carcinoma non-small-cell lung/complications	0.010752688172043012	32418993
+vitamin d	colitis/chemically induced	0.7419354838709677	36338892
+drug synergism	azoxymethane/adverse effects	0.021505376344086023	33495297
+thyroiditis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+urothelium/drug effects	drug-related side effects and adverse reactions	0.021505376344086023	32418993
+urothelium/drug effects	melanoma/complications	0.03225806451612904	32418993
+receptors cxcr6/genetics	colitis/drug therapy	0.03225806451612904	32603654
+vitamin d	melanoma/drug therapy	0.05376344086021506	36338892
+urothelium/drug effects	infliximab/administration & dosage	0.010752688172043012	32418993
+drug synergism	immune checkpoint inhibitors/administration & dosage	0.08461898083216456	33495297
+drug synergism	growth inhibitors/therapeutic use	0.021505376344086023	34987517
+pneumonia	ligands	0.010752688172043012	35432346
+drug synergism	colitis/chemically induced	0.935483870967742	33495297
+drug synergism	phthalazines/administration & dosage	0.021505376344086023	33495297
+receptors cxcr6/genetics	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+drug synergism	dextran sulfate/adverse effects	0.021505376344086023	33495297
+urothelium/drug effects	ACAD8	0.021505376344086023	32418993
+receptors cxcr6/genetics	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+pneumonia	CD274	0.16129032258064516	35432346
+neoplasms	immune checkpoint inhibitors/adverse effects	0.7893541708408469	36389768
+neoplasms	immune checkpoint inhibitors/adverse effects	0.7893541708408469	36189293
+urothelium/drug effects	CRP	0.010752688172043012	32418993
+drug synergism	colonic neoplasms/drug therapy	0.021505376344086023	33495297
+pneumonia	CTLA4	0.12903225806451613	35432346
+vitamin d	antineoplastic agents immunological/adverse effects	0.07526881720430108	36338892
+drug synergism	phosphatidylinositol 3-kinases/metabolism	0.021505376344086023	34987517
+drug synergism	antineoplastic agents immunological/therapeutic use	0.0638148667601683	34987517
+colon/diagnostic imaging	immunosuppressive agents/pharmacology	0.010752688172043012	32414860
+pneumonia	PDCD1	0.2688172043010753	35432346
+drug synergism	lymphocytes tumor-infiltrating/immunology	0.021505376344086023	34987517
+colon/diagnostic imaging	mucositis/chemically induced	0.010752688172043012	32414860
+drug synergism	colitis/etiology	0.04277699859747545	34987517
+receptors cxcr6/genetics	chemokines/metabolism	0.010752688172043012	32603654
+drug synergism	immune checkpoint inhibitors/therapeutic use	0.04277699859747545	34987517
+drug synergism	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	34987517
+receptors cxcr6/genetics	multigene family	0.010752688172043012	32603654
+ustekinumab/therapeutic use	colitis ulcerative/drug therapy	0.021505376344086023	33567198
+drug synergism	cell line tumor	0.00023375409069658717	33495297
+drug synergism	cell line tumor	0.00023375409069658717	34987517
+ustekinumab/therapeutic use	immune checkpoint inhibitors/adverse effects	0.5698924731182795	33567198
+immune system diseases/drug therapy	immune checkpoint inhibitors/adverse effects	0.5698924731182795	36159840
+drug synergism	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.021505376344086023	33495297
+drug synergism	cd8-positive t-lymphocytes/immunology	0.021505376344086023	34987517
+receptors cxcr3/genetics	cd8-positive t-lymphocytes/cytology	0.010752688172043012	32603654
+receptors cxcr3/genetics	inflammation/drug therapy	0.021505376344086023	32603654
+drug synergism	piperazines/administration & dosage	0.021505376344086023	33495297
+drug synergism	cytotoxicity immunologic	0.021505376344086023	34987517
+receptors cxcr3/genetics	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32603654
+drug synergism	APC	0.04277699859747545	33495297
+receptors cxcr6/genetics	CTLA4	0.12903225806451613	32603654
+drug synergism	ARG1	0.021505376344086023	33495297
+receptors cxcr3/genetics	myeloid cells/cytology	0.010752688172043012	32603654
+receptors cxcr3/genetics	ctla-4 antigen/immunology	0.010752688172043012	32603654
+drug synergism	CD8A	0.10518934081346423	34987517
+drug resistance/immunology	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32414860
+receptors cxcr6/genetics	PDCD1	0.2688172043010753	32603654
+ustekinumab/therapeutic use	interleukin-23/antagonists & inhibitors	0.010752688172043012	33567198
+drug synergism	MTOR	0.021505376344086023	34987517
+drug synergism	PARP1	0.021505376344086023	33495297
+drug synergism	PDCD1	0.07012622720897614	33495297
+drug synergism	PDCD1	0.07012622720897614	34987517
+drug synergism	TIPARP	0.021505376344086023	33495297
+immune system diseases/drug therapy	colitis/chemically induced	0.7419354838709677	36159840
+adrenal cortex hormones/therapeutic use	inflammation/drug therapy	0.0638148667601683	36113896
+drug resistance/immunology	skin neoplasms/drug therapy	0.021505376344086023	32414860
+drug resistance/immunology	infliximab/adverse effects	0.04301075268817205	32414860
+adrenal cortex hormones/therapeutic use	immune checkpoint inhibitors/adverse effects	0.9238629533159688	34380976
+receptors cxcr3/genetics	colitis/drug therapy	0.03225806451612904	32603654
+immune system diseases/drug therapy	antineoplastic agents immunological/therapeutic use	0.03225806451612904	36159840
+adrenal cortex hormones/therapeutic use	immune checkpoint inhibitors	0.24247491638795987	36113896
+adrenal cortex hormones/therapeutic use	immune checkpoint inhibitors	0.24247491638795987	32641348
+adrenal cortex hormones/therapeutic use	skin neoplasms/drug therapy	0.0638148667601683	32641348
+immune system diseases/drug therapy	gastrointestinal neoplasms/drug therapy	0.010752688172043012	36159840
+adrenal cortex hormones/therapeutic use	tumor necrosis factor inhibitors	0.03225806451612903	32641348
+receptors cxcr3/genetics	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+drug resistance/immunology	colitis/chemically induced	0.7419354838709677	32414860
+protective agents/pharmacology	mesalamine/pharmacology	0.010752688172043012	33506015
+receptors cxcr3/genetics	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+protective agents/pharmacology	colon/drug effects	0.03225806451612904	33506015
+drug resistance/immunology	glucocorticoids/pharmacology	0.010752688172043012	32414860
+ustekinumab/therapeutic use	interleukin-12/antagonists & inhibitors	0.010752688172043012	33567198
+adrenal cortex hormones/therapeutic use	neoplasms/drug therapy	0.3425088235747422	34380976
+adrenal cortex hormones/therapeutic use	diarrhea/chemically induced	0.0028050490883590466	36113896
+adrenal cortex hormones/therapeutic use	diarrhea/chemically induced	0.0028050490883590466	32641348
+adrenal cortex hormones/therapeutic use	diarrhea/chemically induced	0.0028050490883590466	34380976
+immune system diseases/drug therapy	BTLA	0.010752688172043012	36159840
+adrenal cortex hormones/therapeutic use	colitis/chemically induced	0.4037575327897907	36113896
+adrenal cortex hormones/therapeutic use	colitis/chemically induced	0.4037575327897907	32641348
+adrenal cortex hormones/therapeutic use	colitis/chemically induced	0.4037575327897907	34380976
+immune system diseases/drug therapy	CD274	0.16129032258064516	36159840
+immune system diseases/drug therapy	CD28	0.010752688172043012	36159840
+drug resistance/immunology	melanoma/drug therapy	0.05376344086021506	32414860
+immune system diseases/drug therapy	CSF2	0.010752688172043012	36159840
+receptors cxcr3/genetics	chemokines/metabolism	0.010752688172043012	32603654
+immune system diseases/drug therapy	HAVCR2	0.010752688172043012	36159840
+immune system diseases/drug therapy	IL15	0.010752688172043012	36159840
+receptors cxcr3/genetics	multigene family	0.010752688172043012	32603654
+immune system diseases/drug therapy	IL17C	0.010752688172043012	36159840
+protective agents/pharmacology	colitis/chemically induced	0.7419354838709677	33506015
+immune system diseases/drug therapy	IL21	0.010752688172043012	36159840
+immune system diseases/drug therapy	IL22	0.021505376344086023	36159840
+immune system diseases/drug therapy	IL4	0.010752688172043012	36159840
+drug resistance/immunology	immunosuppressive agents/pharmacology	0.010752688172043012	32414860
+pyrimidines/therapeutic use	protein kinase inhibitors/therapeutic use	0.021505376344086023	33096100
+adrenal cortex hormones/therapeutic use	melanoma/drug therapy	0.15435476164788925	32641348
+virus diseases/etiology	immune checkpoint inhibitors/adverse effects	0.5698924731182795	34107499
+protective agents/pharmacology	immune checkpoint inhibitors/pharmacology	0.04301075268817205	33506015
+pyrimidines/therapeutic use	neoplasms/drug therapy	0.24263674614305747	33096100
+drug resistance/immunology	mucositis/chemically induced	0.010752688172043012	32414860
+receptors cxcr3/genetics	CTLA4	0.12903225806451613	32603654
+pyrimidines/therapeutic use	ipilimumab/adverse effects	0.18513323983169702	33096100
+protective agents/pharmacology	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33506015
+pyrimidines/therapeutic use	colitis/chemically induced	0.935483870967742	33096100
+protective agents/pharmacology	trinitrobenzenesulfonic acid/adverse effects	0.010752688172043012	33506015
+receptors cxcr3/genetics	PDCD1	0.2688172043010753	32603654
+adrenal cortex hormones/therapeutic use	biological products/therapeutic use	0.03225806451612903	34380976
+virus diseases/etiology	neoplasms/drug therapy	0.12903225806451613	34107499
+adrenal cortex hormones/therapeutic use	beclomethasone/adverse effects	0.03225806451612903	36113896
+virus diseases/etiology	diarrhea/chemically induced	0.15053763440860218	34107499
+pneumonia	immune checkpoint inhibitors/adverse effects	0.5698924731182795	35432346
+virus diseases/etiology	clostridium infections/chemically induced	0.010752688172043012	34107499
+pyrimidines/therapeutic use	piperidines/therapeutic use	0.00023375409069658717	33096100
+pyrimidines/therapeutic use	piperidines/therapeutic use	0.00023375409069658717	34147519
+protective agents/pharmacology	ACAD8	0.021505376344086023	33506015
+virus diseases/etiology	colitis/chemically induced	0.7419354838709677	34107499
+pyrimidines/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	34147519
+virus diseases/etiology	anti-bacterial agents/adverse effects	0.010752688172043012	34107499
+pyrimidines/therapeutic use	ctla-4 antigen/antagonists & inhibitors	0.0638148667601683	34147519
+colitis ulcerative/drug therapy	immune checkpoint inhibitors/adverse effects	0.8176718092566619	33567198
+pyrimidines/therapeutic use	cd8-positive t-lymphocytes/drug effects	0.04277699859747545	34147519
+arthritis/chemically induced	immune checkpoint inhibitors	0.3225806451612903	36096534
+pyrimidines/therapeutic use	phenotype	0.04277699859747545	34147519
+arthritis/chemically induced	glucocorticoids	0.010752688172043012	36096534
+colitis ulcerative/drug therapy	immune checkpoint inhibitors	0.5434782608695652	33058056
+pyrimidines/therapeutic use	CD8A	0.10518934081346423	34147519
+colitis collagenous/drug therapy	immune checkpoint inhibitors/pharmacology	0.04301075268817205	32404733
+pyrimidines/therapeutic use	CTLA4	0.24263674614305747	34147519
+glycoproteins/metabolism	b7-h1 antigen/antagonists & inhibitors	0.03225806451612904	32389505
+pyrimidines/therapeutic use	PDCD1	0.4675081813931744	34147519
+colitis collagenous/drug therapy	melanoma/complications	0.03225806451612904	32404733
+glycoproteins/metabolism	colitis/chemically induced	0.7419354838709677	32389505
+arthritis/chemically induced	diarrhea/chemically induced	0.15053763440860218	36096534
+myocarditis/diagnostic imaging	immune checkpoint inhibitors/adverse effects	0.5698924731182795	33375984
+glycoproteins/metabolism	biomarkers/metabolism	0.010752688172043012	32389505
+myocarditis/diagnostic imaging	pancreatitis/diagnostic imaging	0.010752688172043012	33375984
+arthritis/chemically induced	colitis/chemically induced	0.7419354838709677	36096534
+myocarditis/diagnostic imaging	neoplasms/diagnostic imaging	0.021505376344086023	33375984
+colitis ulcerative/drug therapy	interleukin-23/antagonists & inhibitors	0.021505376344086023	33567198
+glycoproteins/metabolism	adenocarcinoma of lung/drug therapy	0.010752688172043012	32389505
+myocarditis/diagnostic imaging	sarcoidosis/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	exanthema/chemically induced	0.010752688172043012	32130969
+diabetes mellitus type 1/chemically induced	bevacizumab/administration & dosage	0.010752688172043012	32130969
+myocarditis/diagnostic imaging	hepatitis/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	pneumonia/chemically induced	0.03225806451612904	32130969
+colitis ulcerative/drug therapy	crohn disease/drug therapy	0.021505376344086023	33058056
+diabetes mellitus type 1/chemically induced	fatigue/chemically induced	0.010752688172043012	32130969
+colitis collagenous/drug therapy	PDCD1	0.2688172043010753	32404733
+glycoproteins/metabolism	CD274	0.16129032258064516	32389505
+myocarditis/diagnostic imaging	pericarditis/diagnostic imaging	0.010752688172043012	33375984
+neoplasm recurrence local/drug therapy	immune checkpoint inhibitors	0.3225806451612903	35801666
+myocarditis/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	pruritus/chemically induced	0.010752688172043012	32130969
+diabetes mellitus type 1/chemically induced	adrenal insufficiency/chemically induced	0.010752688172043012	32130969
+pancreatitis/diagnostic imaging	neoplasms/diagnostic imaging	0.021505376344086023	33375984
+myocarditis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	axitinib/administration & dosage	0.010752688172043012	32130969
+colitis ulcerative/drug therapy	interleukin-12/antagonists & inhibitors	0.021505376344086023	33567198
+arthritis/chemically induced	CHI3L1	0.010752688172043012	36096534
+arthritis/chemically induced	CXCL8	0.010752688172043012	36096534
+pancreatitis/diagnostic imaging	sarcoidosis/diagnostic imaging	0.010752688172043012	33375984
+arthritis/chemically induced	IL17A	0.021505376344086023	36096534
+diabetes mellitus type 1/chemically induced	colitis/chemically induced	0.7419354838709677	32130969
+pancreatitis/diagnostic imaging	hepatitis/diagnostic imaging	0.010752688172043012	33375984
+neoplasm recurrence local/drug therapy	colitis/chemically induced	0.7419354838709677	35801666
+arthritis/chemically induced	IL6	0.021505376344086023	36096534
+diabetes mellitus type 1/chemically induced	hypophysitis/chemically induced	0.010752688172043012	32130969
+cd8-positive t-lymphocytes/cytology	inflammation/drug therapy	0.021505376344086023	32603654
+cd8-positive t-lymphocytes/cytology	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32603654
+neoplasm recurrence local/drug therapy	endometrial neoplasms/drug therapy	0.010752688172043012	35801666
+diabetes mellitus type 1/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+cd8-positive t-lymphocytes/cytology	myeloid cells/cytology	0.010752688172043012	32603654
+myeloid cells/cytology	ctla-4 antigen/immunology	0.010752688172043012	32603654
+pancreatitis/diagnostic imaging	pericarditis/diagnostic imaging	0.010752688172043012	33375984
+cd8-positive t-lymphocytes/cytology	ctla-4 antigen/immunology	0.010752688172043012	32603654
+pancreatitis/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+neoplasm recurrence local/drug therapy	antibodies monoclonal humanized	0.010752688172043012	35801666
+myocarditis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+pancreatitis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+diabetes mellitus type 1/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+diabetes mellitus type 1/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+cd8-positive t-lymphocytes/cytology	colitis/drug therapy	0.03225806451612904	32603654
+myeloid cells/cytology	colitis/drug therapy	0.03225806451612904	32603654
+diabetes mellitus type 1/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+cd8-positive t-lymphocytes/cytology	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+pancreatitis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+myeloid cells/cytology	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+skin neoplasms/complications	colitis collagenous/drug therapy	0.010752688172043012	32404733
+cd8-positive t-lymphocytes/cytology	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+myeloid cells/cytology	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+neoplasm recurrence local/drug therapy	PDCD1	0.2688172043010753	35801666
+cd8-positive t-lymphocytes/cytology	chemokines/metabolism	0.010752688172043012	32603654
+immune checkpoint inhibitors	glucocorticoids	0.32258064516129037	36096534
+cd8-positive t-lymphocytes/cytology	multigene family	0.010752688172043012	32603654
+immune checkpoint inhibitors	skin neoplasms/drug therapy	0.5434782608695652	32641348
+myeloid cells/cytology	chemokines/metabolism	0.010752688172043012	32603654
+immune checkpoint inhibitors	infliximab/adverse effects	0.38795986622073575	32162824
+immune checkpoint inhibitors	infliximab/adverse effects	0.38795986622073575	32584703
+immune checkpoint inhibitors	lung neoplasms/drug therapy	0.5434782608695652	34716545
+myeloid cells/cytology	multigene family	0.010752688172043012	32603654
+immune checkpoint inhibitors	diarrhea/therapy	0.32258064516129037	32780984
+neoplasms/diagnostic imaging	sarcoidosis/diagnostic imaging	0.021505376344086023	33375984
+immune checkpoint inhibitors	tumor necrosis factor inhibitors	0.32258064516129037	32641348
+immune checkpoint inhibitors	colitis	0.09698996655518395	33314269
+immune checkpoint inhibitors	colitis	0.09698996655518395	35842365
+immune checkpoint inhibitors	colitis	0.09698996655518395	32780983
+neoplasms/diagnostic imaging	hepatitis/diagnostic imaging	0.021505376344086023	33375984
+micrornas/genetics	gene expression regulation neoplastic	0.010752688172043012	33462141
+micrornas/genetics	lymphocytes tumor-infiltrating/metabolism	0.010752688172043012	33462141
+neoplasms/diagnostic imaging	pericarditis/diagnostic imaging	0.021505376344086023	33375984
+immune checkpoint inhibitors	carcinoma non-small-cell lung/drug therapy	0.5434782608695652	35124713
+neoplasms/diagnostic imaging	encephalitis/diagnostic imaging	0.021505376344086023	33375984
+immune checkpoint inhibitors	inflammatory bowel diseases/drug therapy	0.6939799331103679	33314269
+neoplasms/diagnostic imaging	colitis/chemically induced	0.935483870967742	31754740
+cd8-positive t-lymphocytes/cytology	CTLA4	0.12903225806451613	32603654
+skin neoplasms/complications	immune checkpoint inhibitors/pharmacology	0.04301075268817205	32404733
+immune checkpoint inhibitors	colitis microscopic/chemically induced	0.10168302945301541	34170536
+immune checkpoint inhibitors	colitis microscopic/chemically induced	0.10168302945301541	32401685
+immune checkpoint inhibitors	colitis/drug therapy	0.6939799331103679	32780984
+micrornas/genetics	t-lymphocytes cytotoxic/immunology	0.010752688172043012	33462141
+immune checkpoint inhibitors	recurrence	0.32258064516129037	35842365
+myeloid cells/cytology	CTLA4	0.12903225806451613	32603654
+micrornas/genetics	tumor microenvironment/drug effects	0.010752688172043012	33462141
+immune checkpoint inhibitors	diarrhea/chemically induced	0.4933396361351056	32641348
+immune checkpoint inhibitors	diarrhea/chemically induced	0.4933396361351056	36113896
+immune checkpoint inhibitors	diarrhea/chemically induced	0.4933396361351056	35917654
+immune checkpoint inhibitors	diarrhea/chemically induced	0.4933396361351056	36096534
+immune checkpoint inhibitors	diarrhea/chemically induced	0.4933396361351056	32584703
+neoplasms/diagnostic imaging	colitis/diagnostic imaging	0.021505376344086023	33375984
+immune checkpoint inhibitors	immunologic factors	0.10168302945301541	33566405
+immune checkpoint inhibitors	immunologic factors	0.10168302945301541	33566423
+cd8-positive t-lymphocytes/cytology	PDCD1	0.2688172043010753	32603654
+immune checkpoint inhibitors	ipilimumab/adverse effects	0.6043739907978188	35191192
+immune checkpoint inhibitors	ipilimumab/adverse effects	0.6043739907978188	32934876
+immune checkpoint inhibitors	ipilimumab/adverse effects	0.6043739907978188	35917654
+skin neoplasms/complications	melanoma/complications	0.03225806451612904	32404733
+immune checkpoint inhibitors	neoplasms/therapy	0.32258064516129037	32780984
+myeloid cells/cytology	PDCD1	0.2688172043010753	32603654
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	34081152
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	34716545
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	32162824
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	36096534
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35307927
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35191192
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	34106395
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	34515105
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35977003
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35296560
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	34256056
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35801666
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	32641348
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	33566405
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35917654
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	32934876
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	36113896
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	35124713
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	31864555
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	33746162
+immune checkpoint inhibitors	colitis/chemically induced	0.8143583149525486	32584703
+micrornas/genetics	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33462141
+micrornas/genetics	ht29 cells	0.010752688172043012	33462141
+neoplasms/diagnosis	pneumonia/chemically induced	0.03225806451612904	32540858
+micrornas/genetics	colitis/chemically induced	0.7419354838709677	33462141
+immune checkpoint inhibitors	endometrial neoplasms/drug therapy	0.32258064516129037	35801666
+immune checkpoint inhibitors	dermatitis	0.32258064516129037	35977003
+micrornas/genetics	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+neoplasms/diagnosis	antibodies monoclonal humanized/administration & dosage	0.010752688172043012	32540858
+immune checkpoint inhibitors	antibodies monoclonal humanized	0.32258064516129037	35801666
+micrornas/genetics	b7-h1 antigen/genetics	0.010752688172043012	33462141
+immune checkpoint inhibitors	melanoma/drug therapy	0.5209124046446958	32162824
+immune checkpoint inhibitors	melanoma/drug therapy	0.5209124046446958	32641348
+immune checkpoint inhibitors	crohn disease/drug therapy	0.32258064516129037	33058056
+skin neoplasms/complications	PDCD1	0.2688172043010753	32404733
+tryptophan/pharmacology	neoplasms/drug therapy	0.12903225806451613	35236743
+immune checkpoint inhibitors	drug-related side effects and adverse reactions/diagnosis	0.32258064516129037	35191192
+immune checkpoint inhibitors	inflammatory bowel diseases	0.5434782608695652	35842365
+immune checkpoint inhibitors/adverse effects	myeloid cells/cytology	0.5698924731182795	32603654
+neoplasms/diagnostic imaging	pneumonia/diagnostic imaging	0.021505376344086023	33375984
+immune checkpoint inhibitors/adverse effects	colitis ulcerative/physiopathology	0.5698924731182795	34821404
+immune checkpoint inhibitors/adverse effects	myasthenia gravis/diagnosis	0.5698924731182795	34956219
+immune checkpoint inhibitors	drug-related side effects and adverse reactions	0.5434782608695652	32162824
+immune checkpoint inhibitors/adverse effects	ctla-4 antigen/immunology	0.5698924731182795	32603654
+immune checkpoint inhibitors/adverse effects	glycoproteins/metabolism	0.5698924731182795	32389505
+tryptophan/pharmacology	colitis/chemically induced	0.7419354838709677	35236743
+immune checkpoint inhibitors/adverse effects	pancreatitis/diagnostic imaging	0.5698924731182795	33375984
+immune checkpoint inhibitors/adverse effects	neoplasms/diagnostic imaging	0.3221131369798972	33375984
+immune checkpoint inhibitors/adverse effects	neoplasms/diagnostic imaging	0.3221131369798972	31754740
+neoplasms/diagnosis	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	32540858
+immune checkpoint inhibitors/adverse effects	colitis/diagnosis	0.817671809256662	32028372
+immune checkpoint inhibitors	lung neoplasms	0.32258064516129037	31864555
+immune checkpoint inhibitors/adverse effects	immunosuppressive agents/therapeutic use	0.5698924731182795	34956219
+immune checkpoint inhibitors	cd8-positive t-lymphocytes	0.32258064516129037	34106395
+immune checkpoint inhibitors/adverse effects	macrophages/drug effects	0.5698924731182795	34338882
+immune checkpoint inhibitors	beclomethasone/adverse effects	0.32258064516129037	36113896
+neoplasms/diagnosis	colitis/chemically induced	0.7419354838709677	32540858
+immune checkpoint inhibitors	ipilimumab/therapeutic use	0.6939799331103679	35124713
+immune checkpoint inhibitors/adverse effects	mycophenolic acid	0.5698924731182795	36504035
+immune checkpoint inhibitors	cytomegalovirus infections/complications	0.32258064516129037	35307927
+immune checkpoint inhibitors/adverse effects	interferon-gamma/metabolism	0.5698924731182795	34147519
+immune checkpoint inhibitors	inflammatory bowel diseases/complications	0.5434782608695652	32401685
+immune checkpoint inhibitors/adverse effects	immunologic memory/drug effects	0.5698924731182795	34147519
+tryptophan/pharmacology	immune checkpoint inhibitors/pharmacology	0.04301075268817205	35236743
+immune checkpoint inhibitors	rna	0.32258064516129037	35977003
+immune checkpoint inhibitors	steroids/therapeutic use	0.5434782608695652	31864555
+immune checkpoint inhibitors/adverse effects	skin neoplasms/drug therapy	0.817671809256662	32414860
+immune checkpoint inhibitors/adverse effects	colon/drug effects	0.6052895211380485	34338882
+immune checkpoint inhibitors/adverse effects	colon/drug effects	0.6052895211380485	34147519
+immune checkpoint inhibitors/adverse effects	infliximab/adverse effects	0.7893541708408469	32414860
+immune checkpoint inhibitors/adverse effects	infliximab/adverse effects	0.7893541708408469	33454238
+immune checkpoint inhibitors/adverse effects	lung neoplasms/drug therapy	0.817671809256662	33173388
+immune checkpoint inhibitors	CD274	0.9257828194908216	32934876
+immune checkpoint inhibitors	CD274	0.9257828194908216	33314269
+immune checkpoint inhibitors	CD274	0.9257828194908216	35917654
+immune checkpoint inhibitors/adverse effects	disease progression	0.5698924731182795	36377339
+immune checkpoint inhibitors	CHI3L1	0.32258064516129037	36096534
+immune checkpoint inhibitors/adverse effects	colitis	0.9686992141410093	35432346
+immune checkpoint inhibitors	CTLA4	0.33034437571557845	35977003
+immune checkpoint inhibitors	CTLA4	0.33034437571557845	35917654
+immune checkpoint inhibitors	CTLA4	0.33034437571557845	35191192
+immune checkpoint inhibitors	CTLA4	0.33034437571557845	32934876
+immune checkpoint inhibitors	CTLA4	0.33034437571557845	33314269
+immune checkpoint inhibitors/adverse effects	gastritis/chemically induced	0.5698924731182795	32621258
+immune checkpoint inhibitors	CXCL10	0.32258064516129037	35977003
+immune checkpoint inhibitors	CXCL8	0.32258064516129037	36096534
+immune checkpoint inhibitors/adverse effects	protein kinase inhibitors/therapeutic use	0.5698924731182795	33096100
+immune checkpoint inhibitors	CXCL9	0.32258064516129037	35977003
+immune checkpoint inhibitors/adverse effects	colitis/epidemiology	0.5698924731182795	32960847
+immune checkpoint inhibitors	IL17A	0.5434782608695652	36096534
+immune checkpoint inhibitors/adverse effects	sarcoidosis/diagnostic imaging	0.5698924731182795	33375984
+immune checkpoint inhibitors/adverse effects	squamous cell carcinoma of head and neck/drug therapy	0.5698924731182795	33476895
+immune checkpoint inhibitors	IL6	0.5434782608695652	36096534
+immune checkpoint inhibitors/adverse effects	tongue neoplasms/drug therapy	0.5698924731182795	33476895
+micrornas/genetics	APC	0.021505376344086023	33462141
+immune checkpoint inhibitors	LTF	0.32258064516129037	32584703
+immune checkpoint inhibitors/adverse effects	carcinoma non-small-cell lung/drug therapy	0.817671809256662	34992611
+micrornas/genetics	CD274	0.16129032258064516	33462141
+immune checkpoint inhibitors	PDCD1	0.9022632386477186	35801666
+immune checkpoint inhibitors	PDCD1	0.9022632386477186	35977003
+immune checkpoint inhibitors	PDCD1	0.9022632386477186	32401685
+immune checkpoint inhibitors	PDCD1	0.9022632386477186	35917654
+immune checkpoint inhibitors	PDCD1	0.9022632386477186	35191192
+immune checkpoint inhibitors	PDCD1	0.9022632386477186	33314269
+immune checkpoint inhibitors/adverse effects	gentian violet	0.5698924731182795	32888202
+immune checkpoint inhibitors	SNCA	0.24247491638795982	32934876
+immune checkpoint inhibitors	SNCA	0.24247491638795982	32641348
+immune checkpoint inhibitors	TCIM	0.32258064516129037	35977003
+immune checkpoint inhibitors/adverse effects	hepatitis/diagnostic imaging	0.5698924731182795	33375984
+micrornas/genetics	CD8A	0.05376344086021506	33462141
+immune checkpoint inhibitors	TNF	0.03128708598554321	32162824
+immune checkpoint inhibitors	TNF	0.03128708598554321	35977003
+immune checkpoint inhibitors	TNF	0.03128708598554321	32641348
+immune checkpoint inhibitors/adverse effects	chemical and drug induced liver injury/diagnosis	0.5698924731182795	33080231
+neoplasms/diagnosis	dose-response relationship drug	0.021505376344086023	32540858
+immune checkpoint inhibitors/adverse effects	b7-h1 antigen/antagonists & inhibitors	0.1805249449008215	32389505
+immune checkpoint inhibitors/adverse effects	b7-h1 antigen/antagonists & inhibitors	0.1805249449008215	32702598
+immune checkpoint inhibitors/adverse effects	b7-h1 antigen/antagonists & inhibitors	0.1805249449008215	32960847
+fatigue/chemically induced	pruritus/chemically induced	0.010752688172043012	32130969
+tryptophan/pharmacology	AHR	0.010752688172043012	35236743
+immune checkpoint inhibitors/adverse effects	inflammatory bowel diseases/drug therapy	0.6052895211380485	33555016
+immune checkpoint inhibitors/adverse effects	inflammatory bowel diseases/drug therapy	0.6052895211380485	35277350
+immune checkpoint inhibitors/adverse effects	antibodies monoclonal humanized/therapeutic use	0.5698924731182795	33454238
+immune checkpoint inhibitors/adverse effects	skin neoplasms/immunology	0.5698924731182795	34956219
+micrornas/genetics	IL17A	0.021505376344086023	33462141
+immune checkpoint inhibitors/adverse effects	steroids/adverse effects	0.5698924731182795	33454238
+neoplasms/diagnosis	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32540858
+immune checkpoint inhibitors/adverse effects	lymphocytes/drug effects	0.5698924731182795	32567084
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	33741313
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	33096100
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	31609734
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	33080231
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	33436487
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	33459466
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	34777387
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	34107499
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	34380976
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	32185493
+immune checkpoint inhibitors/adverse effects	neoplasms/drug therapy	0.007959418362813784	36377339
+immune checkpoint inhibitors/adverse effects	feces	0.5698924731182795	33290513
+micrornas/genetics	MIR15B	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	colitis/drug therapy	0.6052895211380485	32603654
+immune checkpoint inhibitors/adverse effects	colitis/drug therapy	0.6052895211380485	33436487
+fatigue/chemically induced	adrenal insufficiency/chemically induced	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	crohn disease/physiopathology	0.5698924731182795	34821404
+micrornas/genetics	NRF1	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	31609734
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	33436487
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	34107499
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	33173388
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	34158318
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	34380976
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	33290513
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	31595568
+immune checkpoint inhibitors/adverse effects	diarrhea/chemically induced	0.3839854950323438	36377339
+tryptophan/pharmacology	IL22	0.021505376344086023	35236743
+micrornas/genetics	PDCD1	0.2688172043010753	33462141
+immune checkpoint inhibitors/adverse effects	proton pump inhibitors/adverse effects	0.5698924731182795	35277350
+immune checkpoint inhibitors/adverse effects	pericarditis/diagnostic imaging	0.5698924731182795	33375984
+fatigue/chemically induced	axitinib/administration & dosage	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	ipilimumab/adverse effects	0.4022890528441667	34159488
+immune checkpoint inhibitors/adverse effects	ipilimumab/adverse effects	0.4022890528441667	33096100
+immune checkpoint inhibitors/adverse effects	ipilimumab/adverse effects	0.4022890528441667	33882697
+immune checkpoint inhibitors/adverse effects	ipilimumab/adverse effects	0.4022890528441667	34332139
+immune checkpoint inhibitors/adverse effects	ipilimumab/adverse effects	0.4022890528441667	31595568
+immune checkpoint inhibitors/adverse effects	ipilimumab/adverse effects	0.4022890528441667	32931028
+immune checkpoint inhibitors/adverse effects	encephalitis/diagnostic imaging	0.5698924731182795	33375984
+immune checkpoint inhibitors/adverse effects	dysbiosis/etiology	0.5698924731182795	34162429
+immune checkpoint inhibitors/adverse effects	clostridium infections/chemically induced	0.5698924731182795	34107499
+inflammation/drug therapy	immune checkpoint inhibitors/adverse effects	0.8176718092566619	32603654
+immune checkpoint inhibitors/adverse effects	anti-bacterial agents	0.5698924731182795	36043345
+metabolome/drug effects	immune checkpoint inhibitors/adverse effects	0.5698924731182795	34162429
+inflammation/drug therapy	myeloid cells/cytology	0.021505376344086023	32603654
+mycophenolic acid	colitis/chemically induced	0.7419354838709677	36504035
+immune checkpoint inhibitors/adverse effects	interleukin-23/antagonists & inhibitors	0.5698924731182795	33567198
+neoplasms/diagnosis	drugs investigational/administration & dosage	0.010752688172043012	32540858
+inflammation/drug therapy	ctla-4 antigen/immunology	0.021505376344086023	32603654
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34159488
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33741313
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32389505
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34751747
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32422528
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32702598
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	31609734
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36389768
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33459466
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33268234
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33173388
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32888202
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32414860
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33290513
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32185493
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33454238
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33096100
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	35277350
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33080231
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34777387
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32567084
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34380976
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	31595568
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34956219
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32434876
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33555016
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33882697
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	33906378
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32621258
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36338892
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36043345
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	32931028
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36159840
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36504035
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34992611
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34332139
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34107499
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36189293
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	34158318
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	31754740
+immune checkpoint inhibitors/adverse effects	colitis/chemically induced	0.28552761772611	36377339
+immune checkpoint inhibitors/adverse effects	neoplasms/complications	0.1805249449008215	34162429
+immune checkpoint inhibitors/adverse effects	neoplasms/complications	0.1805249449008215	34158318
+immune checkpoint inhibitors/adverse effects	neoplasms/complications	0.1805249449008215	32960847
+immune checkpoint inhibitors/adverse effects	abdominal pain/chemically induced	0.5698924731182795	36377339
+inflammation/drug therapy	immune checkpoint inhibitors	0.5434782608695652	36113896
+immune checkpoint inhibitors/adverse effects	crohn disease/immunology	0.5698924731182795	34338882
+immune checkpoint inhibitors/adverse effects	glucocorticoids/pharmacology	0.5698924731182795	32414860
+immune checkpoint inhibitors/adverse effects	cytomegalovirus infections/diagnosis	0.5698924731182795	32434876
+fatigue/chemically induced	colitis/chemically induced	0.7419354838709677	32130969
+immune checkpoint inhibitors/adverse effects	paclitaxel/therapeutic use	0.5698924731182795	33476895
+neoplasms/diagnosis	CD274	0.16129032258064516	32540858
+immune checkpoint inhibitors/adverse effects	receptors antigen t-cell/genetics	0.5698924731182795	32603654
+fatigue/chemically induced	hypophysitis/chemically induced	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	biomarkers/metabolism	0.5698924731182795	32389505
+immune checkpoint inhibitors/adverse effects	colitis/diagnostic imaging	0.5698924731182795	33375984
+immune checkpoint inhibitors/adverse effects	anti-bacterial agents/adverse effects	0.5698924731182795	34107499
+immune checkpoint inhibitors/adverse effects	oropharyngeal neoplasms/drug therapy	0.5698924731182795	33906378
+fatigue/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	vitamin d/administration & dosage	0.5698924731182795	32567084
+inflammation/drug therapy	colitis/drug therapy	0.0638148667601683	32603654
+immune checkpoint inhibitors/adverse effects	melanoma/immunology	0.5698924731182795	34956219
+inflammation/drug therapy	diarrhea/chemically induced	0.27980364656381496	36113896
+immune checkpoint inhibitors/adverse effects	t-lymphocytes regulatory/cytology	0.5698924731182795	32603654
+immune checkpoint inhibitors/adverse effects	intestinal mucosa/immunology	0.5698924731182795	33459466
+fatigue/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	disease susceptibility	0.5698924731182795	32028372
+immune checkpoint inhibitors/adverse effects	colitis ulcerative/chemically induced	0.5698924731182795	33476895
+neoplasms/diagnosis	PDCD1	0.2688172043010753	32540858
+immune checkpoint inhibitors/adverse effects	feces/chemistry	0.5698924731182795	33436487
+inflammation/drug therapy	colitis/chemically induced	0.935483870967742	36113896
+immune checkpoint inhibitors/adverse effects	melanoma/drug therapy	0.6321753688474461	33882697
+immune checkpoint inhibitors/adverse effects	melanoma/drug therapy	0.6321753688474461	36338892
+immune checkpoint inhibitors/adverse effects	melanoma/drug therapy	0.6321753688474461	32414860
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/therapeutic use	0.6052895211380485	36159840
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/therapeutic use	0.6052895211380485	36377339
+fatigue/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	piperidines/therapeutic use	0.3221131369798972	33096100
+immune checkpoint inhibitors/adverse effects	piperidines/therapeutic use	0.3221131369798972	34147519
+immune checkpoint inhibitors/adverse effects	adrenal cortex hormones/pharmacology	0.5698924731182795	33268234
+inflammation/drug therapy	receptors antigen t-cell/genetics	0.021505376344086023	32603654
+immune checkpoint inhibitors/adverse effects	immunocompromised host	0.5698924731182795	34956219
+immune checkpoint inhibitors/adverse effects	colon/immunology	0.3221131369798972	33459466
+immune checkpoint inhibitors/adverse effects	colon/immunology	0.3221131369798972	34777387
+fatigue/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+immune checkpoint inhibitors/adverse effects	dose-response relationship drug	0.817671809256662	33290513
+immune checkpoint inhibitors/adverse effects	neutrophils/drug effects	0.5698924731182795	32567084
+metabolome/drug effects	dysbiosis/etiology	0.010752688172043012	34162429
+immune checkpoint inhibitors/adverse effects	antibodies monoclonal/adverse effects	0.5698924731182795	32567084
+fatigue/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+immune checkpoint inhibitors/adverse effects	colitis/etiology	0.817671809256662	34162429
+inflammation/drug therapy	t-lymphocytes regulatory/cytology	0.021505376344086023	32603654
+immune checkpoint inhibitors/adverse effects	immunosuppressive agents/pharmacology	0.5698924731182795	32414860
+immune checkpoint inhibitors/adverse effects	leukocyte l1 antigen complex/analysis	0.5698924731182795	33436487
+immune checkpoint inhibitors/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.5234742109264886	34147519
+immune checkpoint inhibitors/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.5234742109264886	32702598
+immune checkpoint inhibitors/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.5234742109264886	32567084
+immune checkpoint inhibitors/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.5234742109264886	32960847
+immune checkpoint inhibitors/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.5234742109264886	33476895
+metabolome/drug effects	neoplasms/complications	0.03225806451612904	34162429
+immune checkpoint inhibitors/adverse effects	gastrointestinal neoplasms/drug therapy	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	ligands	0.5698924731182795	35432346
+immune checkpoint inhibitors/adverse effects	postoperative complications	0.5698924731182795	32028372
+gene expression regulation neoplastic	lymphocytes tumor-infiltrating/metabolism	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	melanoma/complications	0.9238629533159688	32567084
+immune checkpoint inhibitors/adverse effects	adenocarcinoma of lung/drug therapy	0.5698924731182795	32389505
+immune checkpoint inhibitors/adverse effects	chemokines/metabolism	0.5698924731182795	32603654
+immune checkpoint inhibitors/adverse effects	ctla-4 antigen/antagonists & inhibitors	0.1805249449008215	32567084
+immune checkpoint inhibitors/adverse effects	ctla-4 antigen/antagonists & inhibitors	0.1805249449008215	32702598
+immune checkpoint inhibitors/adverse effects	ctla-4 antigen/antagonists & inhibitors	0.1805249449008215	34147519
+immune checkpoint inhibitors/adverse effects	t-lymphocyte subsets/immunology	0.5698924731182795	34777387
+inflammation/drug therapy	chemokines/metabolism	0.021505376344086023	32603654
+immune checkpoint inhibitors/adverse effects	mucositis/chemically induced	0.5698924731182795	32414860
+inflammation/drug therapy	multigene family	0.021505376344086023	32603654
+immune checkpoint inhibitors/adverse effects	multigene family	0.5698924731182795	32603654
+gene expression regulation neoplastic	t-lymphocytes cytotoxic/immunology	0.010752688172043012	33462141
+fatigue/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+immune checkpoint inhibitors/adverse effects	gastritis/complications	0.5698924731182795	36377339
+gene expression regulation neoplastic	tumor microenvironment/drug effects	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	biological products/therapeutic use	0.5698924731182795	34380976
+inflammation/drug therapy	beclomethasone/adverse effects	0.021505376344086023	36113896
+immune checkpoint inhibitors/adverse effects	enterocolitis/chemically induced	0.3221131369798972	36377339
+immune checkpoint inhibitors/adverse effects	enterocolitis/chemically induced	0.3221131369798972	34821404
+colitis ulcerative/physiopathology	crohn disease/physiopathology	0.010752688172043012	34821404
+immune checkpoint inhibitors/adverse effects	graft vs host disease/immunology	0.5698924731182795	34338882
+immune checkpoint inhibitors/adverse effects	hepatitis/diagnosis	0.5698924731182795	32185493
+gene expression regulation neoplastic	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33462141
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	32422528
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	32702598
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	32567084
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	36338892
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	32434876
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	34162429
+immune checkpoint inhibitors/adverse effects	antineoplastic agents immunological/adverse effects	0.016270764526575002	33476895
+immune checkpoint inhibitors/adverse effects	ipilimumab/therapeutic use	0.9238629533159688	35277350
+gene expression regulation neoplastic	ht29 cells	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	pneumonia/diagnostic imaging	0.5698924731182795	33375984
+gene expression regulation neoplastic	colitis/chemically induced	0.7419354838709677	33462141
+immune checkpoint inhibitors/adverse effects	interleukin-12/antagonists & inhibitors	0.5698924731182795	33567198
+immune checkpoint inhibitors/adverse effects	cd8-positive t-lymphocytes/drug effects	0.3221131369798972	34338882
+immune checkpoint inhibitors/adverse effects	cd8-positive t-lymphocytes/drug effects	0.3221131369798972	34147519
+metabolome/drug effects	colitis/etiology	0.021505376344086023	34162429
+immune checkpoint inhibitors/adverse effects	biomarkers/analysis	0.5698924731182795	33436487
+inflammation/drug therapy	CTLA4	0.24263674614305747	32603654
+immune checkpoint inhibitors/adverse effects	phenotype	0.3221131369798972	34338882
+immune checkpoint inhibitors/adverse effects	phenotype	0.3221131369798972	34147519
+immune checkpoint inhibitors/adverse effects	butyrates/metabolism	0.5698924731182795	33741313
+gene expression regulation neoplastic	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	inflammatory bowel diseases/complications	0.817671809256662	34158318
+immune checkpoint inhibitors/adverse effects	anti-bacterial agents/pharmacology	0.5698924731182795	34162429
+gene expression regulation neoplastic	b7-h1 antigen/genetics	0.010752688172043012	33462141
+immune checkpoint inhibitors/adverse effects	steroids/therapeutic use	0.817671809256662	33290513
+inflammation/drug therapy	PDCD1	0.4675081813931744	32603654
+immune checkpoint inhibitors/adverse effects	inflammation	0.5698924731182795	32888202
+immune checkpoint inhibitors/adverse effects	prednisone/therapeutic use	0.5698924731182795	34956219
+antibodies monoclonal humanized/adverse effects	immune checkpoint inhibitors/adverse effects	0.5698924731182795	34956219
+immune checkpoint inhibitors/adverse effects	BTLA	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	36159840
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	32389505
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	34992611
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	32702598
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	33555016
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	33173388
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	34158318
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	32960847
+immune checkpoint inhibitors/adverse effects	CD274	0.5146397015671553	35432346
+immune checkpoint inhibitors/adverse effects	CD28	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	CD4	0.3221131369798972	33555016
+immune checkpoint inhibitors/adverse effects	CD4	0.3221131369798972	34338882
+metabolome/drug effects	antineoplastic agents immunological/adverse effects	0.07526881720430108	34162429
+immune checkpoint inhibitors/adverse effects	CD68	0.3221131369798972	33555016
+immune checkpoint inhibitors/adverse effects	CD68	0.3221131369798972	34338882
+antibodies monoclonal humanized/adverse effects	myasthenia gravis/diagnosis	0.010752688172043012	34956219
+immune checkpoint inhibitors/adverse effects	CD8A	0.6321753688474461	33555016
+immune checkpoint inhibitors/adverse effects	CD8A	0.6321753688474461	34338882
+immune checkpoint inhibitors/adverse effects	CD8A	0.6321753688474461	34147519
+immune checkpoint inhibitors/adverse effects	CSF2	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	34992611
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	32702598
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	32603654
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	33555016
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	32567084
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	35432346
+immune checkpoint inhibitors/adverse effects	CTLA4	0.5874931030514177	34147519
+antibodies monoclonal humanized/adverse effects	immunosuppressive agents/therapeutic use	0.010752688172043012	34956219
+metabolome/drug effects	anti-bacterial agents/pharmacology	0.010752688172043012	34162429
+immune checkpoint inhibitors/adverse effects	HAVCR2	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	IL15	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	IL17C	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	IL21	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	IL22	0.817671809256662	36159840
+immune checkpoint inhibitors/adverse effects	IL4	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	IL6	0.817671809256662	36159840
+immune checkpoint inhibitors/adverse effects	LIF	0.5698924731182795	36159840
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	36159840
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	34992611
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	32702598
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	32603654
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	33555016
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	33906378
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	33173388
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	32567084
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	34158318
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	32960847
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	35432346
+immune checkpoint inhibitors/adverse effects	PDCD1	0.9025170382516654	34147519
+immune checkpoint inhibitors/adverse effects	SNCA	0.9238629533159688	33476895
+colitis ulcerative/physiopathology	enterocolitis/chemically induced	0.021505376344086023	34821404
+exanthema/chemically induced	bevacizumab/administration & dosage	0.010752688172043012	32130969
+exanthema/chemically induced	pneumonia/chemically induced	0.03225806451612904	32130969
+antibodies monoclonal humanized/adverse effects	skin neoplasms/immunology	0.010752688172043012	34956219
+exanthema/chemically induced	fatigue/chemically induced	0.010752688172043012	32130969
+exanthema/chemically induced	pruritus/chemically induced	0.010752688172043012	32130969
+colon/diagnostic imaging	drug resistance/immunology	0.010752688172043012	32414860
+exanthema/chemically induced	adrenal insufficiency/chemically induced	0.010752688172043012	32130969
+colon/diagnostic imaging	immune checkpoint inhibitors/adverse effects	0.5698924731182795	32414860
+antibodies monoclonal humanized/adverse effects	colitis/chemically induced	0.7419354838709677	34956219
+exanthema/chemically induced	axitinib/administration & dosage	0.010752688172043012	32130969
+gene expression regulation neoplastic	APC	0.021505376344086023	33462141
+gene expression regulation neoplastic	CD274	0.16129032258064516	33462141
+gene expression regulation neoplastic	CD8A	0.05376344086021506	33462141
+exanthema/chemically induced	colitis/chemically induced	0.7419354838709677	32130969
+exanthema/chemically induced	hypophysitis/chemically induced	0.010752688172043012	32130969
+gene expression regulation neoplastic	IL17A	0.021505376344086023	33462141
+antibodies monoclonal humanized/adverse effects	melanoma/immunology	0.010752688172043012	34956219
+exanthema/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+colon/diagnostic imaging	skin neoplasms/drug therapy	0.021505376344086023	32414860
+colon/diagnostic imaging	infliximab/adverse effects	0.04301075268817205	32414860
+gene expression regulation neoplastic	MIR15B	0.010752688172043012	33462141
+gene expression regulation neoplastic	NRF1	0.010752688172043012	33462141
+exanthema/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+gene expression regulation neoplastic	PDCD1	0.2688172043010753	33462141
+myasthenia gravis/diagnosis	immunosuppressive agents/therapeutic use	0.010752688172043012	34956219
+colitis/diagnosis	disease susceptibility	0.021505376344086023	32028372
+exanthema/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+antibodies monoclonal humanized/adverse effects	immunocompromised host	0.010752688172043012	34956219
+colitis/diagnosis	immune checkpoint inhibitors/pharmacology	0.08461898083216456	32298485
+exanthema/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+exanthema/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+colitis/diagnosis	inflammatory bowel diseases	0.04277699859747545	32298485
+colitis/diagnosis	postoperative complications	0.021505376344086023	32028372
+lymphocytes tumor-infiltrating/metabolism	t-lymphocytes cytotoxic/immunology	0.010752688172043012	33462141
+exanthema/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+lymphocytes tumor-infiltrating/metabolism	tumor microenvironment/drug effects	0.010752688172043012	33462141
+colitis/diagnosis	gastrointestinal tract/metabolism	0.021505376344086023	32298485
+myasthenia gravis/diagnosis	skin neoplasms/immunology	0.010752688172043012	34956219
+colon/diagnostic imaging	colitis/chemically induced	0.7419354838709677	32414860
+colon/diagnostic imaging	glucocorticoids/pharmacology	0.010752688172043012	32414860
+colitis/diagnosis	b7-h1 antigen/metabolism	0.021505376344086023	32298485
+lymphocytes tumor-infiltrating/metabolism	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33462141
+antibodies monoclonal humanized/adverse effects	prednisone/therapeutic use	0.010752688172043012	34956219
+colitis/diagnosis	CD274	0.2980364656381486	32298485
+lymphocytes tumor-infiltrating/metabolism	ht29 cells	0.010752688172043012	33462141
+myasthenia gravis/diagnosis	colitis/chemically induced	0.7419354838709677	34956219
+bevacizumab/administration & dosage	pneumonia/chemically induced	0.03225806451612904	32130969
+lymphocytes tumor-infiltrating/metabolism	colitis/chemically induced	0.7419354838709677	33462141
+bevacizumab/administration & dosage	fatigue/chemically induced	0.010752688172043012	32130969
+colon/diagnostic imaging	melanoma/drug therapy	0.05376344086021506	32414860
+bevacizumab/administration & dosage	pruritus/chemically induced	0.010752688172043012	32130969
+colitis/diagnosis	PDCD1	0.4675081813931744	32298485
+lymphocytes tumor-infiltrating/metabolism	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+myasthenia gravis/diagnosis	melanoma/immunology	0.010752688172043012	34956219
+bevacizumab/administration & dosage	adrenal insufficiency/chemically induced	0.010752688172043012	32130969
+lymphocytes tumor-infiltrating/metabolism	b7-h1 antigen/genetics	0.010752688172043012	33462141
+bevacizumab/administration & dosage	axitinib/administration & dosage	0.010752688172043012	32130969
+pyrimidines/therapeutic use	immune checkpoint inhibitors/adverse effects	0.3221131369798972	33096100
+pyrimidines/therapeutic use	immune checkpoint inhibitors/adverse effects	0.3221131369798972	34147519
+interferon-gamma/metabolism	PDCD1	0.2688172043010753	34147519
+immunosuppressive agents/therapeutic use	skin neoplasms/immunology	0.010752688172043012	34956219
+myasthenia gravis/diagnosis	immunocompromised host	0.010752688172043012	34956219
+mesalamine/pharmacology	colon/drug effects	0.03225806451612904	33506015
+bevacizumab/administration & dosage	colitis/chemically induced	0.7419354838709677	32130969
+bevacizumab/administration & dosage	hypophysitis/chemically induced	0.010752688172043012	32130969
+bevacizumab/administration & dosage	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+immunosuppressive agents/therapeutic use	colitis/chemically induced	0.7419354838709677	34956219
+bevacizumab/administration & dosage	myocarditis/chemically induced	0.010752688172043012	32130969
+pyrimidines/therapeutic use	interferon-gamma/metabolism	0.021505376344086023	34147519
+pyrimidines/therapeutic use	immunologic memory/drug effects	0.021505376344086023	34147519
+pyrimidines/therapeutic use	colon/drug effects	0.0638148667601683	34147519
+bevacizumab/administration & dosage	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+immunosuppressive agents/therapeutic use	melanoma/immunology	0.010752688172043012	34956219
+lung neoplasms/drug therapy	CD274	0.2980364656381486	33173388
+bevacizumab/administration & dosage	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+bevacizumab/administration & dosage	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+immunosuppressive agents/therapeutic use	immunocompromised host	0.010752688172043012	34956219
+mesalamine/pharmacology	colitis/chemically induced	0.7419354838709677	33506015
+myasthenia gravis/diagnosis	prednisone/therapeutic use	0.010752688172043012	34956219
+bevacizumab/administration & dosage	ipilimumab/therapeutic use	0.03225806451612904	32130969
+lung neoplasms/drug therapy	PDCD1	0.4675081813931744	33173388
+lymphocytes tumor-infiltrating/metabolism	APC	0.021505376344086023	33462141
+lymphocytes tumor-infiltrating/metabolism	CD274	0.16129032258064516	33462141
+lymphocytes tumor-infiltrating/metabolism	CD8A	0.05376344086021506	33462141
+immunosuppressive agents/therapeutic use	prednisone/therapeutic use	0.010752688172043012	34956219
+lymphocytes tumor-infiltrating/metabolism	IL17A	0.021505376344086023	33462141
+mesalamine/pharmacology	immune checkpoint inhibitors/pharmacology	0.04301075268817205	33506015
+lymphocytes tumor-infiltrating/metabolism	MIR15B	0.010752688172043012	33462141
+lymphocytes tumor-infiltrating/metabolism	NRF1	0.010752688172043012	33462141
+diarrhea/therapy	colitis/drug therapy	0.03225806451612904	32780984
+lymphocytes tumor-infiltrating/metabolism	PDCD1	0.2688172043010753	33462141
+programmed cell death 1 receptor/metabolism	colitis/diagnosis	0.021505376344086023	32298485
+mesalamine/pharmacology	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33506015
+mesalamine/pharmacology	trinitrobenzenesulfonic acid/adverse effects	0.010752688172043012	33506015
+diarrhea/therapy	neoplasms/therapy	0.010752688172043012	32780984
+macrophages/drug effects	colon/drug effects	0.03225806451612904	34338882
+ctla-4 antigen/immunology	colitis/drug therapy	0.03225806451612904	32603654
+glucocorticoids	diarrhea/chemically induced	0.15053763440860218	36096534
+mesalamine/pharmacology	ACAD8	0.021505376344086023	33506015
+macrophages/drug effects	crohn disease/immunology	0.010752688172043012	34338882
+glucocorticoids	colitis/chemically induced	0.7419354838709677	36096534
+ctla-4 antigen/immunology	receptors antigen t-cell/genetics	0.010752688172043012	32603654
+mesalamine/pharmacology	PDCD1	0.2688172043010753	33506015
+ctla-4 antigen/immunology	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+programmed cell death 1 receptor/metabolism	immune checkpoint inhibitors/pharmacology	0.04301075268817205	32298485
+immunologic memory/drug effects	colon/drug effects	0.03225806451612904	34147519
+programmed cell death 1 receptor/metabolism	inflammatory bowel diseases	0.021505376344086023	32298485
+macrophages/drug effects	graft vs host disease/immunology	0.010752688172043012	34338882
+macrophages/drug effects	cd8-positive t-lymphocytes/drug effects	0.021505376344086023	34338882
+programmed cell death 1 receptor/metabolism	gastrointestinal tract/metabolism	0.010752688172043012	32298485
+macrophages/drug effects	phenotype	0.021505376344086023	34338882
+ctla-4 antigen/immunology	chemokines/metabolism	0.010752688172043012	32603654
+programmed cell death 1 receptor/metabolism	b7-h1 antigen/metabolism	0.010752688172043012	32298485
+ctla-4 antigen/immunology	multigene family	0.010752688172043012	32603654
+macrophages/drug effects	CD4	0.021505376344086023	34338882
+macrophages/drug effects	CD68	0.021505376344086023	34338882
+macrophages/drug effects	CD8A	0.05376344086021506	34338882
+programmed cell death 1 receptor/metabolism	CD274	0.16129032258064516	32298485
+programmed cell death 1 receptor/metabolism	PDCD1	0.2688172043010753	32298485
+disease progression	neoplasms/drug therapy	0.12903225806451613	36377339
+glucocorticoids	CHI3L1	0.010752688172043012	36096534
+ctla-4 antigen/immunology	CTLA4	0.12903225806451613	32603654
+squamous cell carcinoma of head and neck/drug therapy	paclitaxel/therapeutic use	0.010752688172043012	33476895
+immunologic memory/drug effects	piperidines/therapeutic use	0.021505376344086023	34147519
+glucocorticoids	CXCL8	0.010752688172043012	36096534
+disease progression	diarrhea/chemically induced	0.15053763440860218	36377339
+glucocorticoids	IL17A	0.021505376344086023	36096534
+glucocorticoids	IL6	0.021505376344086023	36096534
+squamous cell carcinoma of head and neck/drug therapy	colitis ulcerative/chemically induced	0.010752688172043012	33476895
+immunologic memory/drug effects	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34147519
+disease progression	colitis/chemically induced	0.7419354838709677	36377339
+ctla-4 antigen/immunology	PDCD1	0.2688172043010753	32603654
+disease progression	abdominal pain/chemically induced	0.010752688172043012	36377339
+pneumonia/chemically induced	fatigue/chemically induced	0.03225806451612903	32130969
+interferon-gamma/metabolism	immunologic memory/drug effects	0.010752688172043012	34147519
+immunologic memory/drug effects	ctla-4 antigen/antagonists & inhibitors	0.03225806451612904	34147519
+squamous cell carcinoma of head and neck/drug therapy	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33476895
+interferon-gamma/metabolism	colon/drug effects	0.03225806451612904	34147519
+pneumonia/chemically induced	immune checkpoint inhibitors	0.6939799331103678	35124713
+pneumonia/chemically induced	pruritus/chemically induced	0.03225806451612903	32130969
+pneumonia/chemically induced	antibodies monoclonal humanized/administration & dosage	0.03225806451612903	32540858
+squamous cell carcinoma of head and neck/drug therapy	antineoplastic agents immunological/adverse effects	0.07526881720430108	33476895
+immunologic memory/drug effects	cd8-positive t-lymphocytes/drug effects	0.021505376344086023	34147519
+disease progression	antineoplastic agents immunological/therapeutic use	0.03225806451612904	36377339
+immunologic memory/drug effects	phenotype	0.021505376344086023	34147519
+axitinib/administration & dosage	colitis/chemically induced	0.7419354838709677	32130969
+axitinib/administration & dosage	hypophysitis/chemically induced	0.010752688172043012	32130969
+pneumonia/chemically induced	adrenal insufficiency/chemically induced	0.03225806451612903	32130969
+pneumonia/chemically induced	carcinoma non-small-cell lung/drug therapy	0.0638148667601683	35124713
+axitinib/administration & dosage	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+pneumonia/chemically induced	axitinib/administration & dosage	0.03225806451612903	32130969
+axitinib/administration & dosage	myocarditis/chemically induced	0.010752688172043012	32130969
+immunologic memory/drug effects	CD8A	0.05376344086021506	34147519
+squamous cell carcinoma of head and neck/drug therapy	SNCA	0.03225806451612904	33476895
+axitinib/administration & dosage	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+immunologic memory/drug effects	CTLA4	0.12903225806451613	34147519
+disease progression	gastritis/complications	0.010752688172043012	36377339
+pneumonia/chemically induced	immune checkpoint inhibitors/administration & dosage	0.12485550914723424	32540858
+axitinib/administration & dosage	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+disease progression	enterocolitis/chemically induced	0.021505376344086023	36377339
+axitinib/administration & dosage	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+pneumonia/chemically induced	colitis/chemically induced	0.4037575327897907	35124713
+pneumonia/chemically induced	colitis/chemically induced	0.4037575327897907	32540858
+pneumonia/chemically induced	colitis/chemically induced	0.4037575327897907	32130969
+immunologic memory/drug effects	PDCD1	0.2688172043010753	34147519
+pneumonia/chemically induced	hypophysitis/chemically induced	0.03225806451612903	32130969
+tongue neoplasms/drug therapy	paclitaxel/therapeutic use	0.010752688172043012	33476895
+pneumonia/chemically induced	angiogenesis inhibitors/therapeutic use	0.03225806451612903	32130969
+axitinib/administration & dosage	ipilimumab/therapeutic use	0.03225806451612904	32130969
+interferon-gamma/metabolism	piperidines/therapeutic use	0.021505376344086023	34147519
+pruritus/chemically induced	adrenal insufficiency/chemically induced	0.010752688172043012	32130969
+pneumonia/chemically induced	myocarditis/chemically induced	0.03225806451612903	32130969
+tongue neoplasms/drug therapy	colitis ulcerative/chemically induced	0.010752688172043012	33476895
+pruritus/chemically induced	axitinib/administration & dosage	0.010752688172043012	32130969
+interferon-gamma/metabolism	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34147519
+pneumonia/chemically induced	hepatitis autoimmune/etiology	0.03225806451612903	32130969
+tongue neoplasms/drug therapy	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33476895
+interferon-gamma/metabolism	ctla-4 antigen/antagonists & inhibitors	0.03225806451612904	34147519
+pneumonia/chemically induced	dose-response relationship drug	0.0638148667601683	32540858
+pneumonia/chemically induced	myasthenia gravis/chemically induced	0.03225806451612903	32130969
+pneumonia/chemically induced	immune checkpoint inhibitors/therapeutic use	0.0638148667601683	32130969
+tongue neoplasms/drug therapy	antineoplastic agents immunological/adverse effects	0.07526881720430108	33476895
+pneumonia/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.23886071852411256	32540858
+pruritus/chemically induced	colitis/chemically induced	0.7419354838709677	32130969
+tumor microenvironment/drug effects	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33462141
+pruritus/chemically induced	hypophysitis/chemically induced	0.010752688172043012	32130969
+tumor microenvironment/drug effects	ht29 cells	0.010752688172043012	33462141
+tumor microenvironment/drug effects	colitis/chemically induced	0.7419354838709677	33462141
+interferon-gamma/metabolism	cd8-positive t-lymphocytes/drug effects	0.021505376344086023	34147519
+pruritus/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+interferon-gamma/metabolism	phenotype	0.021505376344086023	34147519
+tumor microenvironment/drug effects	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+tumor necrosis factor inhibitors	diarrhea/chemically induced	0.15053763440860218	32641348
+pruritus/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+pneumonia/chemically induced	ipilimumab/therapeutic use	0.0020883744586409386	35124713
+pneumonia/chemically induced	ipilimumab/therapeutic use	0.0020883744586409386	32130969
+tumor microenvironment/drug effects	b7-h1 antigen/genetics	0.010752688172043012	33462141
+pneumonia/chemically induced	drugs investigational/administration & dosage	0.03225806451612903	32540858
+tongue neoplasms/drug therapy	SNCA	0.03225806451612904	33476895
+interferon-gamma/metabolism	CD8A	0.05376344086021506	34147519
+pruritus/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+tumor necrosis factor inhibitors	colitis/chemically induced	0.7419354838709677	32641348
+interferon-gamma/metabolism	CTLA4	0.12903225806451613	34147519
+adrenal insufficiency/chemically induced	axitinib/administration & dosage	0.010752688172043012	32130969
+pruritus/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+pneumonia/chemically induced	CD274	0.41374474053295934	32540858
+pruritus/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+feces	diarrhea/chemically induced	0.15053763440860218	33290513
+adrenal insufficiency/chemically induced	colitis/chemically induced	0.7419354838709677	32130969
+feces	colitis/chemically induced	0.7419354838709677	33290513
+adrenal insufficiency/chemically induced	hypophysitis/chemically induced	0.010752688172043012	32130969
+tumor necrosis factor inhibitors	melanoma/drug therapy	0.05376344086021506	32641348
+pneumonia/chemically induced	PDCD1	0.6137971425488957	32540858
+tumor microenvironment/drug effects	APC	0.021505376344086023	33462141
+adrenal insufficiency/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+tumor microenvironment/drug effects	CD274	0.16129032258064516	33462141
+pruritus/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+tumor microenvironment/drug effects	CD8A	0.05376344086021506	33462141
+adrenal insufficiency/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+tumor microenvironment/drug effects	IL17A	0.021505376344086023	33462141
+adrenal insufficiency/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+ipilimumab/adverse effects	CTLA4	0.08887240280676237	35191192
+ipilimumab/adverse effects	CTLA4	0.08887240280676237	32934876
+ipilimumab/adverse effects	CTLA4	0.08887240280676237	35917654
+tumor microenvironment/drug effects	MIR15B	0.010752688172043012	33462141
+tumor microenvironment/drug effects	NRF1	0.010752688172043012	33462141
+adrenal insufficiency/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+tumor microenvironment/drug effects	PDCD1	0.2688172043010753	33462141
+adrenal insufficiency/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+feces	dose-response relationship drug	0.021505376344086023	33290513
+ipilimumab/adverse effects	PDCD1	0.7566317442271808	35191192
+ipilimumab/adverse effects	PDCD1	0.7566317442271808	35917654
+ipilimumab/adverse effects	SNCA	0.26572445787032045	32934876
+b7-h1 antigen/antagonists & inhibitors	colitis/chemically induced	0.837646224742999	32389505
+b7-h1 antigen/antagonists & inhibitors	colitis/chemically induced	0.837646224742999	32702598
+adrenal insufficiency/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+b7-h1 antigen/antagonists & inhibitors	neoplasms/complications	0.09467811291093199	32960847
+b7-h1 antigen/antagonists & inhibitors	biomarkers/metabolism	0.03225806451612903	32389505
+encephalitis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+b7-h1 antigen/antagonists & inhibitors	programmed cell death 1 receptor/antagonists & inhibitors	0.018772251591325922	32702598
+b7-h1 antigen/antagonists & inhibitors	programmed cell death 1 receptor/antagonists & inhibitors	0.018772251591325922	32960847
+feces	steroids/therapeutic use	0.021505376344086023	33290513
+b7-h1 antigen/antagonists & inhibitors	adenocarcinoma of lung/drug therapy	0.03225806451612903	32389505
+b7-h1 antigen/antagonists & inhibitors	ctla-4 antigen/antagonists & inhibitors	0.09467811291093199	32702598
+tumor necrosis factor inhibitors	SNCA	0.03225806451612904	32641348
+tumor necrosis factor inhibitors	TNF	0.03225806451612904	32641348
+b7-h1 antigen/antagonists & inhibitors	antineoplastic agents immunological/adverse effects	0.2113496601575143	32702598
+antibodies monoclonal humanized/administration & dosage	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	32540858
+carcinoma non-small-cell lung/drug therapy	colitis/chemically induced	0.5483870967741937	35124713
+carcinoma non-small-cell lung/drug therapy	colitis/chemically induced	0.5483870967741937	34992611
+antibodies monoclonal humanized/administration & dosage	colitis/chemically induced	0.7419354838709677	32540858
+colitis	inflammatory bowel diseases/drug therapy	0.12485550914723427	33314269
+b7-h1 antigen/antagonists & inhibitors	CD274	0.003506311360448808	32389505
+b7-h1 antigen/antagonists & inhibitors	CD274	0.003506311360448808	32702598
+b7-h1 antigen/antagonists & inhibitors	CD274	0.003506311360448808	32960847
+colitis	recurrence	0.04301075268817204	35842365
+b7-h1 antigen/antagonists & inhibitors	CTLA4	0.3425088235747422	32702598
+encephalitis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+b7-h1 antigen/antagonists & inhibitors	PDCD1	0.1749302590817317	32702598
+b7-h1 antigen/antagonists & inhibitors	PDCD1	0.1749302590817317	32960847
+inflammatory bowel diseases/drug therapy	proton pump inhibitors/adverse effects	0.03225806451612903	35277350
+antibodies monoclonal humanized/administration & dosage	dose-response relationship drug	0.021505376344086023	32540858
+carcinoma non-small-cell lung/drug therapy	ipilimumab/therapeutic use	0.0638148667601683	35124713
+inflammatory bowel diseases/drug therapy	colitis/chemically induced	0.837646224742999	33555016
+inflammatory bowel diseases/drug therapy	colitis/chemically induced	0.837646224742999	35277350
+antibodies monoclonal humanized/administration & dosage	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32540858
+carcinoma non-small-cell lung/drug therapy	CD274	0.2980364656381486	34992611
+carcinoma non-small-cell lung/drug therapy	CTLA4	0.24263674614305747	34992611
+colitis	inflammatory bowel diseases	0.08461898083216456	35842365
+carcinoma non-small-cell lung/drug therapy	PDCD1	0.4675081813931744	34992611
+immune checkpoint inhibitors/administration & dosage	ht29 cells	0.04301075268817204	33462141
+antibodies monoclonal humanized/administration & dosage	drugs investigational/administration & dosage	0.010752688172043012	32540858
+immune checkpoint inhibitors/administration & dosage	colitis/chemically induced	0.2960888573791799	33495297
+immune checkpoint inhibitors/administration & dosage	colitis/chemically induced	0.2960888573791799	32540858
+immune checkpoint inhibitors/administration & dosage	colitis/chemically induced	0.2960888573791799	32418993
+immune checkpoint inhibitors/administration & dosage	colitis/chemically induced	0.2960888573791799	33462141
+immune checkpoint inhibitors/administration & dosage	phthalazines/administration & dosage	0.04301075268817204	33495297
+colitis	ligands	0.04301075268817204	35432346
+immune checkpoint inhibitors/administration & dosage	dextran sulfate/adverse effects	0.04301075268817204	33495297
+azoxymethane/adverse effects	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33495297
+inflammatory bowel diseases/drug therapy	ipilimumab/therapeutic use	0.09467811291093199	35277350
+immune checkpoint inhibitors/administration & dosage	colorectal neoplasms/drug therapy	0.04301075268817204	33462141
+antibodies monoclonal humanized/administration & dosage	CD274	0.16129032258064516	32540858
+azoxymethane/adverse effects	colitis/chemically induced	0.7419354838709677	33495297
+azoxymethane/adverse effects	phthalazines/administration & dosage	0.010752688172043012	33495297
+immune checkpoint inhibitors/administration & dosage	carcinoma non-small-cell lung/complications	0.04301075268817204	32418993
+azoxymethane/adverse effects	dextran sulfate/adverse effects	0.010752688172043012	33495297
+immune checkpoint inhibitors/administration & dosage	b7-h1 antigen/genetics	0.04301075268817204	33462141
+immune checkpoint inhibitors/administration & dosage	colonic neoplasms/drug therapy	0.04301075268817204	33495297
+inflammatory bowel diseases/drug therapy	CD274	0.06661991584852735	33555016
+inflammatory bowel diseases/drug therapy	CD274	0.06661991584852735	33314269
+inflammatory bowel diseases/drug therapy	CD4	0.0638148667601683	33555016
+inflammatory bowel diseases/drug therapy	CD68	0.0638148667601683	33555016
+inflammatory bowel diseases/drug therapy	CD8A	0.15435476164788925	33555016
+colitis microscopic/chemically induced	inflammatory bowel diseases/complications	0.04277699859747545	32401685
+azoxymethane/adverse effects	colonic neoplasms/drug therapy	0.010752688172043012	33495297
+inflammatory bowel diseases/drug therapy	CTLA4	0.042892591279688044	33555016
+inflammatory bowel diseases/drug therapy	CTLA4	0.042892591279688044	33314269
+antibodies monoclonal humanized/administration & dosage	PDCD1	0.2688172043010753	32540858
+immune checkpoint inhibitors/administration & dosage	dose-response relationship drug	0.08461898083216456	32540858
+inflammatory bowel diseases/drug therapy	PDCD1	0.1749302590817317	33555016
+inflammatory bowel diseases/drug therapy	PDCD1	0.1749302590817317	33314269
+skin neoplasms/drug therapy	infliximab/adverse effects	0.08461898083216456	32414860
+antibodies monoclonal humanized/therapeutic use	steroids/adverse effects	0.010752688172043012	33454238
+azoxymethane/adverse effects	cell line tumor	0.021505376344086023	33495297
+colitis	CD274	0.12061711079943897	35432346
+colitis	CD274	0.12061711079943897	33314269
+skin neoplasms/drug therapy	tumor necrosis factor inhibitors	0.021505376344086023	32641348
+immune checkpoint inhibitors/administration & dosage	programmed cell death 1 receptor/antagonists & inhibitors	0.30651754354419153	32540858
+immune checkpoint inhibitors/administration & dosage	drug-related side effects and adverse reactions	0.08461898083216456	32418993
+azoxymethane/adverse effects	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.010752688172043012	33495297
+immune checkpoint inhibitors/administration & dosage	melanoma/complications	0.12485550914723427	32418993
+immune checkpoint inhibitors/administration & dosage	cell line tumor	0.08461898083216456	33495297
+colitis	CTLA4	0.0795123530046391	35432346
+colitis	CTLA4	0.0795123530046391	33314269
+antibodies monoclonal humanized/therapeutic use	colitis/chemically induced	0.7419354838709677	33454238
+immune checkpoint inhibitors/administration & dosage	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.04301075268817204	33495297
+colitis microscopic/chemically induced	PDCD1	0.4675081813931744	32401685
+immune checkpoint inhibitors/administration & dosage	infliximab/administration & dosage	0.04301075268817204	32418993
+azoxymethane/adverse effects	piperazines/administration & dosage	0.010752688172043012	33495297
+colitis/drug therapy	diarrhea/chemically induced	0.3906030855539973	33436487
+azoxymethane/adverse effects	APC	0.021505376344086023	33495297
+skin neoplasms/drug therapy	diarrhea/chemically induced	0.27980364656381496	32641348
+colitis	PDCD1	0.29196142800630875	35432346
+colitis	PDCD1	0.29196142800630875	33314269
+azoxymethane/adverse effects	ARG1	0.010752688172043012	33495297
+immune checkpoint inhibitors/administration & dosage	drugs investigational/administration & dosage	0.04301075268817204	32540858
+colitis/drug therapy	neoplasms/therapy	0.03225806451612903	32780984
+skin neoplasms/drug therapy	colitis/chemically induced	0.5483870967741937	32414860
+skin neoplasms/drug therapy	colitis/chemically induced	0.5483870967741937	32641348
+immune checkpoint inhibitors/administration & dosage	piperazines/administration & dosage	0.04301075268817204	33495297
+azoxymethane/adverse effects	PARP1	0.010752688172043012	33495297
+azoxymethane/adverse effects	PDCD1	0.2688172043010753	33495297
+skin neoplasms/drug therapy	glucocorticoids/pharmacology	0.021505376344086023	32414860
+azoxymethane/adverse effects	TIPARP	0.010752688172043012	33495297
+immune checkpoint inhibitors/administration & dosage	ACAD8	0.08461898083216456	32418993
+colitis/drug therapy	receptors antigen t-cell/genetics	0.03225806451612903	32603654
+immune checkpoint inhibitors/administration & dosage	APC	0.001402524544179523	33495297
+immune checkpoint inhibitors/administration & dosage	APC	0.001402524544179523	33462141
+immune checkpoint inhibitors/administration & dosage	ARG1	0.04301075268817204	33495297
+immune checkpoint inhibitors/administration & dosage	CD274	0.12061711079943897	32540858
+immune checkpoint inhibitors/administration & dosage	CD274	0.12061711079943897	33462141
+immune checkpoint inhibitors/administration & dosage	CD8A	0.20133505266745094	33462141
+immune checkpoint inhibitors/administration & dosage	CRP	0.04301075268817204	32418993
+colitis/drug therapy	t-lymphocytes regulatory/cytology	0.03225806451612903	32603654
+gentian violet	colitis/chemically induced	0.7419354838709677	32888202
+colitis/drug therapy	feces/chemistry	0.03225806451612903	33436487
+gastritis/chemically induced	colitis/chemically induced	0.7419354838709677	32621258
+immune checkpoint inhibitors/administration & dosage	IL17A	0.08461898083216456	33462141
+skin neoplasms/drug therapy	melanoma/drug therapy	0.0023375409069658717	32414860
+skin neoplasms/drug therapy	melanoma/drug therapy	0.0023375409069658717	32641348
+immune checkpoint inhibitors/administration & dosage	MIR15B	0.04301075268817204	33462141
+immune checkpoint inhibitors/administration & dosage	NRF1	0.04301075268817204	33462141
+immune checkpoint inhibitors/administration & dosage	PARP1	0.04301075268817204	33495297
+immune checkpoint inhibitors/administration & dosage	PDCD1	0.05789909015715467	33495297
+immune checkpoint inhibitors/administration & dosage	PDCD1	0.05789909015715467	32540858
+immune checkpoint inhibitors/administration & dosage	PDCD1	0.05789909015715467	33462141
+immune checkpoint inhibitors/administration & dosage	TIPARP	0.04301075268817204	33495297
+colitis/drug therapy	leukocyte l1 antigen complex/analysis	0.03225806451612903	33436487
+skin neoplasms/drug therapy	immunosuppressive agents/pharmacology	0.021505376344086023	32414860
+dysbiosis/etiology	neoplasms/complications	0.03225806451612904	34162429
+colitis/drug therapy	chemokines/metabolism	0.03225806451612903	32603654
+colitis/drug therapy	multigene family	0.03225806451612903	32603654
+skin neoplasms/drug therapy	mucositis/chemically induced	0.021505376344086023	32414860
+skin neoplasms/immunology	colitis/chemically induced	0.7419354838709677	34956219
+colitis/drug therapy	biomarkers/analysis	0.03225806451612903	33436487
+skin neoplasms/immunology	melanoma/immunology	0.010752688172043012	34956219
+gentian violet	inflammation	0.010752688172043012	32888202
+skin neoplasms/immunology	immunocompromised host	0.010752688172043012	34956219
+dysbiosis/etiology	colitis/etiology	0.021505376344086023	34162429
+t-lymphocytes cytotoxic/immunology	tumor microenvironment/drug effects	0.010752688172043012	33462141
+colitis/drug therapy	CTLA4	0.3425088235747422	32603654
+t-lymphocytes cytotoxic/immunology	immune checkpoint inhibitors/administration & dosage	0.04301075268817205	33462141
+t-lymphocytes cytotoxic/immunology	ht29 cells	0.010752688172043012	33462141
+t-lymphocytes cytotoxic/immunology	colitis/chemically induced	0.7419354838709677	33462141
+skin neoplasms/immunology	prednisone/therapeutic use	0.010752688172043012	34956219
+colitis/drug therapy	PDCD1	0.6137971425488957	32603654
+skin neoplasms/drug therapy	SNCA	0.0638148667601683	32641348
+skin neoplasms/drug therapy	TNF	0.0638148667601683	32641348
+dysbiosis/etiology	antineoplastic agents immunological/adverse effects	0.07526881720430108	34162429
+t-lymphocytes cytotoxic/immunology	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+t-lymphocytes cytotoxic/immunology	b7-h1 antigen/genetics	0.010752688172043012	33462141
+dysbiosis/etiology	anti-bacterial agents/pharmacology	0.010752688172043012	34162429
+steroids/adverse effects	colitis/chemically induced	0.7419354838709677	33454238
+protein kinase inhibitors/therapeutic use	neoplasms/drug therapy	0.12903225806451613	33096100
+colon/drug effects	colitis/chemically induced	0.9844026940801134	33506015
+colon/drug effects	crohn disease/immunology	0.03225806451612903	34338882
+recurrence	inflammatory bowel diseases	0.021505376344086023	35842365
+protein kinase inhibitors/therapeutic use	ipilimumab/adverse effects	0.0967741935483871	33096100
+t-lymphocytes cytotoxic/immunology	APC	0.021505376344086023	33462141
+t-lymphocytes cytotoxic/immunology	CD274	0.16129032258064516	33462141
+clostridium infections/chemically induced	colitis/chemically induced	0.7419354838709677	34107499
+t-lymphocytes cytotoxic/immunology	CD8A	0.05376344086021506	33462141
+protein kinase inhibitors/therapeutic use	colitis/chemically induced	0.7419354838709677	33096100
+t-lymphocytes cytotoxic/immunology	IL17A	0.021505376344086023	33462141
+t-lymphocytes cytotoxic/immunology	MIR15B	0.010752688172043012	33462141
+t-lymphocytes cytotoxic/immunology	NRF1	0.010752688172043012	33462141
+t-lymphocytes cytotoxic/immunology	PDCD1	0.2688172043010753	33462141
+clostridium infections/chemically induced	anti-bacterial agents/adverse effects	0.010752688172043012	34107499
+colon/drug effects	immune checkpoint inhibitors/pharmacology	0.12485550914723424	33506015
+colon/drug effects	piperidines/therapeutic use	0.0638148667601683	34147519
+hepatitis/diagnostic imaging	pericarditis/diagnostic imaging	0.010752688172043012	33375984
+hepatitis/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+colon/drug effects	programmed cell death 1 receptor/antagonists & inhibitors	0.018772251591325922	33506015
+colon/drug effects	programmed cell death 1 receptor/antagonists & inhibitors	0.018772251591325922	34147519
+protein kinase inhibitors/therapeutic use	piperidines/therapeutic use	0.021505376344086023	33096100
+colon/drug effects	trinitrobenzenesulfonic acid/adverse effects	0.03225806451612903	33506015
+colon/drug effects	ctla-4 antigen/antagonists & inhibitors	0.09467811291093199	34147519
+hepatitis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+colon/drug effects	graft vs host disease/immunology	0.03225806451612903	34338882
+lymphocytes/drug effects	colitis/chemically induced	0.7419354838709677	32567084
+colon/drug effects	cd8-positive t-lymphocytes/drug effects	0.0007012622720897616	34338882
+colon/drug effects	cd8-positive t-lymphocytes/drug effects	0.0007012622720897616	34147519
+colon/drug effects	phenotype	0.0007012622720897616	34338882
+colon/drug effects	phenotype	0.0007012622720897616	34147519
+lymphocytes/drug effects	vitamin d/administration & dosage	0.010752688172043012	32567084
+colon/drug effects	ACAD8	0.0638148667601683	33506015
+hepatitis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+colon/drug effects	CD4	0.0638148667601683	34338882
+lymphocytes/drug effects	neutrophils/drug effects	0.010752688172043012	32567084
+colon/drug effects	CD68	0.0638148667601683	34338882
+lymphocytes/drug effects	antibodies monoclonal/adverse effects	0.010752688172043012	32567084
+colon/drug effects	CD8A	0.006858499144614151	34338882
+colon/drug effects	CD8A	0.006858499144614151	34147519
+lymphocytes/drug effects	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32567084
+colon/drug effects	CTLA4	0.3425088235747422	34147519
+lymphocytes/drug effects	melanoma/complications	0.03225806451612904	32567084
+lymphocytes/drug effects	ctla-4 antigen/antagonists & inhibitors	0.03225806451612904	32567084
+lymphocytes/drug effects	antineoplastic agents immunological/adverse effects	0.07526881720430108	32567084
+colon/drug effects	PDCD1	0.1749302590817317	33506015
+colon/drug effects	PDCD1	0.1749302590817317	34147519
+chemical and drug induced liver injury/diagnosis	neoplasms/drug therapy	0.12903225806451613	33080231
+lymphocytes/drug effects	CTLA4	0.12903225806451613	32567084
+colitis/epidemiology	b7-h1 antigen/antagonists & inhibitors	0.03225806451612904	32960847
+chemical and drug induced liver injury/diagnosis	colitis/chemically induced	0.7419354838709677	33080231
+infliximab/adverse effects	antibodies monoclonal humanized/therapeutic use	0.04301075268817204	33454238
+infliximab/adverse effects	steroids/adverse effects	0.04301075268817204	33454238
+lymphocytes/drug effects	PDCD1	0.2688172043010753	32567084
+neoplasms/drug therapy	colitis/drug therapy	0.34250882357474227	33436487
+infliximab/adverse effects	diarrhea/chemically induced	0.4853981611344865	32584703
+growth inhibitors/therapeutic use	phosphatidylinositol 3-kinases/metabolism	0.010752688172043012	34987517
+neoplasms/drug therapy	diarrhea/chemically induced	0.016131479167785994	31609734
+neoplasms/drug therapy	diarrhea/chemically induced	0.016131479167785994	33436487
+neoplasms/drug therapy	diarrhea/chemically induced	0.016131479167785994	34107499
+neoplasms/drug therapy	diarrhea/chemically induced	0.016131479167785994	34380976
+neoplasms/drug therapy	diarrhea/chemically induced	0.016131479167785994	36377339
+crohn disease/physiopathology	enterocolitis/chemically induced	0.021505376344086023	34821404
+neoplasms/drug therapy	ipilimumab/adverse effects	0.7287605378574964	33096100
+growth inhibitors/therapeutic use	antineoplastic agents immunological/therapeutic use	0.03225806451612904	34987517
+neoplasms/drug therapy	clostridium infections/chemically induced	0.12903225806451613	34107499
+growth inhibitors/therapeutic use	lymphocytes tumor-infiltrating/immunology	0.010752688172043012	34987517
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	33741313
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	33096100
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	31609734
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	33080231
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	35236743
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	33459466
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	34777387
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	34107499
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	34380976
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	32185493
+neoplasms/drug therapy	colitis/chemically induced	0.1262339843735465	36377339
+infliximab/adverse effects	colitis/chemically induced	0.2960888573791799	32162824
+infliximab/adverse effects	colitis/chemically induced	0.2960888573791799	32414860
+infliximab/adverse effects	colitis/chemically induced	0.2960888573791799	33454238
+infliximab/adverse effects	colitis/chemically induced	0.2960888573791799	32584703
+neoplasms/drug therapy	abdominal pain/chemically induced	0.12903225806451613	36377339
+colitis/epidemiology	neoplasms/complications	0.03225806451612904	32960847
+infliximab/adverse effects	glucocorticoids/pharmacology	0.04301075268817204	32414860
+growth inhibitors/therapeutic use	colitis/etiology	0.021505376344086023	34987517
+neoplasms/drug therapy	anti-bacterial agents/adverse effects	0.12903225806451613	34107499
+growth inhibitors/therapeutic use	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	34987517
+growth inhibitors/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34987517
+neoplasms/drug therapy	intestinal mucosa/immunology	0.12903225806451613	33459466
+neoplasms/drug therapy	feces/chemistry	0.12903225806451613	33436487
+growth inhibitors/therapeutic use	cell line tumor	0.021505376344086023	34987517
+neoplasms/drug therapy	antineoplastic agents immunological/therapeutic use	0.34250882357474227	36377339
+neoplasms/drug therapy	immune checkpoint inhibitors/pharmacology	0.43017431376477666	35236743
+neoplasms/drug therapy	piperidines/therapeutic use	0.2426367461430575	33096100
+neoplasms/drug therapy	colon/immunology	0.015427769985974752	33459466
+neoplasms/drug therapy	colon/immunology	0.015427769985974752	34777387
+infliximab/adverse effects	melanoma/drug therapy	0.013413888589204155	32162824
+infliximab/adverse effects	melanoma/drug therapy	0.013413888589204155	32414860
+growth inhibitors/therapeutic use	cd8-positive t-lymphocytes/immunology	0.010752688172043012	34987517
+neoplasms/drug therapy	leukocyte l1 antigen complex/analysis	0.12903225806451613	33436487
+neoplasms/drug therapy	t-lymphocyte subsets/immunology	0.12903225806451613	34777387
+infliximab/adverse effects	immunosuppressive agents/pharmacology	0.04301075268817204	32414860
+colitis/epidemiology	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32960847
+neoplasms/drug therapy	gastritis/complications	0.12903225806451613	36377339
+phthalazines/administration & dosage	cell line tumor	0.021505376344086023	33495297
+diarrhea/chemically induced	ipilimumab/adverse effects	0.4062869550880755	31595568
+diarrhea/chemically induced	ipilimumab/adverse effects	0.4062869550880755	35917654
+neoplasms/drug therapy	biological products/therapeutic use	0.12903225806451613	34380976
+infliximab/adverse effects	drug-related side effects and adverse reactions	0.08461898083216456	32162824
+neoplasms/drug therapy	enterocolitis/chemically induced	0.2426367461430575	36377339
+growth inhibitors/therapeutic use	cytotoxicity immunologic	0.010752688172043012	34987517
+diarrhea/chemically induced	clostridium infections/chemically induced	0.15053763440860216	34107499
+phthalazines/administration & dosage	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.010752688172043012	33495297
+neoplasms/drug therapy	hepatitis/diagnosis	0.12903225806451613	32185493
+neoplasms/drug therapy	biomarkers/analysis	0.12903225806451613	33436487
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	32641348
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	31609734
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	36113896
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	34107499
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	33173388
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	34158318
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	34380976
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	33290513
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	31595568
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	35917654
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	36096534
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	36377339
+diarrhea/chemically induced	colitis/chemically induced	0.07296491852068898	32584703
+infliximab/adverse effects	mucositis/chemically induced	0.04301075268817204	32414860
+neoplasms/drug therapy	butyrates/metabolism	0.12903225806451613	33741313
+diarrhea/chemically induced	neoplasms/complications	0.3906030855539973	34158318
+growth inhibitors/therapeutic use	CD8A	0.05376344086021506	34987517
+diarrhea/chemically induced	abdominal pain/chemically induced	0.15053763440860216	36377339
+neoplasms/drug therapy	AHR	0.12903225806451613	35236743
+phthalazines/administration & dosage	piperazines/administration & dosage	0.010752688172043012	33495297
+phthalazines/administration & dosage	APC	0.021505376344086023	33495297
+phthalazines/administration & dosage	ARG1	0.010752688172043012	33495297
+diarrhea/chemically induced	anti-bacterial agents/adverse effects	0.15053763440860216	34107499
+neoplasms/drug therapy	IL22	0.2426367461430575	35236743
+growth inhibitors/therapeutic use	MTOR	0.010752688172043012	34987517
+growth inhibitors/therapeutic use	PDCD1	0.2688172043010753	34987517
+phthalazines/administration & dosage	PARP1	0.010752688172043012	33495297
+phthalazines/administration & dosage	PDCD1	0.2688172043010753	33495297
+diarrhea/chemically induced	feces/chemistry	0.15053763440860216	33436487
+colitis/epidemiology	CD274	0.16129032258064516	32960847
+diarrhea/chemically induced	melanoma/drug therapy	0.5663467650009717	32641348
+phthalazines/administration & dosage	TIPARP	0.010752688172043012	33495297
+ht29 cells	colitis/chemically induced	0.7419354838709677	33462141
+diarrhea/chemically induced	antineoplastic agents immunological/therapeutic use	0.3906030855539973	36377339
+diarrhea/chemically induced	dose-response relationship drug	0.27980364656381485	33290513
+ht29 cells	colorectal neoplasms/drug therapy	0.010752688172043012	33462141
+diarrhea/chemically induced	leukocyte l1 antigen complex/analysis	0.15053763440860216	33436487
+ht29 cells	b7-h1 antigen/genetics	0.010752688172043012	33462141
+infliximab/adverse effects	LTF	0.04301075268817204	32584703
+colitis/epidemiology	PDCD1	0.2688172043010753	32960847
+neoplasms/complications	colitis/etiology	0.0638148667601683	34162429
+infliximab/adverse effects	TNF	0.12485550914723427	32162824
+neoplasms/complications	programmed cell death 1 receptor/antagonists & inhibitors	0.23886071852411256	32960847
+diarrhea/chemically induced	gastritis/complications	0.15053763440860216	36377339
+sarcoidosis/diagnostic imaging	hepatitis/diagnostic imaging	0.010752688172043012	33375984
+diarrhea/chemically induced	biological products/therapeutic use	0.15053763440860216	34380976
+diarrhea/chemically induced	enterocolitis/chemically induced	0.27980364656381485	36377339
+diarrhea/chemically induced	beclomethasone/adverse effects	0.15053763440860216	36113896
+biomarkers/metabolism	adenocarcinoma of lung/drug therapy	0.010752688172043012	32389505
+neoplasms/complications	antineoplastic agents immunological/adverse effects	0.2113496601575143	34162429
+diarrhea/chemically induced	biomarkers/analysis	0.15053763440860216	33436487
+neoplasms/complications	inflammatory bowel diseases/complications	0.0638148667601683	34158318
+sarcoidosis/diagnostic imaging	pericarditis/diagnostic imaging	0.010752688172043012	33375984
+neoplasms/complications	anti-bacterial agents/pharmacology	0.03225806451612903	34162429
+sarcoidosis/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+diarrhea/chemically induced	inflammatory bowel diseases/complications	0.27980364656381485	34158318
+neoplasms/complications	CD274	0.06661991584852735	34158318
+neoplasms/complications	CD274	0.06661991584852735	32960847
+lung neoplasms/drug therapy	diarrhea/chemically induced	0.27980364656381496	33173388
+diarrhea/chemically induced	steroids/therapeutic use	0.27980364656381485	33290513
+biomarkers/metabolism	CD274	0.16129032258064516	32389505
+diarrhea/chemically induced	CD274	0.4005277521603798	35917654
+diarrhea/chemically induced	CD274	0.4005277521603798	33173388
+diarrhea/chemically induced	CD274	0.4005277521603798	34158318
+lung neoplasms/drug therapy	colitis/chemically induced	0.5483870967741937	34716545
+lung neoplasms/drug therapy	colitis/chemically induced	0.5483870967741937	33173388
+neoplasms/complications	PDCD1	0.1749302590817317	34158318
+neoplasms/complications	PDCD1	0.1749302590817317	32960847
+diarrhea/chemically induced	CHI3L1	0.15053763440860216	36096534
+sarcoidosis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+diarrhea/chemically induced	CTLA4	0.8770712327596885	35917654
+diarrhea/chemically induced	CXCL8	0.15053763440860216	36096534
+diarrhea/chemically induced	IL17A	0.27980364656381485	36096534
+diarrhea/chemically induced	IL6	0.27980364656381485	36096534
+ht29 cells	APC	0.021505376344086023	33462141
+diarrhea/chemically induced	LTF	0.15053763440860216	32584703
+ht29 cells	CD274	0.16129032258064516	33462141
+abdominal pain/chemically induced	antineoplastic agents immunological/therapeutic use	0.03225806451612904	36377339
+diarrhea/chemically induced	PDCD1	0.7915288042266029	35917654
+diarrhea/chemically induced	PDCD1	0.7915288042266029	33173388
+diarrhea/chemically induced	PDCD1	0.7915288042266029	34158318
+ht29 cells	CD8A	0.05376344086021506	33462141
+diarrhea/chemically induced	SNCA	0.3906030855539973	32641348
+diarrhea/chemically induced	TNF	0.3906030855539973	32641348
+ht29 cells	IL17A	0.021505376344086023	33462141
+immunologic factors	colitis/chemically induced	0.935483870967742	33566405
+ht29 cells	MIR15B	0.010752688172043012	33462141
+abdominal pain/chemically induced	gastritis/complications	0.010752688172043012	36377339
+ht29 cells	NRF1	0.010752688172043012	33462141
+abdominal pain/chemically induced	enterocolitis/chemically induced	0.021505376344086023	36377339
+ht29 cells	PDCD1	0.2688172043010753	33462141
+colitis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+anti-bacterial agents	colitis/chemically induced	0.7419354838709677	36043345
+sarcoidosis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+hypophysitis/chemically induced	angiogenesis inhibitors/therapeutic use	0.010752688172043012	32130969
+hypophysitis/chemically induced	myocarditis/chemically induced	0.010752688172043012	32130969
+hypophysitis/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+hypophysitis/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+hypophysitis/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+squamous cell carcinoma of head and neck/drug therapy	tongue neoplasms/drug therapy	0.010752688172043012	33476895
+t-lymphocytes regulatory/cytology	CTLA4	0.12903225806451613	32603654
+hypophysitis/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+dermatitis	rna	0.010752688172043012	35977003
+dermatitis	CTLA4	0.12903225806451613	35977003
+dermatitis	CXCL10	0.010752688172043012	35977003
+dermatitis	CXCL9	0.010752688172043012	35977003
+t-lymphocytes regulatory/cytology	PDCD1	0.2688172043010753	32603654
+dermatitis	PDCD1	0.2688172043010753	35977003
+dermatitis	TCIM	0.010752688172043012	35977003
+dermatitis	TNF	0.03225806451612904	35977003
+colorectal neoplasms/drug therapy	b7-h1 antigen/genetics	0.010752688172043012	33462141
+proton pump inhibitors/adverse effects	colitis/chemically induced	0.7419354838709677	35277350
+colonic neoplasms/drug therapy	cell line tumor	0.021505376344086023	33495297
+colonic neoplasms/drug therapy	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.010752688172043012	33495297
+crohn disease/immunology	graft vs host disease/immunology	0.010752688172043012	34338882
+crohn disease/immunology	cd8-positive t-lymphocytes/drug effects	0.021505376344086023	34338882
+crohn disease/immunology	phenotype	0.021505376344086023	34338882
+colorectal neoplasms/drug therapy	APC	0.021505376344086023	33462141
+colorectal neoplasms/drug therapy	CD274	0.16129032258064516	33462141
+drug-related side effects and adverse reactions/diagnosis	CTLA4	0.12903225806451613	35191192
+colonic neoplasms/drug therapy	piperazines/administration & dosage	0.010752688172043012	33495297
+colorectal neoplasms/drug therapy	CD8A	0.05376344086021506	33462141
+crohn disease/immunology	CD4	0.021505376344086023	34338882
+crohn disease/immunology	CD68	0.021505376344086023	34338882
+colonic neoplasms/drug therapy	APC	0.021505376344086023	33495297
+colorectal neoplasms/drug therapy	IL17A	0.021505376344086023	33462141
+crohn disease/immunology	CD8A	0.05376344086021506	34338882
+colonic neoplasms/drug therapy	ARG1	0.010752688172043012	33495297
+colorectal neoplasms/drug therapy	MIR15B	0.010752688172043012	33462141
+colorectal neoplasms/drug therapy	NRF1	0.010752688172043012	33462141
+colorectal neoplasms/drug therapy	PDCD1	0.2688172043010753	33462141
+drug-related side effects and adverse reactions/diagnosis	PDCD1	0.2688172043010753	35191192
+proton pump inhibitors/adverse effects	ipilimumab/therapeutic use	0.03225806451612904	35277350
+colonic neoplasms/drug therapy	PARP1	0.010752688172043012	33495297
+colonic neoplasms/drug therapy	PDCD1	0.2688172043010753	33495297
+interleukin-23/antagonists & inhibitors	interleukin-12/antagonists & inhibitors	0.010752688172043012	33567198
+colonic neoplasms/drug therapy	TIPARP	0.010752688172043012	33495297
+glucocorticoids/pharmacology	melanoma/drug therapy	0.05376344086021506	32414860
+inflammatory bowel diseases	gastrointestinal tract/metabolism	0.021505376344086023	32298485
+glucocorticoids/pharmacology	immunosuppressive agents/pharmacology	0.010752688172043012	32414860
+intestinal mucosa/immunology	colon/immunology	0.021505376344086023	33459466
+glucocorticoids/pharmacology	mucositis/chemically induced	0.010752688172043012	32414860
+inflammatory bowel diseases	b7-h1 antigen/metabolism	0.021505376344086023	32298485
+inflammatory bowel diseases	CD274	0.2980364656381486	32298485
+pericarditis/diagnostic imaging	encephalitis/diagnostic imaging	0.010752688172043012	33375984
+inflammatory bowel diseases	PDCD1	0.4675081813931744	32298485
+pericarditis/diagnostic imaging	colitis/diagnostic imaging	0.010752688172043012	33375984
+dextran sulfate/adverse effects	colonic neoplasms/drug therapy	0.010752688172043012	33495297
+dextran sulfate/adverse effects	cell line tumor	0.021505376344086023	33495297
+dextran sulfate/adverse effects	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.010752688172043012	33495297
+dextran sulfate/adverse effects	piperazines/administration & dosage	0.010752688172043012	33495297
+oropharyngeal neoplasms/drug therapy	PDCD1	0.2688172043010753	33906378
+dextran sulfate/adverse effects	APC	0.021505376344086023	33495297
+dextran sulfate/adverse effects	ARG1	0.010752688172043012	33495297
+immunocompromised host	prednisone/therapeutic use	0.010752688172043012	34956219
+disease susceptibility	postoperative complications	0.010752688172043012	32028372
+pericarditis/diagnostic imaging	pneumonia/diagnostic imaging	0.010752688172043012	33375984
+vitamin d/administration & dosage	neutrophils/drug effects	0.010752688172043012	32567084
+dextran sulfate/adverse effects	PARP1	0.010752688172043012	33495297
+vitamin d/administration & dosage	antibodies monoclonal/adverse effects	0.010752688172043012	32567084
+dextran sulfate/adverse effects	PDCD1	0.2688172043010753	33495297
+dextran sulfate/adverse effects	TIPARP	0.010752688172043012	33495297
+vitamin d/administration & dosage	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32567084
+vitamin d/administration & dosage	melanoma/complications	0.03225806451612904	32567084
+vitamin d/administration & dosage	ctla-4 antigen/antagonists & inhibitors	0.03225806451612904	32567084
+vitamin d/administration & dosage	antineoplastic agents immunological/adverse effects	0.07526881720430108	32567084
+colitis/chemically induced	phthalazines/administration & dosage	0.7419354838709677	33495297
+colitis/chemically induced	neoplasms/complications	0.9844026940801134	34158318
+colon/immunology	t-lymphocyte subsets/immunology	0.021505376344086023	34777387
+colitis/chemically induced	abdominal pain/chemically induced	0.7419354838709677	36377339
+colitis/chemically induced	hypophysitis/chemically induced	0.7419354838709677	32130969
+vitamin d/administration & dosage	CTLA4	0.12903225806451613	32567084
+colitis/chemically induced	glucocorticoids/pharmacology	0.7419354838709677	32414860
+colitis/chemically induced	dextran sulfate/adverse effects	0.7419354838709677	33495297
+cytomegalovirus infections/diagnosis	antineoplastic agents immunological/adverse effects	0.07526881720430108	32434876
+colitis/chemically induced	cytomegalovirus infections/diagnosis	0.7419354838709677	32434876
+colitis/chemically induced	endometrial neoplasms/drug therapy	0.7419354838709677	35801666
+colitis/chemically induced	angiogenesis inhibitors/therapeutic use	0.7419354838709677	32130969
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	34159488
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	33096100
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	33882697
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	34332139
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	31595568
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	32931028
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	35917654
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	35191192
+ipilimumab/adverse effects	colitis/chemically induced	0.0589207356081562	32934876
+colitis/chemically induced	biomarkers/metabolism	0.7419354838709677	32389505
+vitamin d/administration & dosage	PDCD1	0.2688172043010753	32567084
+colitis/chemically induced	dermatitis	0.7419354838709677	35977003
+colitis/chemically induced	colorectal neoplasms/drug therapy	0.7419354838709677	33462141
+colitis/chemically induced	anti-bacterial agents/adverse effects	0.7419354838709677	34107499
+colitis/chemically induced	oropharyngeal neoplasms/drug therapy	0.7419354838709677	33906378
+colitis/chemically induced	vitamin d/administration & dosage	0.7419354838709677	32567084
+colitis/chemically induced	carcinoma non-small-cell lung/complications	0.7419354838709677	32418993
+colitis/chemically induced	melanoma/immunology	0.7419354838709677	34956219
+phosphatidylinositol 3-kinases/metabolism	antineoplastic agents immunological/therapeutic use	0.03225806451612904	34987517
+colitis/chemically induced	b7-h1 antigen/genetics	0.7419354838709677	33462141
+colitis/chemically induced	myocarditis/chemically induced	0.7419354838709677	32130969
+colitis/chemically induced	antibodies monoclonal humanized	0.7419354838709677	35801666
+phosphatidylinositol 3-kinases/metabolism	lymphocytes tumor-infiltrating/immunology	0.010752688172043012	34987517
+colitis/chemically induced	colonic neoplasms/drug therapy	0.7419354838709677	33495297
+colitis/chemically induced	intestinal mucosa/immunology	0.7419354838709677	33459466
+carcinoma non-small-cell lung/complications	drug-related side effects and adverse reactions	0.021505376344086023	32418993
+carcinoma non-small-cell lung/complications	melanoma/complications	0.03225806451612904	32418993
+colitis/chemically induced	melanoma/drug therapy	0.21624467111962578	32641348
+colitis/chemically induced	melanoma/drug therapy	0.21624467111962578	32162824
+colitis/chemically induced	melanoma/drug therapy	0.21624467111962578	33882697
+colitis/chemically induced	melanoma/drug therapy	0.21624467111962578	36338892
+colitis/chemically induced	melanoma/drug therapy	0.21624467111962578	32414860
+phosphatidylinositol 3-kinases/metabolism	colitis/etiology	0.021505376344086023	34987517
+colitis/chemically induced	antineoplastic agents immunological/therapeutic use	0.837646224742999	36159840
+colitis/chemically induced	antineoplastic agents immunological/therapeutic use	0.837646224742999	36377339
+ipilimumab/adverse effects	melanoma/drug therapy	0.4059793367040795	33882697
+carcinoma non-small-cell lung/complications	infliximab/administration & dosage	0.010752688172043012	32418993
+phosphatidylinositol 3-kinases/metabolism	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	34987517
+colitis/chemically induced	immune checkpoint inhibitors/pharmacology	0.9485288904643744	33506015
+colitis/chemically induced	immune checkpoint inhibitors/pharmacology	0.9485288904643744	35236743
+colitis/chemically induced	hepatitis autoimmune/etiology	0.7419354838709677	32130969
+phosphatidylinositol 3-kinases/metabolism	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34987517
+paclitaxel/therapeutic use	colitis ulcerative/chemically induced	0.010752688172043012	33476895
+colitis/chemically induced	piperidines/therapeutic use	0.935483870967742	33096100
+ipilimumab/adverse effects	piperidines/therapeutic use	0.18513323983169702	33096100
+colitis/chemically induced	adrenal cortex hormones/pharmacology	0.7419354838709677	33268234
+ipilimumab/adverse effects	drug-related side effects and adverse reactions/diagnosis	0.09677419354838711	35191192
+colitis/chemically induced	drug-related side effects and adverse reactions/diagnosis	0.7419354838709677	35191192
+phosphatidylinositol 3-kinases/metabolism	cell line tumor	0.021505376344086023	34987517
+colitis/chemically induced	immunocompromised host	0.7419354838709677	34956219
+colitis/chemically induced	colon/immunology	0.5483870967741936	33459466
+colitis/chemically induced	colon/immunology	0.5483870967741936	34777387
+colitis/chemically induced	dose-response relationship drug	0.5483870967741936	33290513
+colitis/chemically induced	dose-response relationship drug	0.5483870967741936	32540858
+colitis/chemically induced	neutrophils/drug effects	0.7419354838709677	32567084
+colitis/chemically induced	myasthenia gravis/chemically induced	0.7419354838709677	32130969
+colitis/chemically induced	antibodies monoclonal/adverse effects	0.7419354838709677	32567084
+paclitaxel/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33476895
+colitis/chemically induced	immunosuppressive agents/pharmacology	0.7419354838709677	32414860
+colitis/chemically induced	immune checkpoint inhibitors/therapeutic use	0.935483870967742	32130969
+carcinoma non-small-cell lung/complications	ACAD8	0.021505376344086023	32418993
+colitis/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.9747908768090005	32540858
+colitis/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.9747908768090005	32567084
+colitis/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.9747908768090005	32702598
+colitis/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.9747908768090005	33506015
+phosphatidylinositol 3-kinases/metabolism	cd8-positive t-lymphocytes/immunology	0.010752688172043012	34987517
+dose-response relationship drug	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	32540858
+colitis/chemically induced	drug-related side effects and adverse reactions	0.5483870967741936	32162824
+colitis/chemically induced	drug-related side effects and adverse reactions	0.5483870967741936	32418993
+colitis/chemically induced	gastrointestinal neoplasms/drug therapy	0.7419354838709677	36159840
+carcinoma non-small-cell lung/complications	CRP	0.010752688172043012	32418993
+colitis/chemically induced	melanoma/complications	0.837646224742999	32418993
+colitis/chemically induced	melanoma/complications	0.837646224742999	32567084
+colitis/chemically induced	cell line tumor	0.935483870967742	33495297
+paclitaxel/therapeutic use	antineoplastic agents immunological/adverse effects	0.07526881720430108	33476895
+colitis/chemically induced	adenocarcinoma of lung/drug therapy	0.7419354838709677	32389505
+colitis/chemically induced	trinitrobenzenesulfonic acid/adverse effects	0.7419354838709677	33506015
+colitis/chemically induced	ctla-4 antigen/antagonists & inhibitors	0.837646224742999	32567084
+colitis/chemically induced	ctla-4 antigen/antagonists & inhibitors	0.837646224742999	32702598
+colitis/chemically induced	t-lymphocyte subsets/immunology	0.7419354838709677	34777387
+colitis/chemically induced	mucositis/chemically induced	0.7419354838709677	32414860
+colitis/chemically induced	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.7419354838709677	33495297
+phosphatidylinositol 3-kinases/metabolism	cytotoxicity immunologic	0.010752688172043012	34987517
+colitis/chemically induced	gastritis/complications	0.7419354838709677	36377339
+colitis/chemically induced	infliximab/administration & dosage	0.7419354838709677	32418993
+colitis/chemically induced	biological products/therapeutic use	0.7419354838709677	34380976
+colitis/chemically induced	enterocolitis/chemically induced	0.935483870967742	36377339
+colitis/chemically induced	lung neoplasms	0.7419354838709677	31864555
+melanoma/immunology	immunocompromised host	0.010752688172043012	34956219
+colitis/chemically induced	cd8-positive t-lymphocytes	0.7419354838709677	34106395
+dose-response relationship drug	drugs investigational/administration & dosage	0.021505376344086023	32540858
+phosphatidylinositol 3-kinases/metabolism	CD8A	0.05376344086021506	34987517
+colitis/chemically induced	beclomethasone/adverse effects	0.7419354838709677	36113896
+colitis/chemically induced	hepatitis/diagnosis	0.7419354838709677	32185493
+colitis/chemically induced	antineoplastic agents immunological/adverse effects	0.7449933967412815	32422528
+colitis/chemically induced	antineoplastic agents immunological/adverse effects	0.7449933967412815	32702598
+colitis/chemically induced	antineoplastic agents immunological/adverse effects	0.7449933967412815	32567084
+colitis/chemically induced	antineoplastic agents immunological/adverse effects	0.7449933967412815	36338892
+colitis/chemically induced	antineoplastic agents immunological/adverse effects	0.7449933967412815	32434876
+paclitaxel/therapeutic use	SNCA	0.03225806451612904	33476895
+colitis/chemically induced	ipilimumab/therapeutic use	0.4037575327897908	35124713
+colitis/chemically induced	ipilimumab/therapeutic use	0.4037575327897908	32130969
+colitis/chemically induced	ipilimumab/therapeutic use	0.4037575327897908	35277350
+dose-response relationship drug	steroids/therapeutic use	0.04277699859747545	33290513
+ipilimumab/adverse effects	CD274	0.44474115731587344	32934876
+ipilimumab/adverse effects	CD274	0.44474115731587344	35917654
+colitis/chemically induced	drugs investigational/administration & dosage	0.7419354838709677	32540858
+colitis/chemically induced	cytomegalovirus infections/complications	0.7419354838709677	35307927
+colitis/chemically induced	butyrates/metabolism	0.7419354838709677	33741313
+endometrial neoplasms/drug therapy	antibodies monoclonal humanized	0.010752688172043012	35801666
+dose-response relationship drug	CD274	0.2980364656381486	32540858
+phosphatidylinositol 3-kinases/metabolism	MTOR	0.010752688172043012	34987517
+colitis/chemically induced	inflammatory bowel diseases/complications	0.935483870967742	34158318
+colitis/chemically induced	rna	0.7419354838709677	35977003
+phosphatidylinositol 3-kinases/metabolism	PDCD1	0.2688172043010753	34987517
+colitis/chemically induced	steroids/therapeutic use	0.5483870967741936	33290513
+colitis/chemically induced	steroids/therapeutic use	0.5483870967741936	31864555
+colitis/chemically induced	piperazines/administration & dosage	0.7419354838709677	33495297
+melanoma/complications	ctla-4 antigen/antagonists & inhibitors	0.09467811291093199	32567084
+colitis/chemically induced	inflammation	0.7419354838709677	32888202
+melanoma/immunology	prednisone/therapeutic use	0.010752688172043012	34956219
+colitis/chemically induced	prednisone/therapeutic use	0.7419354838709677	34956219
+colitis/chemically induced	ACAD8	0.5483870967741936	32418993
+colitis/chemically induced	ACAD8	0.5483870967741936	33506015
+melanoma/complications	infliximab/administration & dosage	0.03225806451612903	32418993
+colitis/chemically induced	AHR	0.7419354838709677	35236743
+colitis/chemically induced	APC	0.5483870967741936	33495297
+colitis/chemically induced	APC	0.5483870967741936	33462141
+colitis/chemically induced	ARG1	0.7419354838709677	33495297
+colitis/chemically induced	BTLA	0.7419354838709677	36159840
+colitis/chemically induced	CD274	0.6678116065345758	36159840
+colitis/chemically induced	CD274	0.6678116065345758	32389505
+colitis/chemically induced	CD274	0.6678116065345758	34992611
+colitis/chemically induced	CD274	0.6678116065345758	32702598
+colitis/chemically induced	CD274	0.6678116065345758	33555016
+colitis/chemically induced	CD274	0.6678116065345758	33173388
+colitis/chemically induced	CD274	0.6678116065345758	34158318
+colitis/chemically induced	CD274	0.6678116065345758	35917654
+colitis/chemically induced	CD274	0.6678116065345758	32540858
+colitis/chemically induced	CD274	0.6678116065345758	32934876
+colitis/chemically induced	CD274	0.6678116065345758	33462141
+colitis/chemically induced	CD28	0.7419354838709677	36159840
+melanoma/complications	antineoplastic agents immunological/adverse effects	0.2113496601575143	32567084
+colitis/chemically induced	CD4	0.935483870967742	33555016
+dose-response relationship drug	PDCD1	0.4675081813931744	32540858
+colitis/chemically induced	CD68	0.935483870967742	33555016
+colitis/chemically induced	CD8A	0.9850744881553145	33555016
+colitis/chemically induced	CD8A	0.9850744881553145	33462141
+colitis ulcerative/chemically induced	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	33476895
+colitis/chemically induced	CHI3L1	0.7419354838709677	36096534
+colitis/chemically induced	CRP	0.7419354838709677	32418993
+neutrophils/drug effects	antibodies monoclonal/adverse effects	0.010752688172043012	32567084
+colitis/chemically induced	CSF2	0.7419354838709677	36159840
+colitis/chemically induced	CTLA4	0.8401476476282531	34992611
+colitis/chemically induced	CTLA4	0.8401476476282531	32702598
+colitis/chemically induced	CTLA4	0.8401476476282531	33555016
+colitis/chemically induced	CTLA4	0.8401476476282531	35977003
+colitis/chemically induced	CTLA4	0.8401476476282531	32567084
+colitis/chemically induced	CTLA4	0.8401476476282531	35917654
+colitis/chemically induced	CTLA4	0.8401476476282531	35191192
+colitis/chemically induced	CTLA4	0.8401476476282531	32934876
+colitis/chemically induced	CXCL10	0.7419354838709677	35977003
+neutrophils/drug effects	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32567084
+colitis/chemically induced	CXCL8	0.7419354838709677	36096534
+colitis/chemically induced	CXCL9	0.7419354838709677	35977003
+colitis/chemically induced	HAVCR2	0.7419354838709677	36159840
+melanoma/complications	ACAD8	0.0638148667601683	32418993
+colitis/chemically induced	IL15	0.7419354838709677	36159840
+neutrophils/drug effects	melanoma/complications	0.03225806451612904	32567084
+colitis/chemically induced	IL17A	0.5483870967741936	33462141
+colitis/chemically induced	IL17A	0.5483870967741936	36096534
+colitis/chemically induced	IL17C	0.7419354838709677	36159840
+colitis/chemically induced	IL21	0.7419354838709677	36159840
+neutrophils/drug effects	ctla-4 antigen/antagonists & inhibitors	0.03225806451612904	32567084
+colitis/chemically induced	IL22	0.5483870967741936	36159840
+colitis/chemically induced	IL22	0.5483870967741936	35236743
+colitis/chemically induced	IL4	0.7419354838709677	36159840
+colitis/chemically induced	IL6	0.5483870967741936	36159840
+colitis/chemically induced	IL6	0.5483870967741936	36096534
+melanoma/complications	CRP	0.03225806451612903	32418993
+colitis/chemically induced	LIF	0.7419354838709677	36159840
+colitis ulcerative/chemically induced	antineoplastic agents immunological/adverse effects	0.07526881720430108	33476895
+colitis/chemically induced	LTF	0.7419354838709677	32584703
+melanoma/complications	CTLA4	0.3425088235747422	32567084
+colitis/chemically induced	MIR15B	0.7419354838709677	33462141
+colitis/chemically induced	NRF1	0.7419354838709677	33462141
+colitis/chemically induced	PARP1	0.7419354838709677	33495297
+endometrial neoplasms/drug therapy	PDCD1	0.2688172043010753	35801666
+colitis/chemically induced	PDCD1	0.9458513386676314	36159840
+colitis/chemically induced	PDCD1	0.9458513386676314	33495297
+colitis/chemically induced	PDCD1	0.9458513386676314	35801666
+colitis/chemically induced	PDCD1	0.9458513386676314	34992611
+colitis/chemically induced	PDCD1	0.9458513386676314	32702598
+colitis/chemically induced	PDCD1	0.9458513386676314	33555016
+colitis/chemically induced	PDCD1	0.9458513386676314	33906378
+colitis/chemically induced	PDCD1	0.9458513386676314	35977003
+colitis/chemically induced	PDCD1	0.9458513386676314	33173388
+colitis/chemically induced	PDCD1	0.9458513386676314	32567084
+colitis/chemically induced	PDCD1	0.9458513386676314	34158318
+colitis/chemically induced	PDCD1	0.9458513386676314	35917654
+colitis/chemically induced	PDCD1	0.9458513386676314	35191192
+colitis/chemically induced	PDCD1	0.9458513386676314	32540858
+colitis/chemically induced	PDCD1	0.9458513386676314	33462141
+colitis/chemically induced	PDCD1	0.9458513386676314	33506015
+neutrophils/drug effects	antineoplastic agents immunological/adverse effects	0.07526881720430108	32567084
+colitis/chemically induced	SNCA	0.837646224742999	32934876
+colitis/chemically induced	SNCA	0.837646224742999	32641348
+colitis/chemically induced	TCIM	0.7419354838709677	35977003
+colitis/chemically induced	TIPARP	0.7419354838709677	33495297
+colitis/chemically induced	TNF	0.4037575327897908	32162824
+colitis/chemically induced	TNF	0.4037575327897908	35977003
+colitis/chemically induced	TNF	0.4037575327897908	32641348
+receptors antigen t-cell/genetics	t-lymphocytes regulatory/cytology	0.010752688172043012	32603654
+melanoma/complications	PDCD1	0.1749302590817317	32567084
+melanoma/complications	PDCD1	0.1749302590817317	32404733
+phthalazines/administration & dosage	dextran sulfate/adverse effects	0.010752688172043012	33495297
+b7-h1 antigen/genetics	APC	0.021505376344086023	33462141
+b7-h1 antigen/genetics	CD274	0.16129032258064516	33462141
+b7-h1 antigen/genetics	CD8A	0.05376344086021506	33462141
+cell line tumor	poly(adp-ribose) polymerase inhibitors/administration & dosage	0.021505376344086023	33495297
+b7-h1 antigen/genetics	IL17A	0.021505376344086023	33462141
+cell line tumor	cd8-positive t-lymphocytes/immunology	0.021505376344086023	34987517
+phthalazines/administration & dosage	colonic neoplasms/drug therapy	0.010752688172043012	33495297
+neutrophils/drug effects	CTLA4	0.12903225806451613	32567084
+receptors antigen t-cell/genetics	chemokines/metabolism	0.010752688172043012	32603654
+receptors antigen t-cell/genetics	multigene family	0.010752688172043012	32603654
+b7-h1 antigen/genetics	MIR15B	0.010752688172043012	33462141
+colitis ulcerative/chemically induced	SNCA	0.03225806451612904	33476895
+b7-h1 antigen/genetics	NRF1	0.010752688172043012	33462141
+b7-h1 antigen/genetics	PDCD1	0.2688172043010753	33462141
+cell line tumor	piperazines/administration & dosage	0.021505376344086023	33495297
+neutrophils/drug effects	PDCD1	0.2688172043010753	32567084
+cell line tumor	cytotoxicity immunologic	0.021505376344086023	34987517
+myocarditis/chemically induced	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+cell line tumor	APC	0.04277699859747545	33495297
+cell line tumor	ARG1	0.021505376344086023	33495297
+myasthenia gravis/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+myocarditis/chemically induced	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+myocarditis/chemically induced	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+feces/chemistry	leukocyte l1 antigen complex/analysis	0.010752688172043012	33436487
+receptors antigen t-cell/genetics	CTLA4	0.12903225806451613	32603654
+cell line tumor	CD8A	0.10518934081346423	34987517
+receptors antigen t-cell/genetics	PDCD1	0.2688172043010753	32603654
+myocarditis/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+cell line tumor	MTOR	0.021505376344086023	34987517
+angiogenesis inhibitors/therapeutic use	myocarditis/chemically induced	0.010752688172043012	32130969
+cell line tumor	PARP1	0.021505376344086023	33495297
+cell line tumor	PDCD1	0.07012622720897614	33495297
+cell line tumor	PDCD1	0.07012622720897614	34987517
+myasthenia gravis/chemically induced	ipilimumab/therapeutic use	0.03225806451612904	32130969
+cell line tumor	TIPARP	0.021505376344086023	33495297
+feces/chemistry	biomarkers/analysis	0.010752688172043012	33436487
+angiogenesis inhibitors/therapeutic use	hepatitis autoimmune/etiology	0.010752688172043012	32130969
+angiogenesis inhibitors/therapeutic use	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+angiogenesis inhibitors/therapeutic use	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+angiogenesis inhibitors/therapeutic use	ipilimumab/therapeutic use	0.03225806451612904	32130969
+adenocarcinoma of lung/drug therapy	CD274	0.16129032258064516	32389505
+antibodies monoclonal/adverse effects	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	32567084
+antibodies monoclonal/adverse effects	melanoma/complications	0.03225806451612904	32567084
+antibodies monoclonal/adverse effects	ctla-4 antigen/antagonists & inhibitors	0.03225806451612904	32567084
+melanoma/drug therapy	immunosuppressive agents/pharmacology	0.05376344086021506	32414860
+melanoma/drug therapy	drug-related side effects and adverse reactions	0.10518934081346423	32162824
+antibodies monoclonal/adverse effects	antineoplastic agents immunological/adverse effects	0.07526881720430108	32567084
+melanoma/drug therapy	mucositis/chemically induced	0.05376344086021506	32414860
+antibodies monoclonal humanized	PDCD1	0.2688172043010753	35801666
+melanoma/drug therapy	antineoplastic agents immunological/adverse effects	0.32989335668315134	36338892
+cd8-positive t-lymphocytes/drug effects	phenotype	0.00023375409069658717	34338882
+cd8-positive t-lymphocytes/drug effects	phenotype	0.00023375409069658717	34147519
+trinitrobenzenesulfonic acid/adverse effects	ACAD8	0.021505376344086023	33506015
+antibodies monoclonal/adverse effects	CTLA4	0.12903225806451613	32567084
+t-lymphocytes regulatory/cytology	chemokines/metabolism	0.010752688172043012	32603654
+t-lymphocytes regulatory/cytology	multigene family	0.010752688172043012	32603654
+cd8-positive t-lymphocytes/drug effects	CD4	0.04277699859747545	34338882
+cd8-positive t-lymphocytes/drug effects	CD68	0.04277699859747545	34338882
+cd8-positive t-lymphocytes/drug effects	CD8A	0.0023375409069658717	34338882
+cd8-positive t-lymphocytes/drug effects	CD8A	0.0023375409069658717	34147519
+cd8-positive t-lymphocytes/drug effects	CTLA4	0.24263674614305747	34147519
+antibodies monoclonal/adverse effects	PDCD1	0.2688172043010753	32567084
+trinitrobenzenesulfonic acid/adverse effects	PDCD1	0.2688172043010753	33506015
+colitis/etiology	immune checkpoint inhibitors/therapeutic use	0.04277699859747545	34987517
+colitis/etiology	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	34987517
+chemokines/metabolism	multigene family	0.010752688172043012	32603654
+melanoma/drug therapy	SNCA	0.15435476164788925	32641348
+colitis/etiology	cell line tumor	0.04277699859747545	34987517
+cd8-positive t-lymphocytes/drug effects	PDCD1	0.4675081813931744	34147519
+melanoma/drug therapy	TNF	0.006858499144614151	32162824
+melanoma/drug therapy	TNF	0.006858499144614151	32641348
+antineoplastic agents immunological/therapeutic use	lymphocytes tumor-infiltrating/immunology	0.03225806451612903	34987517
+colitis/etiology	cd8-positive t-lymphocytes/immunology	0.021505376344086023	34987517
+antineoplastic agents immunological/therapeutic use	colitis/etiology	0.0638148667601683	34987517
+colitis/etiology	antineoplastic agents immunological/adverse effects	0.14562879850397378	34162429
+antineoplastic agents immunological/therapeutic use	immune checkpoint inhibitors/therapeutic use	0.0638148667601683	34987517
+drugs investigational/administration & dosage	CD274	0.16129032258064516	32540858
+antineoplastic agents immunological/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.23886071852411256	34987517
+antineoplastic agents immunological/therapeutic use	gastrointestinal neoplasms/drug therapy	0.03225806451612903	36159840
+antineoplastic agents immunological/therapeutic use	cell line tumor	0.0638148667601683	34987517
+colitis/etiology	anti-bacterial agents/pharmacology	0.021505376344086023	34162429
+colitis/etiology	cytotoxicity immunologic	0.021505376344086023	34987517
+chemokines/metabolism	CTLA4	0.12903225806451613	32603654
+antineoplastic agents immunological/therapeutic use	gastritis/complications	0.03225806451612903	36377339
+antineoplastic agents immunological/therapeutic use	enterocolitis/chemically induced	0.0638148667601683	36377339
+drugs investigational/administration & dosage	PDCD1	0.2688172043010753	32540858
+colitis/etiology	CD8A	0.10518934081346423	34987517
+antineoplastic agents immunological/therapeutic use	cd8-positive t-lymphocytes/immunology	0.03225806451612903	34987517
+chemokines/metabolism	PDCD1	0.2688172043010753	32603654
+colitis/etiology	MTOR	0.021505376344086023	34987517
+antineoplastic agents immunological/therapeutic use	cytotoxicity immunologic	0.03225806451612903	34987517
+colitis/etiology	PDCD1	0.4675081813931744	34987517
+antineoplastic agents immunological/therapeutic use	BTLA	0.03225806451612903	36159840
+ctla-4 antigen/antagonists & inhibitors	antineoplastic agents immunological/adverse effects	0.01418707519689287	32567084
+ctla-4 antigen/antagonists & inhibitors	antineoplastic agents immunological/adverse effects	0.01418707519689287	32702598
+antineoplastic agents immunological/therapeutic use	CD274	0.41374474053295934	36159840
+antineoplastic agents immunological/therapeutic use	CD28	0.03225806451612903	36159840
+ctla-4 antigen/antagonists & inhibitors	cd8-positive t-lymphocytes/drug effects	0.0638148667601683	34147519
+antineoplastic agents immunological/therapeutic use	CD8A	0.15435476164788925	34987517
+antineoplastic agents immunological/therapeutic use	CSF2	0.03225806451612903	36159840
+ctla-4 antigen/antagonists & inhibitors	phenotype	0.0638148667601683	34147519
+immunosuppressive agents/pharmacology	mucositis/chemically induced	0.010752688172043012	32414860
+antineoplastic agents immunological/therapeutic use	HAVCR2	0.03225806451612903	36159840
+antineoplastic agents immunological/therapeutic use	IL15	0.03225806451612903	36159840
+antineoplastic agents immunological/therapeutic use	IL17C	0.03225806451612903	36159840
+antineoplastic agents immunological/therapeutic use	IL21	0.03225806451612903	36159840
+antineoplastic agents immunological/therapeutic use	IL22	0.0638148667601683	36159840
+antineoplastic agents immunological/therapeutic use	IL4	0.03225806451612903	36159840
+ctla-4 antigen/antagonists & inhibitors	CD274	0.41374474053295934	32702598
+antineoplastic agents immunological/therapeutic use	IL6	0.0638148667601683	36159840
+antineoplastic agents immunological/therapeutic use	LIF	0.03225806451612903	36159840
+ctla-4 antigen/antagonists & inhibitors	CD8A	0.15435476164788925	34147519
+antineoplastic agents immunological/therapeutic use	MTOR	0.03225806451612903	34987517
+antineoplastic agents immunological/therapeutic use	PDCD1	0.1749302590817317	36159840
+antineoplastic agents immunological/therapeutic use	PDCD1	0.1749302590817317	34987517
+ctla-4 antigen/antagonists & inhibitors	CTLA4	0.0016953593391181047	32567084
+ctla-4 antigen/antagonists & inhibitors	CTLA4	0.0016953593391181047	32702598
+ctla-4 antigen/antagonists & inhibitors	CTLA4	0.0016953593391181047	34147519
+ctla-4 antigen/antagonists & inhibitors	PDCD1	0.017724211272598368	32567084
+ctla-4 antigen/antagonists & inhibitors	PDCD1	0.017724211272598368	32702598
+ctla-4 antigen/antagonists & inhibitors	PDCD1	0.017724211272598368	34147519
+immune checkpoint inhibitors/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	34987517
+phenotype	CD4	0.04277699859747545	34338882
+phenotype	CD68	0.04277699859747545	34338882
+phenotype	CD8A	0.0023375409069658717	34338882
+phenotype	CD8A	0.0023375409069658717	34147519
+immune checkpoint inhibitors/therapeutic use	cell line tumor	0.04277699859747545	34987517
+phenotype	CTLA4	0.24263674614305747	34147519
+immune checkpoint inhibitors/therapeutic use	cd8-positive t-lymphocytes/immunology	0.021505376344086023	34987517
+phenotype	PDCD1	0.4675081813931744	34147519
+immune checkpoint inhibitors/therapeutic use	ipilimumab/therapeutic use	0.0638148667601683	32130969
+immune checkpoint inhibitors/therapeutic use	cytotoxicity immunologic	0.021505376344086023	34987517
+immune checkpoint inhibitors/therapeutic use	CD8A	0.10518934081346423	34987517
+immune checkpoint inhibitors/pharmacology	inflammatory bowel diseases	0.08461898083216456	32298485
+immune checkpoint inhibitors/pharmacology	programmed cell death 1 receptor/antagonists & inhibitors	0.30651754354419153	33506015
+immune checkpoint inhibitors/pharmacology	melanoma/complications	0.12485550914723427	32404733
+immune checkpoint inhibitors/therapeutic use	MTOR	0.021505376344086023	34987517
+immune checkpoint inhibitors/pharmacology	trinitrobenzenesulfonic acid/adverse effects	0.04301075268817204	33506015
+immune checkpoint inhibitors/therapeutic use	PDCD1	0.4675081813931744	34987517
+b7-h1 antigen/metabolism	CD274	0.16129032258064516	32298485
+immune checkpoint inhibitors/pharmacology	gastrointestinal tract/metabolism	0.04301075268817204	32298485
+immune checkpoint inhibitors/pharmacology	b7-h1 antigen/metabolism	0.04301075268817204	32298485
+b7-h1 antigen/metabolism	PDCD1	0.2688172043010753	32298485
+immune checkpoint inhibitors/pharmacology	ACAD8	0.08461898083216456	33506015
+leukocyte l1 antigen complex/analysis	biomarkers/analysis	0.010752688172043012	33436487
+immune checkpoint inhibitors/pharmacology	AHR	0.04301075268817204	35236743
+immune checkpoint inhibitors/pharmacology	CD274	0.5114539504441326	32298485
+inflammatory bowel diseases/complications	CD274	0.2980364656381486	34158318
+immune checkpoint inhibitors/pharmacology	IL22	0.08461898083216456	35236743
+multigene family	CTLA4	0.12903225806451613	32603654
+immune checkpoint inhibitors/pharmacology	PDCD1	0.05789909015715467	32298485
+immune checkpoint inhibitors/pharmacology	PDCD1	0.05789909015715467	32404733
+immune checkpoint inhibitors/pharmacology	PDCD1	0.05789909015715467	33506015
+inflammatory bowel diseases/complications	PDCD1	0.07012622720897614	32401685
+inflammatory bowel diseases/complications	PDCD1	0.07012622720897614	34158318
+hepatitis autoimmune/etiology	myasthenia gravis/chemically induced	0.010752688172043012	32130969
+multigene family	PDCD1	0.2688172043010753	32603654
+hepatitis autoimmune/etiology	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	32130969
+programmed cell death 1 receptor/antagonists & inhibitors	melanoma/complications	0.23886071852411256	32567084
+programmed cell death 1 receptor/antagonists & inhibitors	cell line tumor	0.1654978962131837	34987517
+programmed cell death 1 receptor/antagonists & inhibitors	trinitrobenzenesulfonic acid/adverse effects	0.08602150537634409	33506015
+programmed cell death 1 receptor/antagonists & inhibitors	ctla-4 antigen/antagonists & inhibitors	0.00043154601359369935	32567084
+programmed cell death 1 receptor/antagonists & inhibitors	ctla-4 antigen/antagonists & inhibitors	0.00043154601359369935	32702598
+programmed cell death 1 receptor/antagonists & inhibitors	ctla-4 antigen/antagonists & inhibitors	0.00043154601359369935	34147519
+programmed cell death 1 receptor/antagonists & inhibitors	cd8-positive t-lymphocytes/immunology	0.08602150537634409	34987517
+programmed cell death 1 receptor/antagonists & inhibitors	antineoplastic agents immunological/adverse effects	0.012719967331643009	32567084
+programmed cell death 1 receptor/antagonists & inhibitors	antineoplastic agents immunological/adverse effects	0.012719967331643009	32702598
+programmed cell death 1 receptor/antagonists & inhibitors	antineoplastic agents immunological/adverse effects	0.012719967331643009	33476895
+programmed cell death 1 receptor/antagonists & inhibitors	cd8-positive t-lymphocytes/drug effects	0.1654978962131837	34147519
+hepatitis autoimmune/etiology	ipilimumab/therapeutic use	0.03225806451612904	32130969
+poly(adp-ribose) polymerase inhibitors/administration & dosage	piperazines/administration & dosage	0.010752688172043012	33495297
+programmed cell death 1 receptor/antagonists & inhibitors	drugs investigational/administration & dosage	0.08602150537634409	32540858
+programmed cell death 1 receptor/antagonists & inhibitors	phenotype	0.1654978962131837	34147519
+poly(adp-ribose) polymerase inhibitors/administration & dosage	APC	0.021505376344086023	33495297
+poly(adp-ribose) polymerase inhibitors/administration & dosage	ARG1	0.010752688172043012	33495297
+programmed cell death 1 receptor/antagonists & inhibitors	cytotoxicity immunologic	0.08602150537634409	34987517
+programmed cell death 1 receptor/antagonists & inhibitors	ACAD8	0.1654978962131837	33506015
+programmed cell death 1 receptor/antagonists & inhibitors	CD274	0.11583310816838854	32540858
+programmed cell death 1 receptor/antagonists & inhibitors	CD274	0.11583310816838854	32702598
+programmed cell death 1 receptor/antagonists & inhibitors	CD274	0.11583310816838854	32960847
+programmed cell death 1 receptor/antagonists & inhibitors	CD8A	0.057175536728619906	34987517
+programmed cell death 1 receptor/antagonists & inhibitors	CD8A	0.057175536728619906	34147519
+rna	CTLA4	0.12903225806451613	35977003
+rna	CXCL10	0.010752688172043012	35977003
+programmed cell death 1 receptor/antagonists & inhibitors	CTLA4	0.06412845483493237	32567084
+programmed cell death 1 receptor/antagonists & inhibitors	CTLA4	0.06412845483493237	32702598
+programmed cell death 1 receptor/antagonists & inhibitors	CTLA4	0.06412845483493237	34147519
+rna	CXCL9	0.010752688172043012	35977003
+poly(adp-ribose) polymerase inhibitors/administration & dosage	PARP1	0.010752688172043012	33495297
+poly(adp-ribose) polymerase inhibitors/administration & dosage	PDCD1	0.2688172043010753	33495297
+poly(adp-ribose) polymerase inhibitors/administration & dosage	TIPARP	0.010752688172043012	33495297
+programmed cell death 1 receptor/antagonists & inhibitors	MTOR	0.08602150537634409	34987517
+gastritis/complications	enterocolitis/chemically induced	0.021505376344086023	36377339
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	34147519
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	32702598
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	32567084
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	32960847
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	32540858
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	34987517
+programmed cell death 1 receptor/antagonists & inhibitors	PDCD1	0.00033158579236400516	33506015
+programmed cell death 1 receptor/antagonists & inhibitors	SNCA	0.23886071852411256	33476895
+rna	PDCD1	0.2688172043010753	35977003
+drug-related side effects and adverse reactions	melanoma/complications	0.0638148667601683	32418993
+rna	TCIM	0.010752688172043012	35977003
+rna	TNF	0.03225806451612904	35977003
+drug-related side effects and adverse reactions	infliximab/administration & dosage	0.021505376344086023	32418993
+piperidines/therapeutic use	programmed cell death 1 receptor/antagonists & inhibitors	0.16549789621318373	34147519
+drug-related side effects and adverse reactions	ACAD8	0.04277699859747545	32418993
+drug-related side effects and adverse reactions	CRP	0.021505376344086023	32418993
+piperidines/therapeutic use	ctla-4 antigen/antagonists & inhibitors	0.0638148667601683	34147519
+drug-related side effects and adverse reactions	TNF	0.0638148667601683	32162824
+infliximab/administration & dosage	ACAD8	0.021505376344086023	32418993
+piperazines/administration & dosage	APC	0.021505376344086023	33495297
+piperazines/administration & dosage	ARG1	0.010752688172043012	33495297
+infliximab/administration & dosage	CRP	0.010752688172043012	32418993
+piperidines/therapeutic use	cd8-positive t-lymphocytes/drug effects	0.04277699859747545	34147519
+piperidines/therapeutic use	phenotype	0.04277699859747545	34147519
+gastrointestinal neoplasms/drug therapy	BTLA	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	CD274	0.16129032258064516	36159840
+piperidines/therapeutic use	CD8A	0.10518934081346423	34147519
+gastrointestinal neoplasms/drug therapy	CD28	0.010752688172043012	36159840
+piperazines/administration & dosage	PARP1	0.010752688172043012	33495297
+piperazines/administration & dosage	PDCD1	0.2688172043010753	33495297
+gastrointestinal neoplasms/drug therapy	CSF2	0.010752688172043012	36159840
+piperidines/therapeutic use	CTLA4	0.24263674614305747	34147519
+piperazines/administration & dosage	TIPARP	0.010752688172043012	33495297
+gastrointestinal neoplasms/drug therapy	HAVCR2	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	IL15	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	IL17C	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	IL21	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	IL22	0.021505376344086023	36159840
+gastrointestinal neoplasms/drug therapy	IL4	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	IL6	0.021505376344086023	36159840
+gastrointestinal neoplasms/drug therapy	LIF	0.010752688172043012	36159840
+gastrointestinal neoplasms/drug therapy	PDCD1	0.2688172043010753	36159840
+piperidines/therapeutic use	PDCD1	0.4675081813931744	34147519
+lymphocytes tumor-infiltrating/immunology	colitis/etiology	0.021505376344086023	34987517
+lymphocytes tumor-infiltrating/immunology	immune checkpoint inhibitors/therapeutic use	0.021505376344086023	34987517
+lymphocytes tumor-infiltrating/immunology	programmed cell death 1 receptor/antagonists & inhibitors	0.08602150537634409	34987517
+lymphocytes tumor-infiltrating/immunology	cell line tumor	0.021505376344086023	34987517
+ligands	CD274	0.16129032258064516	35432346
+ligands	CTLA4	0.12903225806451613	35432346
+cytotoxicity immunologic	CD8A	0.05376344086021506	34987517
+lymphocytes tumor-infiltrating/immunology	cd8-positive t-lymphocytes/immunology	0.010752688172043012	34987517
+ligands	PDCD1	0.2688172043010753	35432346
+cytotoxicity immunologic	MTOR	0.010752688172043012	34987517
+cytotoxicity immunologic	PDCD1	0.2688172043010753	34987517
+lung neoplasms	steroids/therapeutic use	0.021505376344086023	31864555
+lymphocytes tumor-infiltrating/immunology	cytotoxicity immunologic	0.010752688172043012	34987517
+lymphocytes tumor-infiltrating/immunology	CD8A	0.05376344086021506	34987517
+lymphocytes tumor-infiltrating/immunology	MTOR	0.010752688172043012	34987517
+lymphocytes tumor-infiltrating/immunology	PDCD1	0.2688172043010753	34987517
+ACAD8	CRP	0.021505376344086023	32418993
+ACAD8	PDCD1	0.4675081813931744	33506015
+graft vs host disease/immunology	cd8-positive t-lymphocytes/drug effects	0.021505376344086023	34338882
+graft vs host disease/immunology	phenotype	0.021505376344086023	34338882
+graft vs host disease/immunology	CD4	0.021505376344086023	34338882
+graft vs host disease/immunology	CD68	0.021505376344086023	34338882
+graft vs host disease/immunology	CD8A	0.05376344086021506	34338882
+AHR	IL22	0.021505376344086023	35236743
+APC	ARG1	0.021505376344086023	33495297
+APC	CD274	0.2980364656381486	33462141
+APC	CD8A	0.10518934081346423	33462141
+gastrointestinal tract/metabolism	b7-h1 antigen/metabolism	0.010752688172043012	32298485
+APC	IL17A	0.04277699859747545	33462141
+gastrointestinal tract/metabolism	CD274	0.16129032258064516	32298485
+APC	MIR15B	0.021505376344086023	33462141
+APC	NRF1	0.021505376344086023	33462141
+APC	PARP1	0.021505376344086023	33495297
+APC	PDCD1	0.07012622720897614	33495297
+APC	PDCD1	0.07012622720897614	33462141
+APC	TIPARP	0.021505376344086023	33495297
+gastrointestinal tract/metabolism	PDCD1	0.2688172043010753	32298485
+ARG1	PARP1	0.010752688172043012	33495297
+ARG1	PDCD1	0.2688172043010753	33495297
+ARG1	TIPARP	0.010752688172043012	33495297
+BTLA	CD274	0.16129032258064516	36159840
+cd8-positive t-lymphocytes/immunology	cytotoxicity immunologic	0.010752688172043012	34987517
+BTLA	CD28	0.010752688172043012	36159840
+BTLA	CSF2	0.010752688172043012	36159840
+BTLA	HAVCR2	0.010752688172043012	36159840
+cd8-positive t-lymphocytes/immunology	CD8A	0.05376344086021506	34987517
+BTLA	IL15	0.010752688172043012	36159840
+BTLA	IL17C	0.010752688172043012	36159840
+BTLA	IL21	0.010752688172043012	36159840
+BTLA	IL22	0.021505376344086023	36159840
+BTLA	IL4	0.010752688172043012	36159840
+BTLA	IL6	0.021505376344086023	36159840
+BTLA	LIF	0.010752688172043012	36159840
+cd8-positive t-lymphocytes/immunology	MTOR	0.010752688172043012	34987517
+BTLA	PDCD1	0.2688172043010753	36159840
+cd8-positive t-lymphocytes/immunology	PDCD1	0.2688172043010753	34987517
+CD274	CD28	0.16129032258064516	36159840
+CD274	CD4	0.2980364656381486	33555016
+CD274	CD68	0.2980364656381486	33555016
+CD274	CD8A	0.18209706310309867	33555016
+CD274	CD8A	0.18209706310309867	33462141
+CD274	CSF2	0.16129032258064516	36159840
+CD274	CTLA4	0.00034907784548984946	34992611
+CD274	CTLA4	0.00034907784548984946	32702598
+CD274	CTLA4	0.00034907784548984946	33555016
+CD274	CTLA4	0.00034907784548984946	35917654
+CD274	CTLA4	0.00034907784548984946	35432346
+CD274	CTLA4	0.00034907784548984946	32934876
+CD274	CTLA4	0.00034907784548984946	33314269
+CD274	HAVCR2	0.16129032258064516	36159840
+CD274	IL15	0.16129032258064516	36159840
+CD274	IL17A	0.2980364656381486	33462141
+CD274	IL17C	0.16129032258064516	36159840
+CD274	IL21	0.16129032258064516	36159840
+CD274	IL22	0.2980364656381486	36159840
+CD274	IL4	0.16129032258064516	36159840
+CD274	IL6	0.2980364656381486	36159840
+CD274	LIF	0.16129032258064516	36159840
+CD274	MIR15B	0.16129032258064516	33462141
+CD274	NRF1	0.16129032258064516	33462141
+CD274	PDCD1	1.555727321934218e-07	36159840
+CD274	PDCD1	1.555727321934218e-07	34992611
+CD274	PDCD1	1.555727321934218e-07	32702598
+CD274	PDCD1	1.555727321934218e-07	33555016
+CD274	PDCD1	1.555727321934218e-07	33173388
+CD274	PDCD1	1.555727321934218e-07	33462141
+CD274	PDCD1	1.555727321934218e-07	34158318
+CD274	PDCD1	1.555727321934218e-07	32960847
+CD274	PDCD1	1.555727321934218e-07	32298485
+CD274	PDCD1	1.555727321934218e-07	35917654
+CD274	PDCD1	1.555727321934218e-07	32540858
+CD274	PDCD1	1.555727321934218e-07	33314269
+CD274	PDCD1	1.555727321934218e-07	35432346
+CD274	SNCA	0.41374474053295934	32934876
+CD28	CSF2	0.010752688172043012	36159840
+CD28	HAVCR2	0.010752688172043012	36159840
+CD28	IL15	0.010752688172043012	36159840
+CD28	IL17C	0.010752688172043012	36159840
+CD28	IL21	0.010752688172043012	36159840
+CD28	IL22	0.021505376344086023	36159840
+CD28	IL4	0.010752688172043012	36159840
+CD28	IL6	0.021505376344086023	36159840
+CD28	LIF	0.010752688172043012	36159840
+CD28	PDCD1	0.2688172043010753	36159840
+CD4	CD68	0.00023375409069658717	33555016
+CD4	CD68	0.00023375409069658717	34338882
+CD4	CD8A	0.0023375409069658717	33555016
+CD4	CD8A	0.0023375409069658717	34338882
+CD4	CTLA4	0.24263674614305747	33555016
+CD4	PDCD1	0.4675081813931744	33555016
+CD68	CD8A	0.0023375409069658717	33555016
+CD68	CD8A	0.0023375409069658717	34338882
+CD68	CTLA4	0.24263674614305747	33555016
+antineoplastic agents immunological/adverse effects	anti-bacterial agents/pharmacology	0.07526881720430108	34162429
+CD68	PDCD1	0.4675081813931744	33555016
+antineoplastic agents immunological/adverse effects	CD274	0.7211307358281716	32702598
+CD8A	CTLA4	0.12285259534577969	33555016
+CD8A	CTLA4	0.12285259534577969	34147519
+antineoplastic agents immunological/adverse effects	CTLA4	0.2218711231553488	32567084
+antineoplastic agents immunological/adverse effects	CTLA4	0.2218711231553488	32702598
+CD8A	IL17A	0.10518934081346423	33462141
+CD8A	MIR15B	0.05376344086021506	33462141
+CD8A	MTOR	0.05376344086021506	34987517
+antineoplastic agents immunological/adverse effects	PDCD1	0.6088320464631765	32567084
+antineoplastic agents immunological/adverse effects	PDCD1	0.6088320464631765	32702598
+CD8A	NRF1	0.05376344086021506	33462141
+antineoplastic agents immunological/adverse effects	SNCA	0.2113496601575143	33476895
+CD8A	PDCD1	0.017573743561420264	33555016
+CD8A	PDCD1	0.017573743561420264	34147519
+CD8A	PDCD1	0.017573743561420264	34987517
+CD8A	PDCD1	0.017573743561420264	33462141
+CHI3L1	CXCL8	0.010752688172043012	36096534
+CHI3L1	IL17A	0.021505376344086023	36096534
+CHI3L1	IL6	0.021505376344086023	36096534
+CSF2	HAVCR2	0.010752688172043012	36159840
+CSF2	IL15	0.010752688172043012	36159840
+CSF2	IL17C	0.010752688172043012	36159840
+CSF2	IL21	0.010752688172043012	36159840
+CSF2	IL22	0.021505376344086023	36159840
+CSF2	IL4	0.010752688172043012	36159840
+CSF2	IL6	0.021505376344086023	36159840
+CSF2	LIF	0.010752688172043012	36159840
+CSF2	PDCD1	0.2688172043010753	36159840
+CTLA4	CXCL10	0.12903225806451613	35977003
+CTLA4	CXCL9	0.12903225806451613	35977003
+CTLA4	PDCD1	7.400826146728449e-07	34992611
+CTLA4	PDCD1	7.400826146728449e-07	32702598
+CTLA4	PDCD1	7.400826146728449e-07	32603654
+CTLA4	PDCD1	7.400826146728449e-07	33555016
+CTLA4	PDCD1	7.400826146728449e-07	35977003
+CTLA4	PDCD1	7.400826146728449e-07	32567084
+CTLA4	PDCD1	7.400826146728449e-07	35917654
+CTLA4	PDCD1	7.400826146728449e-07	35191192
+CTLA4	PDCD1	7.400826146728449e-07	35432346
+CTLA4	PDCD1	7.400826146728449e-07	33314269
+CTLA4	PDCD1	7.400826146728449e-07	34147519
+CTLA4	SNCA	0.34250882357474227	32934876
+CTLA4	TCIM	0.12903225806451613	35977003
+CTLA4	TNF	0.34250882357474227	35977003
+CXCL10	CXCL9	0.010752688172043012	35977003
+CXCL10	PDCD1	0.2688172043010753	35977003
+CXCL10	TCIM	0.010752688172043012	35977003
+CXCL10	TNF	0.03225806451612904	35977003
+CXCL8	IL17A	0.021505376344086023	36096534
+CXCL8	IL6	0.021505376344086023	36096534
+CXCL9	PDCD1	0.2688172043010753	35977003
+CXCL9	TCIM	0.010752688172043012	35977003
+CXCL9	TNF	0.03225806451612904	35977003
+HAVCR2	IL15	0.010752688172043012	36159840
+HAVCR2	IL17C	0.010752688172043012	36159840
+HAVCR2	IL21	0.010752688172043012	36159840
+HAVCR2	IL22	0.021505376344086023	36159840
+HAVCR2	IL4	0.010752688172043012	36159840
+HAVCR2	IL6	0.021505376344086023	36159840
+HAVCR2	LIF	0.010752688172043012	36159840
+HAVCR2	PDCD1	0.2688172043010753	36159840
+IL15	IL17C	0.010752688172043012	36159840
+IL15	IL21	0.010752688172043012	36159840
+IL15	IL22	0.021505376344086023	36159840
+IL15	IL4	0.010752688172043012	36159840
+IL15	IL6	0.021505376344086023	36159840
+IL15	LIF	0.010752688172043012	36159840
+IL15	PDCD1	0.2688172043010753	36159840
+IL17A	IL6	0.04277699859747545	36096534
+IL17A	MIR15B	0.021505376344086023	33462141
+IL17A	NRF1	0.021505376344086023	33462141
+IL17A	PDCD1	0.4675081813931744	33462141
+IL17C	IL21	0.010752688172043012	36159840
+IL17C	IL22	0.021505376344086023	36159840
+IL17C	IL4	0.010752688172043012	36159840
+IL17C	IL6	0.021505376344086023	36159840
+IL17C	LIF	0.010752688172043012	36159840
+IL17C	PDCD1	0.2688172043010753	36159840
+IL21	IL22	0.021505376344086023	36159840
+IL21	IL4	0.010752688172043012	36159840
+IL21	IL6	0.021505376344086023	36159840
+IL21	LIF	0.010752688172043012	36159840
+IL21	PDCD1	0.2688172043010753	36159840
+IL22	IL4	0.021505376344086023	36159840
+IL22	IL6	0.04277699859747545	36159840
+IL22	LIF	0.021505376344086023	36159840
+IL22	PDCD1	0.4675081813931744	36159840
+IL4	IL6	0.021505376344086023	36159840
+IL4	LIF	0.010752688172043012	36159840
+IL4	PDCD1	0.2688172043010753	36159840
+IL6	LIF	0.021505376344086023	36159840
+IL6	PDCD1	0.4675081813931744	36159840
+LIF	PDCD1	0.2688172043010753	36159840
+MIR15B	NRF1	0.010752688172043012	33462141
+MIR15B	PDCD1	0.2688172043010753	33462141
+MTOR	PDCD1	0.2688172043010753	34987517
+NRF1	PDCD1	0.2688172043010753	33462141
+PARP1	PDCD1	0.2688172043010753	33495297
+PARP1	TIPARP	0.010752688172043012	33495297
+PDCD1	TCIM	0.2688172043010753	35977003
+PDCD1	TIPARP	0.2688172043010753	33495297
+PDCD1	TNF	0.613797142548896	35977003
+SNCA	TNF	0.09467811291093199	32641348
+TCIM	TNF	0.03225806451612904	35977003

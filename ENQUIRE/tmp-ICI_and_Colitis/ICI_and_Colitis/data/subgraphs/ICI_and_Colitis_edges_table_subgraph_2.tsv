@@ -1,0 +1,22 @@
+kw1	kw2	inv_edge_weight	pg	iteration	R1C1	edge_weight	crit_p
+antibodies monoclonal humanized/adverse effects	myasthenia gravis/diagnosis	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+antibodies monoclonal humanized/adverse effects	immunosuppressive agents/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+antibodies monoclonal humanized/adverse effects	skin neoplasms/immunology	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+antibodies monoclonal humanized/adverse effects	melanoma/immunology	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+antibodies monoclonal humanized/adverse effects	immunocompromised host	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+antibodies monoclonal humanized/adverse effects	prednisone/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+immunocompromised host	myasthenia gravis/diagnosis	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+immunocompromised host	immunosuppressive agents/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+immunocompromised host	skin neoplasms/immunology	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+immunocompromised host	melanoma/immunology	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+immunocompromised host	prednisone/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+melanoma/immunology	myasthenia gravis/diagnosis	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+melanoma/immunology	immunosuppressive agents/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+melanoma/immunology	skin neoplasms/immunology	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+melanoma/immunology	prednisone/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+prednisone/therapeutic use	myasthenia gravis/diagnosis	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+prednisone/therapeutic use	immunosuppressive agents/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+prednisone/therapeutic use	skin neoplasms/immunology	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+skin neoplasms/immunology	myasthenia gravis/diagnosis	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+skin neoplasms/immunology	immunosuppressive agents/therapeutic use	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+immunosuppressive agents/therapeutic use	myasthenia gravis/diagnosis	0.8301902991225216	0.0	0	1	0.010752688172043	0.0

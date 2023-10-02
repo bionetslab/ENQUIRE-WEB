@@ -1,0 +1,4 @@
+kw1	kw2	inv_edge_weight	pg	iteration	R1C1	edge_weight	crit_p
+antibodies monoclonal humanized	neoplasm recurrence local/drug therapy	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+antibodies monoclonal humanized	endometrial neoplasms/drug therapy	0.8301902991225216	0.0	0	1	0.010752688172043	0.0
+endometrial neoplasms/drug therapy	neoplasm recurrence local/drug therapy	0.8301902991225216	0.0	0	1	0.010752688172043	0.0

@@ -1,0 +1,246 @@
+"entity"	"membership"
+"abdominal pain/chemically induced"	1
+"antineoplastic agents immunological/therapeutic use"	1
+"colitis ulcerative/physiopathology"	1
+"crohn disease/physiopathology"	1
+"disease progression"	1
+"enterocolitis/chemically induced"	1
+"gastritis/complications"	1
+"glucocorticoids/therapeutic use"	1
+"ACAD8"	2
+"AHR"	2
+"antibodies monoclonal humanized/administration & dosage"	2
+"b7-h1 antigen/metabolism"	2
+"carcinoma non-small-cell lung/complications"	2
+"carcinoma non-small-cell lung/drug therapy"	2
+"colitis collagenous/drug therapy"	2
+"colitis/diagnosis"	2
+"CRP"	2
+"disease susceptibility"	2
+"dose-response relationship drug"	2
+"drug-related side effects and adverse reactions"	2
+"drugs investigational/administration & dosage"	2
+"feces"	2
+"gastrointestinal tract/metabolism"	2
+"immune checkpoint inhibitors/administration & dosage"	2
+"immune checkpoint inhibitors/pharmacology"	2
+"inflammatory bowel diseases"	2
+"infliximab/administration & dosage"	2
+"melanoma/complications"	2
+"mesalamine/pharmacology"	2
+"neoplasms/diagnosis"	2
+"pneumonia/chemically induced"	2
+"postoperative complications"	2
+"programmed cell death 1 receptor/metabolism"	2
+"protective agents/pharmacology"	2
+"skin neoplasms/complications"	2
+"steroids/therapeutic use"	2
+"trinitrobenzenesulfonic acid/adverse effects"	2
+"tryptophan/pharmacology"	2
+"urothelium/drug effects"	2
+"adenocarcinoma of lung/drug therapy"	3
+"anti-bacterial agents/pharmacology"	3
+"antibodies monoclonal/adverse effects"	3
+"antineoplastic agents immunological/adverse effects"	3
+"b7-h1 antigen/antagonists & inhibitors"	3
+"biomarkers/metabolism"	3
+"CD274"	3
+"colitis/epidemiology"	3
+"ctla-4 antigen/antagonists & inhibitors"	3
+"CTLA4"	3
+"dysbiosis/etiology"	3
+"glycoproteins/metabolism"	3
+"host microbial interactions/drug effects"	3
+"lymphocytes/drug effects"	3
+"metabolome/drug effects"	3
+"neoplasms/complications"	3
+"neutrophils/drug effects"	3
+"PDCD1"	3
+"programmed cell death 1 receptor/antagonists & inhibitors"	3
+"vitamin d/administration & dosage"	3
+"adrenal cortex hormones/therapeutic use"	4
+"anti-bacterial agents/adverse effects"	4
+"beclomethasone/adverse effects"	4
+"biological products/therapeutic use"	4
+"biomarkers/analysis"	4
+"clostridium infections/chemically induced"	4
+"colitis ulcerative/chemically induced"	4
+"colitis/chemically induced"	4
+"colon/immunology"	4
+"diarrhea/chemically induced"	4
+"drug-related side effects and adverse reactions/diagnosis"	4
+"escherichia coli infections/drug therapy"	4
+"feces/chemistry"	4
+"hashimoto disease/chemically induced"	4
+"immune checkpoint inhibitors/adverse effects"	4
+"intestinal mucosa/immunology"	4
+"ipilimumab/adverse effects"	4
+"leukocyte l1 antigen complex/analysis"	4
+"lung neoplasms/drug therapy"	4
+"neoplasms/drug therapy"	4
+"nivolumab/adverse effects"	4
+"paclitaxel/therapeutic use"	4
+"prednisolone/therapeutic use"	4
+"protein kinase inhibitors/therapeutic use"	4
+"SNCA"	4
+"squamous cell carcinoma of head and neck/drug therapy"	4
+"t-lymphocyte subsets/immunology"	4
+"tongue neoplasms/drug therapy"	4
+"virus diseases/etiology"	4
+"adrenal gland diseases/diagnostic imaging"	5
+"colitis/diagnostic imaging"	5
+"encephalitis/diagnostic imaging"	5
+"hepatitis/diagnostic imaging"	5
+"myocarditis/diagnostic imaging"	5
+"neoplasms/diagnostic imaging"	5
+"pancreatitis/diagnostic imaging"	5
+"pericarditis/diagnostic imaging"	5
+"pneumonia/diagnostic imaging"	5
+"sarcoidosis/diagnostic imaging"	5
+"thyroiditis/diagnostic imaging"	5
+"adrenal insufficiency/chemically induced"	6
+"angiogenesis inhibitors/therapeutic use"	6
+"axitinib/administration & dosage"	6
+"bevacizumab/administration & dosage"	6
+"carcinoma renal cell/drug therapy"	6
+"diabetes mellitus type 1/chemically induced"	6
+"exanthema/chemically induced"	6
+"fatigue/chemically induced"	6
+"hepatitis autoimmune/etiology"	6
+"hypophysitis/chemically induced"	6
+"inflammatory bowel diseases/drug therapy"	6
+"ipilimumab/therapeutic use"	6
+"myasthenia gravis/chemically induced"	6
+"myocarditis/chemically induced"	6
+"nephritis/chemically induced"	6
+"nivolumab/therapeutic use"	6
+"proton pump inhibitors/adverse effects"	6
+"pruritus/chemically induced"	6
+"antibodies monoclonal humanized"	7
+"endometrial neoplasms/drug therapy"	7
+"neoplasm recurrence local/drug therapy"	7
+"antibodies monoclonal humanized/adverse effects"	8
+"immunocompromised host"	8
+"immunosuppressive agents/therapeutic use"	8
+"melanoma/immunology"	8
+"myasthenia gravis/diagnosis"	8
+"prednisone/therapeutic use"	8
+"skin neoplasms/immunology"	8
+"antibodies monoclonal humanized/therapeutic use"	9
+"colon/diagnostic imaging"	9
+"CXCL10"	9
+"CXCL9"	9
+"dermatitis"	9
+"drug resistance/immunology"	9
+"glucocorticoids/pharmacology"	9
+"immunosuppressive agents/pharmacology"	9
+"infliximab/adverse effects"	9
+"intestinal mucosa/diagnostic imaging"	9
+"melanoma/drug therapy"	9
+"mucositis/chemically induced"	9
+"psoriasis"	9
+"rna"	9
+"skin neoplasms/drug therapy"	9
+"steroids/adverse effects"	9
+"TCIM"	9
+"TNF"	9
+"tumor necrosis factor inhibitors"	9
+"APC"	10
+"b7-h1 antigen/genetics"	10
+"colorectal neoplasms/drug therapy"	10
+"gene expression regulation neoplastic"	10
+"ht29 cells"	10
+"IL17A"	10
+"interleukin-17/genetics"	10
+"lymphocytes tumor-infiltrating/metabolism"	10
+"micrornas/genetics"	10
+"MIR15B"	10
+"NRF1"	10
+"t-lymphocytes cytotoxic/immunology"	10
+"tumor microenvironment/drug effects"	10
+"ARG1"	11
+"azoxymethane/adverse effects"	11
+"cd8-positive t-lymphocytes/immunology"	11
+"cell line tumor"	11
+"colitis/etiology"	11
+"colonic neoplasms/drug therapy"	11
+"cytotoxicity immunologic"	11
+"dextran sulfate/adverse effects"	11
+"drug synergism"	11
+"drug-related side effects and adverse reactions/prevention & control"	11
+"growth inhibitors/therapeutic use"	11
+"immune checkpoint inhibitors/therapeutic use"	11
+"lymphocytes tumor-infiltrating/immunology"	11
+"MTOR"	11
+"myeloid-derived suppressor cells/metabolism"	11
+"PARP1"	11
+"phosphatidylinositol 3-kinases/metabolism"	11
+"phthalazines/administration & dosage"	11
+"piperazines/administration & dosage"	11
+"poly(adp-ribose) polymerase inhibitors/administration & dosage"	11
+"sirolimus/therapeutic use"	11
+"TIPARP"	11
+"arthritis/chemically induced"	12
+"BTLA"	12
+"CD28"	12
+"CHI3L1"	12
+"CSF2"	12
+"CXCL8"	12
+"gastrointestinal neoplasms/drug therapy"	12
+"glucocorticoids"	12
+"HAVCR2"	12
+"IL15"	12
+"IL17C"	12
+"IL21"	12
+"IL22"	12
+"IL4"	12
+"IL6"	12
+"immune system diseases/drug therapy"	12
+"LIF"	12
+"carcinoma non-small-cell lung"	13
+"cd8-positive t-lymphocytes"	13
+"colitis"	13
+"colitis/therapy"	13
+"diarrhea"	13
+"diarrhea/therapy"	13
+"esophagitis"	13
+"immune checkpoint inhibitors"	13
+"immunologic factors"	13
+"ligands"	13
+"LTF"	13
+"neoplasms"	13
+"neoplasms/therapy"	13
+"pneumonia"	13
+"recurrence"	13
+"ulcer/chemically induced"	13
+"CD4"	14
+"CD68"	14
+"cd8-positive t-lymphocytes/drug effects"	14
+"CD8A"	14
+"colitis ulcerative/immunology"	14
+"colon/drug effects"	14
+"crohn disease/immunology"	14
+"graft vs host disease/immunology"	14
+"immunologic memory/drug effects"	14
+"interferon-gamma/metabolism"	14
+"macrophages/drug effects"	14
+"phenotype"	14
+"piperidines/therapeutic use"	14
+"pyrimidines/therapeutic use"	14
+"cd8-positive t-lymphocytes/cytology"	15
+"chemokines/metabolism"	15
+"colitis/drug therapy"	15
+"ctla-4 antigen/immunology"	15
+"gene expression regulation/genetics"	15
+"inflammation/drug therapy"	15
+"melanoma/genetics"	15
+"multigene family"	15
+"myeloid cells/cytology"	15
+"receptors antigen t-cell/genetics"	15
+"receptors cxcr3/genetics"	15
+"receptors cxcr6/genetics"	15
+"t-lymphocytes regulatory/cytology"	15
+"colitis ulcerative/drug therapy"	16
+"interleukin-12/antagonists & inhibitors"	16
+"interleukin-23/antagonists & inhibitors"	16
+"ustekinumab/therapeutic use"	16

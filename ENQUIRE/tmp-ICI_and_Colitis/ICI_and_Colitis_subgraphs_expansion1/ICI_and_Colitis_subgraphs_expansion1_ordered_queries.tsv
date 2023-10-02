@@ -1,0 +1,49 @@
+c1	c2	weight	query
+1	13	4.52303295293547	diarrhea/chemically induced_intestinal mucosa/immunology_neoplasms/drug therapy_protein kinase inhibitors/therapeutic use
+1	13	4.4867810373241	colon/immunology_diarrhea/chemically induced_neoplasms/drug therapy_protein kinase inhibitors/therapeutic use
+1	2	4.56941567171883	diarrhea/chemically induced_intestinal mucosa/immunology_neoplasms/drug therapy_tryptophan/pharmacology
+1	2	4.53316375610746	colon/immunology_diarrhea/chemically induced_neoplasms/drug therapy_tryptophan/pharmacology
+1	4	4.12981355315274	biomarkers/analysis_diarrhea/chemically induced_feces/chemistry_neoplasms/drug therapy
+1	4	3.41448472571958	antineoplastic agents/adverse effects_biomarkers/analysis_diarrhea/chemically induced_neoplasms/drug therapy
+1	7	4.58815331490305	diarrhea/chemically induced_feces/chemistry_LTF_neoplasms/drug therapy
+1	7	4.55277056518837	beclomethasone/adverse effects_diarrhea/chemically induced_LTF_neoplasms/drug therapy
+1	8	3.52256808001362	colitis/drug therapy_diarrhea/therapy_feces/chemistry_neoplasms/therapy
+1	8	3.46113824933101	colitis/drug therapy_diarrhea/therapy_feces/chemistry_leukocyte l1 antigen complex/analysis
+10	11	2.05176709379988	APC_ARG1_azoxymethane/adverse effects_colonic neoplasms/drug therapy
+10	11	1.79284707768993	APC_ARG1_b7-h1 antigen/genetics_colorectal neoplasms/drug therapy
+10	12	2.71489304316258	arthritis/chemically induced_CHI3L1_CXCL8_IL17A
+10	12	2.11367955085649	arthritis/chemically induced_CHI3L1_IL17A_IL6
+10	2	2.04284044488751	APC_b7-h1 antigen/genetics_colorectal neoplasms/drug therapy_immune checkpoint inhibitors/administration & dosage
+11	3	2.48198686130561	anti-bacterial agents/pharmacology_colitis/etiology_dysbiosis/etiology_host microbial interactions/drug effects
+11	3	2.43492415066156	anti-bacterial agents/pharmacology_colitis/etiology_dysbiosis/etiology_neoplasms/complications
+12	2	2.56330699738226	AHR_BTLA_IL22_tryptophan/pharmacology
+12	2	2.50848174743647	AHR_IL22_immune checkpoint inhibitors/pharmacology_tryptophan/pharmacology
+12	6	2.67204259219842	arthritis/chemically induced_CHI3L1_CXCL8_nivolumab/therapeutic use
+12	6	2.07082909989233	arthritis/chemically induced_CHI3L1_IL6_nivolumab/therapeutic use
+13	2	3.15297870558866	colon/drug effects_mesalamine/pharmacology_protective agents/pharmacology_trinitrobenzenesulfonic acid/adverse effects
+13	2	2.81011508634526	cd8-positive t-lymphocytes/drug effects_colitis ulcerative/immunology_colon/drug effects_mesalamine/pharmacology
+13	3	3.68049494919657	lung neoplasms/drug therapy_nivolumab/adverse effects_prednisolone/therapeutic use_protein kinase inhibitors/therapeutic use
+13	3	3.27562979258876	antineoplastic agents immunological/adverse effects_ctla-4 antigen/antagonists & inhibitors_immunologic memory/drug effects_programmed cell death 1 receptor/antagonists & inhibitors
+13	6	2.98249838945977	CD4_CD68_CD8A_inflammatory bowel diseases/drug therapy
+13	6	2.54941828886189	CD4_CD68_crohn disease/immunology_inflammatory bowel diseases/drug therapy
+2	3	3.9805337816721	lung neoplasms/drug therapy_nivolumab/adverse effects_postoperative complications_prednisolone/therapeutic use
+2	3	3.80054747873289	disease susceptibility_lung neoplasms/drug therapy_nivolumab/adverse effects_postoperative complications
+2	4	2.9538495802502	b7-h1 antigen/metabolism_gastrointestinal tract/metabolism_inflammatory bowel diseases_recurrence
+2	4	2.65171744088686	b7-h1 antigen/metabolism_colitis/diagnosis_inflammatory bowel diseases_recurrence
+2	6	3.1037786478357	dose-response relationship drug_feces_pneumonia/chemically induced_steroids/therapeutic use
+2	6	3.01813345779168	antibodies monoclonal humanized/administration & dosage_drugs investigational/administration & dosage_neoplasms/diagnosis_pneumonia/chemically induced
+2	7	3.75231640951651	colitis_inflammatory bowel diseases_ligands_pneumonia
+2	7	3.46622164375883	colitis_diarrhea_inflammatory bowel diseases_ligands
+3	4	2.12552915798242	adrenal cortex hormones/therapeutic use_antineoplastic agents/adverse effects_apoptosis/drug effects_SNCA
+3	6	24.9656618796091	CD274_CTLA4_inflammatory bowel diseases/drug therapy_PDCD1
+3	6	10.5799890622376	ctla-4 antigen/antagonists & inhibitors_CTLA4_inflammatory bowel diseases/drug therapy_PDCD1
+3	7	4.35637671747377	carcinoma non-small-cell lung_cd8-positive t-lymphocytes_immune checkpoint inhibitors_prednisolone/therapeutic use
+3	7	4.1947320260474	carcinoma non-small-cell lung_esophagitis_immune checkpoint inhibitors_prednisolone/therapeutic use
+4	7	3.59063177217638	colitis_ligands_pneumonia_recurrence
+4	7	3.3045370064187	colitis_diarrhea_ligands_recurrence
+4	8	1.97178854553979	antineoplastic agents/adverse effects_apoptosis/drug effects_biomarkers/analysis_colitis/drug therapy
+4	8	1.73891026263177	adrenal cortex hormones/therapeutic use_antineoplastic agents/adverse effects_apoptosis/drug effects_inflammation/drug therapy
+6	7	3.71789012551584	colitis_inflammatory bowel diseases/drug therapy_ligands_pneumonia
+6	7	3.27015066833178	colitis_diarrhea_inflammatory bowel diseases/drug therapy_ligands
+7	8	4.17125077488216	carcinoma non-small-cell lung_cd8-positive t-lymphocytes_immune checkpoint inhibitors_neoplasms/therapy
+7	8	4.00960608345578	carcinoma non-small-cell lung_esophagitis_immune checkpoint inhibitors_neoplasms/therapy

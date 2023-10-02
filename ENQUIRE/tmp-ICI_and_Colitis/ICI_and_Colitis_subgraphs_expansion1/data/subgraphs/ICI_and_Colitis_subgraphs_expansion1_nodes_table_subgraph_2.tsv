@@ -1,0 +1,8 @@
+entity	category	node_weight	occurrence
+skin neoplasms/immunology	MESH	0.010752688172043	1
+immunocompromised host	MESH	0.010752688172043	1
+melanoma/immunology	MESH	0.010752688172043	1
+immunosuppressive agents/therapeutic use	MESH	0.010752688172043	1
+antibodies monoclonal humanized/adverse effects	MESH	0.010752688172043	1
+prednisone/therapeutic use	MESH	0.010752688172043	1
+myasthenia gravis/diagnosis	MESH	0.010752688172043	1
